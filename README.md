@@ -149,7 +149,13 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-
+| Nombre                           | Descripción                                                                                                                                   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Lopez Roman, Franco Mauricio <br> <img src="Images/" width="150"/>|[texto]. |
+| Agama Espinoza, Eric Fabrizio <br> <img src="Images/" width="150"/> | [texto].              |             |
+| Millones Espinoza, Jesus Andres <br> <img src="Images/" width="150"/>      | [texto]. |
+| Santos Torres, Juan Manuel <br> <img src="Images/" width="150"/>      | [texto]. |
+| Trillo Hernandez, Anghel Melanie <br> <img src="Images/" width="150"/>     | [texto]. |
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
