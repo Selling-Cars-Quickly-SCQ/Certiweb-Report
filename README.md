@@ -243,7 +243,68 @@ El servicio está disponible mediante suscripciones mensuales (para revendedores
 
 #### 1.2.2.2. Lean UX Assumptions
 
+<ul style="font-family: Arial, sans-serif; line-height: 1.8; color: #333; padding-left: 20px;">
+  <li style="margin-bottom: 25px;">
+    <strong style="color: #e74c3c; font-size: 1.1em;">Business Assumptions</strong>
+      <ul style="list-style-type: disc; padding-left: 30px;">
+        <li>Existe una oportunidad de negocio en el sector de autos usados ofreciendo un servicio de inspección y certificación imparcial</li>
+        <li>Los vendedores están dispuestos a pagar por un servicio que les permita vender sus autos más rápido y a mejor precio</li>
+        <li>Revendedores frecuentes buscarán planes de suscripción para optimizar costos y tiempos</li>
+        <li>Certiweb puede posicionarse como un referente confiable sin participar en la venta directa</li>
+      </ul>
+  </li>
 
+  <li style="margin-bottom: 25px;">
+    <strong style="color: #3498db; font-size: 1.1em;">Business Outcomes</strong>
+      <ul style="list-style-type: square; padding-left: 30px;">
+        <li>Incrementar el volumen de certificaciones realizadas por mes</li>
+        <li>Reducir el tiempo promedio de venta de autos con certificación Certiweb</li>
+        <li>Aumentar la tasa de renovación de suscripciones (mensuales/anuales)</li>
+        <li>Lograr una tasa de satisfacción del cliente mayor al 85%</li>
+      </ul>
+  </li>
+
+  <li style="margin-bottom: 25px;">
+    <strong style="color: #2ecc71; font-size: 1.1em;">User Assumptions</strong>
+      <ul style="list-style-type: circle; padding-left: 30px;">
+        <li>Los vendedores quieren diferenciarse en los portales de venta mediante una certificación técnica</li>
+        <li>Los compradores confían más en un vehículo con un informe profesional y sellado</li>
+        <li>Los revendedores necesitan un servicio rápido, económico y estandarizado</li>
+        <li>Los usuarios valoran la imparcialidad del servicio</li>
+      </ul>
+  </li>
+
+  <li style="margin-bottom: 25px;">
+    <strong style="color: #9b59b6; font-size: 1.1em;">User Outcomes</strong>
+      <ul style="list-style-type: '→ '; padding-left: 30px;">
+        <li>Vendedores individuales pueden concretar ventas en menos tiempo</li>
+        <li>Compradores reducen el riesgo de adquirir un vehículo defectuoso</li>
+        <li>Revendedores pueden certificar múltiples autos y aumentar el volumen de ventas</li>
+        <li>Los usuarios recomiendan el servicio y repiten su uso</li>
+      </ul>
+  </li>
+
+  <li style="margin-bottom: 25px; background: #f8f9fa; padding: 15px; border-radius: 8px;">
+    <strong style="color: #e67e22; font-size: 1.1em;">Feature Assumptions</strong>
+      <ul style="list-style-type: '✓ '; padding-left: 30px;">
+        <li>Informe con diagnóstico técnico, imágenes y precio sugerido aumentará la confianza</li>
+        <li>El sello Certiweb será un elemento diferenciador visible</li>
+        <li>La plataforma permitirá agendar inspecciones y gestionar suscripciones</li>
+        <li>La automatización reducirá errores y mejorará la experiencia</li>
+      </ul>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong style="color: #1abc9c; font-size: 1.1em;">Feature Outcomes</strong>
+      <ul style="list-style-type: none; padding-left: 30px;">
+        <li><span style="color: #16a085; font-weight: bold;">80%</span> de los autos certificados se venden en menos de 30 días</li>
+        <li><span style="color: #16a085; font-weight: bold;">90%</span> de los compradores confía más en autos con el sello Certiweb</li>
+        <li>Revendedores gestionan <span style="color: #16a085; font-weight: bold;">5+ inspecciones/mes</span></li>
+        <li>Minimizan errores humanos en informes gracias a la plataforma digital</li>
+      </ul>
+  </li>
+
+</ul>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
