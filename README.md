@@ -324,7 +324,102 @@ El servicio está disponible mediante suscripciones mensuales (para revendedores
 
 ### 1.3. Segmentos objetivo
 
+Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta de vehículos usados, identificando tanto necesidades como patrones de comportamiento. Los principales segmentos objetivo se clasifican en tres grupos:
 
+<ul style="font-family: 'Segoe UI', sans-serif; line-height: 1.7; color: #333; padding-left: 0;">
+
+  <!-- 1. Vendedores Individuales -->
+  <li style="margin-bottom: 30px; border-left: 4px solid #e74c3c; padding-left: 15px;">
+    <strong style="color: #e74c3c; font-size: 1.2em;">1. Vendedores individuales de autos usados</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <!-- Demográficos -->
+      <li><strong>📊 Características demográficas:</strong>
+        <ul style="list-style-type: circle; color: #7f8c8d;">
+          <li>Edad: 25-55 años</li>
+          <li>Ubicación: Lima, Arequipa, Trujillo, Piura</li>
+          <li>NSE: Medio y medio-alto</li>
+          <li>Conocimientos técnicos: Limitados</li>
+        </ul>
+      </li>
+      <!-- Comportamiento -->
+      <li><strong>🔄 Comportamiento y necesidades:</strong>
+        <ul style="list-style-type: square; color: #34495e;">
+          <li>Venden 1 auto cada 2-5 años</li>
+          <li>Buscan diferenciar sus publicaciones</li>
+          <li>Necesitan cerrar ventas rápidamente</li>
+        </ul>
+      </li>
+      <!-- Sustento Estadístico -->
+      <li><strong>📈 Sustento Estadístico:</strong>
+        <ul style="list-style-type: none; background: #f8f9fa; padding: 10px; border-radius: 5px;">
+          <li>70% transacciones entre particulares (AAP 2023)</li>
+          <li>64% compradores usan plataformas online</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+
+  <!-- 2. Revendedores -->
+  <li style="margin-bottom: 30px; border-left: 4px solid #3498db; padding-left: 15px;">
+    <strong style="color: #3498db; font-size: 1.2em;">2. Revendedores o pequeños comerciantes de autos usados</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <!-- Demográficos -->
+      <li><strong>📊 Características demográficas:</strong>
+        <ul style="list-style-type: circle; color: #7f8c8d;">
+          <li>Edad: 30-60 años</li>
+          <li>Base operativa: Capitales regionales</li>
+          <li>Perfil: Informales o pequeños emprendimientos</li>
+        </ul>
+      </li>
+      <!-- Comportamiento -->
+      <li><strong>🔄 Comportamiento y necesidades:</strong>
+        <ul style="list-style-type: square; color: #34495e;">
+          <li>Manejan 3-15 vehículos/mes</li>
+          <li>Requieren inspecciones rápidas</li>
+          <li>Prefieren herramientas digitales</li>
+        </ul>
+      </li>
+      <!-- Sustento Estadístico -->
+      <li><strong>📈 Sustento Estadístico:</strong>
+        <ul style="list-style-type: none; background: #f8f9fa; padding: 10px; border-radius: 5px;">
+          <li>20% mercado controlado por revendedores</li>
+          <li>Falta de sistemas estandarizados actualmente</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+
+  <!-- 3. Compradores -->
+  <li style="border-left: 4px solid #2ecc71; padding-left: 15px;">
+    <strong style="color: #2ecc71; font-size: 1.2em;">3. Compradores</strong>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <!-- Demográficos -->
+      <li><strong>📊 Características demográficas:</strong>
+        <ul style="list-style-type: circle; color: #7f8c8d;">
+          <li>Edad: 22-50 años</li>
+          <li>Zonas: Lima (60%), regiones clave</li>
+          <li>Perfil: Jóvenes profesionales/familias</li>
+        </ul>
+      </li>
+      <!-- Comportamiento -->
+      <li><strong>🔄 Comportamiento y necesidades:</strong>
+        <ul style="list-style-type: square; color: #34495e;">
+          <li>Buscan primer/segundo vehículo</li>
+          <li>Priorizan seguridad sobre lujo</li>
+          <li>Desconfían de publicaciones sin respaldo</li>
+        </ul>
+      </li>
+      <!-- Sustento Estadístico -->
+      <li><strong>📈 Sustento Estadístico:</strong>
+        <ul style="list-style-type: none; background: #f8f9fa; padding: 10px; border-radius: 5px;">
+          <li>86% autos vendidos son usados (2023)</li>
+          <li>60% comprados por personas naturales</li>
+          <li>Confianza = principal barrera (INEI/AAP)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 [↑ Volver al índice](#índice)
 # Capítulo II: Requirements Elicitation & Analysis
