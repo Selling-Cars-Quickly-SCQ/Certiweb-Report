@@ -165,7 +165,31 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
+En el mercado de autos usados, la desconfianza es uno de los principales obstáculos para concretar una venta. Muchos compradores temen adquirir vehículos con fallas mecánicas ocultas, documentación incompleta o precios inflados. Por otro lado, los vendedores —especialmente los individuales y pequeños revendedores— encuentran difícil demostrar la calidad de sus autos y destacar en un mercado cada vez más competitivo.
+Certiweb, el startup impulsado por la empresa Selling Cars Quickly (SCQ), nace como respuesta a esta problemática. Su propósito es brindar un servicio imparcial de inspección técnica y certificación vehicular que incremente la confianza entre ambas partes del proceso de compra-venta.
 
+Aplicación de las 5 W’s y 2 H’s <br>
+Who (¿Quiénes?): <br>
+Clientes: Vendedores individuales, revendedores y compradores de autos usados. <br>
+Empresa: Selling Cars Quickly (SCQ), a través de su solución Certiweb.
+
+What (¿Qué?): <br>
+Un taller de inspección y certificación vehicular que revisa más de 100 puntos técnicos y documentales de autos usados, generando un informe profesional con sello de calidad.
+
+Where (¿Dónde?): <br>
+En los talleres Certiweb, ubicados estratégicamente para facilitar el acceso de los clientes (con posibilidad futura de expansión).
+
+When (¿Cuándo?): <br>
+Antes de poner en venta un auto usado, como parte del proceso de preparación y publicación en plataformas.
+
+Why (¿Por qué?): <br>
+Para generar transparencia, reducir el riesgo de fraude y acelerar el proceso de venta mediante la confianza que otorga una certificación técnica imparcial.
+
+How (¿Cómo?): <br>
+Mediante una inspección profesional, la emisión de un informe detallado (con fotos, diagnóstico y precio sugerido) y la entrega de un sello que certifica el estado del vehículo.
+
+How Much (¿Cuánto?): <br>
+El servicio está disponible mediante suscripciones mensuales (para revendedores) y anuales (para vendedores ocasionales), con beneficios adicionales como prioridad y descuentos.
 
 #### 1.2.2.2. Lean UX Assumptions
 
