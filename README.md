@@ -160,11 +160,6 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
 
-
-
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-
 En el mercado de autos usados, la desconfianza es uno de los principales obstáculos para concretar una venta. Muchos compradores temen adquirir vehículos con fallas mecánicas ocultas, documentación incompleta o precios inflados. Por otro lado, los vendedores —especialmente los individuales y pequeños revendedores— encuentran difícil demostrar la calidad de sus autos y destacar en un mercado cada vez más competitivo.
 Certiweb, el startup impulsado por la empresa Selling Cars Quickly (SCQ), nace como respuesta a esta problemática. Su propósito es brindar un servicio imparcial de inspección técnica y certificación vehicular que incremente la confianza entre ambas partes del proceso de compra-venta.
 
@@ -190,6 +185,11 @@ Mediante una inspección profesional, la emisión de un informe detallado (con f
 
 How Much (¿Cuánto?): <br>
 El servicio está disponible mediante suscripciones mensuales (para revendedores) y anuales (para vendedores ocasionales), con beneficios adicionales como prioridad y descuentos.
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+
 
 #### 1.2.2.2. Lean UX Assumptions
 
