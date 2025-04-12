@@ -145,7 +145,7 @@ width=50%"/>
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
 
-Certiweb es un servicio especializado en la inspección y certificación de vehículos usados, operado por el taller AutoVerifi. Su objetivo es evaluar técnicamente el estado de los autos antes de ser puestos a la venta, mediante una revisión profesional de más de 100 puntos clave. A través de un informe detallado y un sello de certificación, Certiweb ayuda a generar confianza en los compradores, permitiendo que los vendedores individuales o revendedores puedan vender sus autos más rápido y a un mejor precio.
+Certiweb es un servicio especializado en la inspección y certificación de vehículos usados. Su objetivo es evaluar técnicamente el estado de los autos antes de ser puestos a la venta, mediante una revisión profesional de más de 100 puntos clave. A través de un informe detallado y un sello de certificación, Certiweb ayuda a generar confianza en los compradores, permitiendo que los vendedores individuales o revendedores puedan vender sus autos más rápido y a un mejor precio.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
