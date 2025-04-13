@@ -560,7 +560,67 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+## Estrategias Clave
 
+1. **Diferenciación a través de la certificación imparcial**
+   - Posicionamiento como tercero confiable que no compra ni vende vehículos
+   - Certificaciones independientes vs competidores vinculados a compraventa
+
+2. **Enfoque en confianza y rapidez de venta**
+   - Promesa clara: "Vende tu auto más rápido y con más seguridad"
+   - Beneficio tangible vs competidores con solo publicación o diagnóstico básico
+
+3. **Alianzas estratégicas**
+   - Convenios con portales (Neoauto, Todoautos) para ofrecer sello Certiweb
+   - Integración como valor añadido en publicaciones vehiculares
+
+4. **Educación del cliente sobre riesgos**
+   - Creación de contenido educativo (reels, blogs, videos)
+   - Enfoque en: estafas comunes y fallas ocultas en autos usados
+
+5. **Segmentación clara del mercado**
+   - Mensajes adaptados para:
+     1. Revendedores
+     2. Vendedores particulares
+     3. Compradores finales
+
+## Tácticas Implementadas
+
+1. **Promociones para usuarios tempranos**
+   - Precios promocionales o inspecciones gratuitas para primeros clientes
+   - Incentivos por compartir experiencias
+
+2. **Certificado visual impactante**
+   - Diseño de sello Certiweb atractivo para:
+     - Publicaciones online
+     - Uso físico en vehículos inspeccionados
+
+3. **Campañas en redes sociales geolocalizadas**
+   - Publicidad segmentada en:
+     - Facebook
+     - Instagram
+     - TikTok
+   - Enfoque en zonas de alto flujo (Ej: Surquillo, San Miguel en Lima)
+
+4. **Sistema de referidos**
+   - Programa que premia:
+     1. Cliente que refiere
+     2. Nuevo cliente referido
+   - Generación de tracción orgánica
+
+5. **Suscripciones flexibles para revendedores**
+   - Opciones de suscripción:
+     - Mensual
+     - Anual (con descuentos)
+   - Beneficios adicionales:
+     - Prioridad en inspecciones
+     - Asesoramiento en valorización
+
+6. **Informes desde el portal web**
+   - Funcionalidades clave:
+     - Generación de PDFs compartibles
+     - Integración en proceso de venta
+     - Panel web accesible para clientes
 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
