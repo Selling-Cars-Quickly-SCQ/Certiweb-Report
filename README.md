@@ -490,7 +490,104 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 #### 2.1.1. Análisis competitivo
 
+<h2>Análisis del Panorama Competitivo</h1>
 
+<p><strong>¿Por qué llevar a cabo este análisis?</strong></p>
+<blockquote>
+  <p>Este análisis permite identificar fortalezas y debilidades frente a competidores clave en el mercado de inspección y venta de autos usados. Así se puede fortalecer la propuesta de valor de Certiweb y detectar oportunidades de diferenciación.</p>
+</blockquote>
+
+<p><strong>Pregunta u Objetivo del Análisis:</strong></p>
+<blockquote>
+  <p>¿Cómo se posiciona Certiweb frente a sus competidores en términos de propuesta de valor, estrategias de marketing, productos y servicios?</p>
+</blockquote>
+
+<hr>
+
+<h2>Tabla Comparativa</h2>
+
+<style>
+  .competitive-analysis-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 0.9em;
+  }
+  .competitive-analysis-table th,
+  .competitive-analysis-table td {
+    border: 1px solid #dfe2e5; 
+    padding: 8px 12px;
+    vertical-align: top;
+  }
+  .competitive-analysis-table th {
+    background-color: #f6f8fa;
+    font-weight: 600;
+    text-align: center;
+  }
+  .competitive-analysis-table td.category-header {
+    font-weight: bold;
+    background-color: #f9f9f9;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .competitive-analysis-table img.logo {
+      max-width: 50px;
+      display: block;
+      margin: 5px auto;
+  }
+</style>
+
+<table class="competitive-analysis-table">
+  <thead>
+    <tr>
+      <th colspan="2"></th>
+      <th>CertiWeb</th>
+      <th>Neoauto</th>
+      <th>Cars</th>
+      <th>Talleres mecánicos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" class="category-header">Perfil</td>
+      <td>Overview</td>
+      <td>Certiweb es un taller especializado en inspecciones y certificaciones de autos usados que busca acelerar la venta con mayor confianza y seguridad.</td>
+      <td>Neoauto es un portal de anuncios para comprar y vender autos nuevos y usados, líder en visibilidad en Perú.</td>
+      <td>Cars.com es una plataforma internacional que conecta compradores con concesionarios y ofrece herramientas de valoración e historial.</td>
+      <td>Talleres mecánicos tradicionales ofrecen revisión técnica básica para evaluar el estado del vehículo antes de la compra o venta.</td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
+      <td>Certificación imparcial con revisión de más de 100 puntos, informe técnico detallado con fotos, y sello de confianza que aumenta la velocidad de venta.</td>
+      <td>Alta visibilidad, volumen de tráfico web y variedad de publicaciones para encontrar autos rápidamente.</td>
+      <td>Acceso a historial del vehículo, valoración en línea y conexión directa con concesionarios.</td>
+      <td>Costos bajos y diagnósticos inmediatos, aunque sin documentación formal ni sello de confianza para venta.</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="category-header">Perfil de Marketing</td>
+      <td>Mercado objetivo</td>
+      <td>Vendedores particulares, revendedores y compradores de autos usados que buscan mayor seguridad y agilidad en el proceso.</td>
+      <td>Vendedores particulares y concesionarios que desean publicar autos a gran escala.</td>
+      <td>Usuarios en EE.UU. interesados en comprar o vender vehículos con acceso a herramientas digitales.</td>
+      <td>Propietarios que necesitan diagnóstico mecánico o compradores que desean revisar el vehículo antes de pagar.</td>
+    </tr>
+    <tr>
+      <td>Estrategias de marketing</td>
+      <td>Campañas digitales, redes sociales, alianzas con portales de venta, uso de casos de éxito reales y posicionamiento local (SEO).</td>
+      <td>Publicidad en buscadores, redes sociales, publicaciones destacadas y planes premium dentro de su plataforma.</td>
+      <td>SEO global, marketing de contenido, convenios con concesionarios y reviews de usuarios.</td>
+      <td>Publicidad boca a boca, recomendaciones y presencia física en zonas de alta demanda.</td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="category-header">Perfil de Producto</td>
+      <td>Productos & Servicios</td>
+      <td>Inspección profesional, informe con fotos y diagnóstico técnico, sello Certiweb, suscripciones mensuales y anuales.</td>
+      <td>Publicación de autos, filtros de búsqueda avanzada, fotos y planes publicitarios.</td>
+      <td>Publicaciones, historial del vehículo, calculadora de valor estimado, contacto con dealers.</td>
+      <td>Revisión mecánica básica, pruebas de carretera y verificación de fallas, sin documentación formal.</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
