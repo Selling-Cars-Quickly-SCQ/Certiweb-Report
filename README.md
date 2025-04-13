@@ -506,37 +506,6 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 <h2>Tabla Comparativa</h2>
 
-<style>
-  .competitive-analysis-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 15px;
-    font-size: 0.9em;
-  }
-  .competitive-analysis-table th,
-  .competitive-analysis-table td {
-    border: 1px solid #dfe2e5; 
-    padding: 8px 12px;
-    vertical-align: top;
-  }
-  .competitive-analysis-table th {
-    background-color: #f6f8fa;
-    font-weight: 600;
-    text-align: center;
-  }
-  .competitive-analysis-table td.category-header {
-    font-weight: bold;
-    background-color: #f9f9f9;
-    text-align: right;
-    vertical-align: middle;
-  }
-  .competitive-analysis-table img.logo {
-      max-width: 50px;
-      display: block;
-      margin: 5px auto;
-  }
-</style>
-
 <table class="competitive-analysis-table">
   <thead>
     <tr>
