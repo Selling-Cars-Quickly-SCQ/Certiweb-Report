@@ -424,6 +424,70 @@ Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta
 [↑ Volver al índice](#índice)
 # Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+
+### Análisis Competitivo: Certiweb en el Mercado Vehicular
+
+Certiweb compite con diversas plataformas de compraventa e inspección vehicular. Estos son los principales competidores:
+
+### 1. Neoauto (Perú) - Competidor Directo
+<ul>
+  <li><strong>Sitio web:</strong> <a href="https://www.neoauto.com" target="_blank">neoauto.com</a></li>
+  <li><strong>Descripción:</strong> Portal líder de compraventa en Perú con publicaciones para vendedores y concesionarios</li>
+  <li><strong>Modelo:</strong> Anuncios pagados con reportes técnicos básicos (sin inspecciones profundas)</li>
+  <li><strong>Relación con Certiweb:</strong> Competencia directa en verificación vehicular</li>
+  <li><strong>Ventaja Certiweb:</strong> 
+    <ul>
+      <li>Diagnóstico 100% imparcial (no participa en compraventa)</li>
+      <li>Sello de confianza usable en cualquier plataforma</li>
+      <li>Inspección técnica profesional con 100+ puntos de revisión</li>
+    </ul>
+  </li>
+</ul>
+
+### 2. AutoTrader (Reino Unido) - Competidor Internacional
+<ul>
+  <li><strong>Sitio web:</strong> <a href="https://www.autotrader.co.uk" target="_blank">autotrader.co.uk</a></li>
+  <li><strong>Descripción:</strong> Plataforma británica líder con servicios de verificación e inspecciones</li>
+  <li><strong>Modelo:</strong> Reportes históricos y conexión con talleres asociados</li>
+  <li><strong>Relación con Certiweb:</strong> Modelo de referencia para certificación integrada</li>
+  <li><strong>Ventaja Certiweb:</strong>
+    <ul>
+      <li>Adaptado al mercado peruano con atención personalizada</li>
+      <li>Estandarización superior en inspecciones (100+ puntos)</li>
+      <li>Costo accesible para el contexto local</li>
+    </ul>
+  </li>
+</ul>
+
+### 3. Cars.com (EEUU) - Competidor Internacional
+<ul>
+  <li><strong>Sitio web:</strong> <a href="https://www.cars.com" target="_blank">cars.com</a></li>
+  <li><strong>Descripción:</strong> Portal estadounidense con herramientas de evaluación vehicular</li>
+  <li><strong>Modelo:</strong> Informes de condición y calificaciones mecánicas previas</li>
+  <li><strong>Relación con Certiweb:</strong> Ejemplo de integración de certificación en ventas</li>
+  <li><strong>Ventaja Certiweb:</strong>
+    <ul>
+      <li>Servicio 100% local con soporte en Perú</li>
+      <li>Reportes más detallados y visuales</li>
+      <li>Precio sugerido basado en mercado peruano</li>
+    </ul>
+  </li>
+</ul>
+
+### 4. Talleres Mecánicos Tradicionales - Competencia Indirecta
+<ul>
+  <li><strong>Descripción:</strong> Talleres físicos que realizan diagnósticos previos a ventas</li>
+  <li><strong>Modelo:</strong> Servicio presencial sin estandarización digital</li>
+  <li><strong>Relación con Certiweb:</strong> Alternativa básica para inspecciones</li>
+  <li><strong>Ventaja Certiweb:</strong>
+    <ul>
+      <li>Certificación profesional documentada (fotos + informe)</li>
+      <li>Plataforma digital con historial accesible</li>
+      <li>Sello de garantía transferible al comprador</li>
+    </ul>
+  </li>
+</ul>
+
 #### 2.1.1. Análisis competitivo
 
 
