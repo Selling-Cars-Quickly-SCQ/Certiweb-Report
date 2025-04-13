@@ -625,6 +625,125 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
 
+# Diseño de Entrevistas para Investigación de Mercado
+
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+<h2 style="color: #2c3e50;">Segmento 1: Vendedores Particulares</h2>
+<h3 style="color: #3498db;">Objetivo:</h3> 
+<p>Conocer motivaciones, temores y experiencia al vender autos usados</p>
+
+<h3 style="color: #3498db;">Información a recolectar:</h3>
+<ul>
+  <li>Datos demográficos (edad, género, distrito)</li>
+  <li>Experiencia previa en ventas</li>
+  <li>Canales de venta utilizados</li>
+  <li>Problemas enfrentados</li>
+  <li>Conocimiento de servicios de inspección</li>
+</ul>
+
+<h3 style="color: #3498db;">Preguntas clave:</h3>
+  <ol>
+    <li>¿Has vendido un auto usado anteriormente? ¿Cómo fue la experiencia?</li>
+    <li>¿Cuál fue tu principal preocupación al momento de vender?</li>
+    <li>¿Dónde sueles publicar un auto en venta?</li>
+    <li>¿Qué tanto confías en los compradores que te contactan por internet?</li>
+    <li>¿Te ha pasado que los compradores desconfiaban del estado del auto?</li>
+    <li>¿Alguna vez has mentido u omitido detalles al vender tu auto? ¿Por qué?</li>
+    <li>¿Qué haces para que confíen en que tu auto está en buen estado?</li>
+    <li>¿Conoces algún servicio que certifique el estado de un auto antes de venderlo?</li>
+    <li>¿Pagarías por un servicio que te ayude a vender más rápido? ¿Cuánto?</li>
+    <li>¿Qué valoras más: vender rápido o vender a mejor precio?</li>
+    <li>¿Qué tan complicado es conseguir un mecánico de confianza?</li>
+    <li>¿Te sentirías más seguro si un experto validara que tu auto está bien?</li>
+    <li>¿A qué te dedicas? ¿Te deja tiempo para lidiar con una venta de auto?</li>
+    <li>¿Qué edad tienes y dónde vives?</li>
+    <li>¿Qué redes sociales usas con más frecuencia?</li>
+    <li>¿Compraste ese auto nuevo o de segunda? ¿Cómo fue esa compra?</li>
+    <li>¿Qué dispositivos usas más para hacer tus búsquedas? (Celular, PC, etc.)</li>
+    <li>¿Tienes familia o dependientes a los que involucres en tus decisiones?</li>
+    <li>¿Qué frustraciones has tenido al vender autos en el pasado?</li>
+    <li>Si tuvieras una herramienta que agilice y dé más confianza al proceso de venta, ¿la usarías?</li>
+  </ol>
+</div>
+
+<div style="background-color: #e8f4f8; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+<h2 style="color: #2c3e50;">Segmento 2: Revendedores</h2>
+<h3 style="color: #3498db;">Objetivo:</h3>
+<p>Entender proceso comercial y uso de certificaciones</p>
+
+<h3 style="color: #3498db;">Información a recolectar:</h3>
+<ul>
+  <li>Volumen de venta mensual</li>
+  <li>Uso de mecánicos/talleres</li>
+  <li>Necesidad de rotación rápida</li>
+  <li>Canales de venta principales</li>
+  <li>Presupuesto para inspecciones</li>
+</ul>
+
+<h3 style="color: #3498db;">Preguntas clave:</h3>
+  <ol>
+    <li>¿A cuántos autos les das rotación al mes?</li>
+    <li>¿Cómo aseguras la calidad mecánica antes de venderlos?</li>
+    <li>¿Tienes un mecánico fijo o trabajas con varios talleres?</li>
+    <li>¿Sueles invertir en diagnósticos antes de vender?</li>
+    <li>¿Te ha pasado que un cliente devolvió o se quejó del auto vendido?</li>
+    <li>¿Qué importancia tiene la confianza para cerrar una venta?</li>
+    <li>¿Has usado servicios de certificación antes? ¿Cuáles?</li>
+    <li>¿Con qué portales trabajas para publicar tus autos?</li>
+    <li>¿Crees que un sello de certificación ayudaría a vender más rápido?</li>
+    <li>¿Qué valoras más: ahorro de tiempo o validación técnica?</li>
+    <li>¿Cuánto estarías dispuesto a pagar por un servicio mensual de inspección?</li>
+    <li>¿Qué tipo de clientes te exigen más pruebas de calidad?</li>
+    <li>¿Cómo gestionas el papeleo y documentación?</li>
+    <li>¿Te ha beneficiado tener informes técnicos o fotos detalladas del auto?</li>
+    <li>¿Crees que hay mucha competencia en tu zona? ¿Qué te diferencia?</li>
+    <li>¿Qué edad tienes y en qué distrito trabajas?</li>
+    <li>¿Qué dispositivos usas para tus operaciones? ¿WhatsApp, Facebook, OLX, etc.?</li>
+    <li>¿Cuál es tu mayor frustración al vender autos?</li>
+    <li>¿Qué marcas prefieres revender y por qué?</li>
+    <li>¿Estarías dispuesto a incluir el costo de inspección como parte del precio final?</li>
+  </ol>
+</div>
+
+<div style="background-color: #f0e8f8; padding: 15px; border-radius: 5px;">
+<h2 style="color: #2c3e50;">Segmento 3: Compradores</h2>
+<h3 style="color: #3498db;">Objetivo:</h3>
+<p>Identificar temores y proceso de evaluación</p>
+
+<h3 style="color: #3498db;">Información a recolectar:</h3>
+<ul>
+  <li>Motivaciones de compra</li>
+  <li>Nivel de conocimiento técnico</li>
+  <li>Canales de búsqueda</li>
+  <li>Riesgos percibidos</li>
+  <li>Métodos de validación</li>
+</ul>
+
+<h3 style="color: #3498db;">Preguntas clave:</h3>
+  <ol>
+    <li>¿Has comprado un auto usado alguna vez? ¿Cómo fue la experiencia?</li>
+    <li>¿Qué es lo que más te preocupa al comprar un auto de segunda?</li>
+    <li>¿Cómo sueles verificar que el auto esté en buen estado?</li>
+    <li>¿Conoces algún taller o mecánico de confianza?</li>
+    <li>¿Te has sentido estafado o engañado en alguna compra anterior?</li>
+    <li>¿Qué tan importante es para ti que el auto tenga un informe técnico?</li>
+    <li>¿Confías en los vendedores de autos en general?</li>
+    <li>¿Te parece útil que un auto tenga un certificado de inspección antes de comprarlo?</li>
+    <li>¿Pagarías más por un auto que tenga esa certificación?</li>
+    <li>¿Dónde sueles buscar autos: Marketplace, OLX, portales especializados?</li>
+    <li>¿Qué redes sociales usas más para revisar o buscar autos?</li>
+    <li>¿Qué dispositivos usas para hacer búsquedas?</li>
+    <li>¿Qué edad tienes, dónde vives y a qué te dedicas?</li>
+    <li>¿Tomas la decisión solo o con tu pareja/familia?</li>
+    <li>¿Qué aspectos del auto revisas tú mismo antes de comprar?</li>
+    <li>¿Cómo decides si confiar en un vendedor?</li>
+    <li>¿Qué marcas o modelos te generan más confianza?</li>
+    <li>¿Te gustaría recibir asesoría profesional para tu próxima compra?</li>
+    <li>¿Qué contenido te parecería útil: videos, checklist, informes descargables?</li>
+    <li>¿Has tenido malas experiencias post-compra? ¿Cuáles?</li>
+  </ol>
+</div>
+
 
 
 #### 2.2.2. Registro de entrevistas
