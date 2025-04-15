@@ -800,6 +800,9 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 [↑ Volver al índice](#índice)
 # Capítulo IV: Product Design
 ### 4.1. Style Guidelines
+
+wwewewew
+
 #### 4.1.1. General Style Guidelines
 
 
@@ -878,6 +881,91 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 
 #### 4.7.2. Class Dictionary
+
+### 1. Clase `Usuario`
+
+| Atributo    | Tipo de variable | Descripción                                      |
+|-------------|------------------|--------------------------------------------------|
+| `id`        | `int`            | Identificador único del usuario.                 |
+| `nombre`    | `string`         | Nombre completo del usuario.                     |
+| `correo`    | `string`         | Correo electrónico del usuario.                  |
+| `contraseña`| `string`         | Contraseña cifrada para autenticación.           |
+| `tipo`      | `string`         | Rol del usuario (`cliente`, `administrador`).    |
+
+---
+
+### 2. Clase `Auto`
+
+| Atributo    | Tipo de variable | Descripción                                   |
+|-------------|------------------|-----------------------------------------------|
+| `id`        | `int`            | Identificador único del auto.                 |
+| `marca`     | `string`         | Marca del vehículo.                           |
+| `modelo`    | `string`         | Modelo del auto.                              |
+| `anio`      | `int`            | Año de fabricación.                           |
+| `placa`     | `string`         | Placa de matrícula.                           |
+| `usuarioId` | `int`            | ID del usuario que registró el auto.          |
+
+---
+
+### 3. Clase `Inspeccion`
+
+| Atributo             | Tipo de variable | Descripción                                         |
+|----------------------|------------------|-----------------------------------------------------|
+| `id`                 | `int`            | Identificador único de la inspección.              |
+| `fecha`              | `Date`           | Fecha en que se realizó la inspección.             |
+| `estado`             | `string`         | Estado general del auto (aprobado, observado, etc.). |
+| `autoId`             | `int`            | ID del auto inspeccionado.                         |
+| `tecnicoResponsable` | `string`         | Nombre del técnico responsable.                    |
+
+---
+
+### 4. Clase `Informe`
+
+| Atributo            | Tipo de variable | Descripción                                      |
+|---------------------|------------------|--------------------------------------------------|
+| `id`                | `int`            | Identificador del informe.                       |
+| `inspeccionId`      | `int`            | ID de la inspección correspondiente.             |
+| `descripcionGeneral`| `string`         | Resumen general del estado técnico.              |
+| `fallasEncontradas` | `string`         | Detalles de las fallas identificadas.            |
+| `recomendaciones`   | `string`         | Sugerencias para mejorar el estado del vehículo. |
+
+---
+
+### 5. Clase `Certificacion`
+
+| Atributo           | Tipo de variable | Descripción                                         |
+|--------------------|------------------|-----------------------------------------------------|
+| `id`               | `int`            | Identificador único de la certificación.            |
+| `informeId`        | `int`            | ID del informe base asociado.                       |
+| `fechaEmision`     | `Date`           | Fecha de emisión del certificado.                   |
+| `estado`           | `string`         | Estado del certificado (`vigente`, `vencido`).      |
+| `codigoCertificado`| `string`         | Código único visible en el sello.                   |
+
+---
+
+### 6. Clase `Suscripcion`
+
+| Atributo     | Tipo de variable | Descripción                                       |
+|--------------|------------------|---------------------------------------------------|
+| `id`         | `int`            | Identificador único de la suscripción.            |
+| `usuarioId`  | `int`            | ID del usuario suscrito.                          |
+| `tipo`       | `string`         | Tipo de suscripción (`mensual`, `anual`).         |
+| `fechaInicio`| `Date`           | Fecha en que comienza la suscripción.             |
+| `fechaFin`   | `Date`           | Fecha de finalización del servicio.               |
+| `estado`     | `string`         | Estado actual (`activo`, `cancelado`).            |
+
+---
+
+### 7. Clase `Pago`
+
+| Atributo    | Tipo de variable | Descripción                                           |
+|-------------|------------------|-------------------------------------------------------|
+| `id`        | `int`            | Identificador único del pago.                         |
+| `usuarioId` | `int`            | ID del usuario que realizó el pago.                   |
+| `monto`     | `double`         | Monto total de la transacción.                        |
+| `fecha`     | `Date`           | Fecha del pago.                                       |
+| `metodoPago`| `string`         | Medio de pago utilizado (`tarjeta`, `Yape`, etc.).    |
+| `estado`    | `string`         | Estado de la transacción (`completado`, `fallido`).   |
 
 
 
