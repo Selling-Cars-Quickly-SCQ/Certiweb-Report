@@ -748,7 +748,92 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 #### 2.2.2. Registro de entrevistas
 
+# Segmento 1
 
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+# Segmento 2
+
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+# Segmento 3
+
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
 
 #### 2.2.3. Análisis de entrevistas
 
