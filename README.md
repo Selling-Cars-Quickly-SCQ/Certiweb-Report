@@ -425,16 +425,17 @@ Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta
 # Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
-Aspecto | Certiweb | Kavak | Neoautos (Perú) | Revisado.pe (Perú)
-Tipo de solución | Inspección y certificación técnica independiente | Compra y venta directa con inspección propia | Marketplace de autos usados | Revisión técnica in situ
-Público objetivo | Revendedores, comerciantes y particulares | Compradores y vendedores de autos usados | Vendedores y compradores particulares y concesionarios | Compradores y vendedores particulares
-Principales funciones | Revisión técnica de +100 puntos, informe y sello | Compra, reacondicionamiento, venta de autos | Publicación de vehículos, contacto comprador-vendedor | Inspección técnica visual y funcional
-Fortalezas | Transparencia, confianza, servicio móvil, adaptable | Infraestructura robusta, financiación | Alto tráfico web, presencia consolidada en Perú | Técnicos certificados, informe presencial
-Debilidades | Marca nueva, depende de alianzas para escalar | Alto costo de operación, limitado a ciertas ciudades | No realiza inspección técnica | Limitado a zonas urbanas
-Oportunidades | Alianzas con marketplaces y revendedores, certificación como diferencial | Expansión a nuevos países, fidelización | Integrar servicios como inspección o certificación | Convertirse en estándar previo a la compra
-Amenazas | Bajo conocimiento del servicio, imitaciones | Competencia creciente, modelos independientes | Nuevos marketplaces con servicios integrados | Saturación del servicio en zonas de alta demanda
-Precios y costos | Precio por vehículo (flexible según volumen) | Precio incluido en margen de reventa | Publicación gratuita o con planes premium | Costo moderado por inspección presencial ($30–$50)
-Estrategias de marketing | Alianzas B2B, presencia en plataformas de venta, sello visible en avisos | Publicidad digital masiva, promociones | SEO, anuncios destacados, redes sociales | Redes sociales, convenios con talleres
+|Aspecto | Certiweb | Kavak | Neoautos (Perú) | Revisado.pe (Perú)|
+|----|----|----|----|----|
+Tipo de solución | Inspección y certificación técnica independiente | Compra y venta directa con inspección propia | Marketplace de autos usados | Revisión técnica in situ|
+Público objetivo | Revendedores, comerciantes y particulares | Compradores y vendedores de autos usados | Vendedores y compradores particulares y concesionarios | Compradores y vendedores particulares|
+Principales funciones | Revisión técnica de +100 puntos, informe y sello | Compra, reacondicionamiento, venta de autos | Publicación de vehículos, contacto comprador-vendedor | Inspección técnica visual y funcional|
+Fortalezas | Transparencia, confianza, servicio móvil, adaptable | Infraestructura robusta, financiación | Alto tráfico web, presencia consolidada en Perú | Técnicos certificados, informe presencial|
+Debilidades | Marca nueva, depende de alianzas para escalar | Alto costo de operación, limitado a ciertas ciudades | No realiza inspección técnica | Limitado a zonas urbanas|
+Oportunidades | Alianzas con marketplaces y revendedores, certificación como diferencial | Expansión a nuevos países, fidelización | Integrar servicios como inspección o certificación | Convertirse en estándar previo a la compra|
+Amenazas | Bajo conocimiento del servicio, imitaciones | Competencia creciente, modelos independientes | Nuevos marketplaces con servicios integrados | Saturación del servicio en zonas de alta demanda|
+Precios y costos | Precio por vehículo (flexible según volumen) | Precio incluido en margen de reventa | Publicación gratuita o con planes premium | Costo moderado por inspección presencial ($30–$50)|
+Estrategias de marketing | Alianzas B2B, presencia en plataformas de venta, sello visible en avisos | Publicidad digital masiva, promociones | SEO, anuncios destacados, redes sociales | Redes sociales, convenios con talleres|
 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
