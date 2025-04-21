@@ -45,7 +45,7 @@ width=50%"/>
 
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
-|---------|------------|------------|
+|------|------------|------------|
 |Trabaja en equipo <br>para  proporcionar liderazgo en <br> forma conjunta|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
 |Crea un entorno colaborativo e <br>inclusivo, establece <br>metas, planifica tareas y cumple objetivos|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
 
