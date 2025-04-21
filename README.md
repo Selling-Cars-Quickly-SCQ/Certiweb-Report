@@ -445,18 +445,18 @@ Estrategias de marketing | Alianzas B2B, presencia en plataformas de venta, sell
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
 **Segmento 2**
-- 1. ¿Cual es la naturaleza de su trabajo? 
-- 2. ¿Cuál es el perfil típico de sus compradores (particulares, agencias, etc.)? 
-- 3. ¿Qué canales utiliza actualmente para vender los autos (plataformas en línea, lotes físicos, redes sociales, etc.)?
-- 4. ¿Qué tan importante considera la confianza del comprador en el proceso de venta?
-- 5. ¿Realiza algún tipo de inspección técnica antes de vender los autos?
-- 6. ¿Ha tenido problemas con devoluciones o reclamos por parte de compradores por el estado del auto?
-- 7. ¿Cree que una certificación técnica independiente ayudaría a vender sus autos más rápido?
-- 8. ¿Qué elementos debería incluir un informe de certificación para que sea útil para usted y sus clientes?
-- 9. ¿Conocía previamente algún servicio de inspección/certificación similar a Certiweb?
-- 10. ¿Qué lo motivaría a probar un servicio como Certiweb?
-- 11. ¿Qué objeciones o dudas tendría antes de contratar un servicio de este tipo?
-- 12. ¿Qué desafíos enfrenta actualmente al intentar aumentar sus ventas?   
+1. ¿Cual es la naturaleza de su trabajo? 
+2. ¿Cuál es el perfil típico de sus compradores (particulares, agencias, etc.)? 
+3. ¿Qué canales utiliza actualmente para vender los autos (plataformas en línea, lotes físicos, redes sociales, etc.)?
+4. ¿Qué tan importante considera la confianza del comprador en el proceso de venta?
+5. ¿Realiza algún tipo de inspección técnica antes de vender los autos?
+6. ¿Ha tenido problemas con devoluciones o reclamos por parte de compradores por el estado del auto?
+7. ¿Cree que una certificación técnica independiente ayudaría a vender sus autos más rápido?
+8. ¿Qué elementos debería incluir un informe de certificación para que sea útil para usted y sus clientes?
+9. ¿Conocía previamente algún servicio de inspección/certificación similar a Certiweb?
+10. ¿Qué lo motivaría a probar un servicio como Certiweb?
+11. ¿Qué objeciones o dudas tendría antes de contratar un servicio de este tipo?
+12. ¿Qué desafíos enfrenta actualmente al intentar aumentar sus ventas?   
 
 
 #### 2.2.2. Registro de entrevistas
