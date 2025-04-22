@@ -999,7 +999,16 @@ Empathy Mapping Compradores
 # Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
 
+#### Segmento 1: Vendedores individuales
+<img src="Images/tobe-segment1.png">
 
+#### Segmento 2: Revendedores
+<img src="Images/tobe-segment2.png">
+
+#### Segmento 3: Compradores
+<img src="Images/tobe-segment3.png">
+
+[Link](https://lucid.app/lucidspark/6619d091-cd80-4e92-b0dd-630565981dd9/edit?viewport_loc=726%2C2808%2C3840%2C1918%2C0_0&invitationId=inv_66fb4dd7-a579-427b-9bb2-e7c7b021ef0b)
 
 ### 3.2. User Stories
 
