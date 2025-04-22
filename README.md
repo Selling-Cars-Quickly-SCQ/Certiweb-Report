@@ -45,7 +45,7 @@ width=50%"/>
 
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
-|---------|------------|------------|
+|------|------------|------------|
 |Trabaja en equipo <br>para  proporcionar liderazgo en <br> forma conjunta|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
 |Crea un entorno colaborativo e <br>inclusivo, establece <br>metas, planifica tareas y cumple objetivos|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
 
@@ -153,7 +153,7 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Lopez Roman, Franco Mauricio <br> <img src="Images/franco-lopez.png" width="150"/>|[texto]. |
 | Agama Espinoza, Eric Fabrizio <br> <img src="Images/eric.png" width="150"/> | Soy Eric Agama, estudiante de Ingeniería de Software. Me caracterizo por ser responsable y comprometido en mis trabajos, y siempre busco optimizar la organización dentro del equipo. Tengo experiencia con el lenguaje Luau en Roblox Studio.              |             |
-| Millones Espinoza, Jesus Andres <br> <img src="Images/" width="150"/>      | [texto]. |
+| Millones Espinoza, Jesus Andres <br> <img src="Images/jesus-millones.png" width="150"/>      | Mi nombre es Jesús Millones, estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java. |
 | Santos Torres, Juan Manuel <br> <img src="Images/" width="150"/>      | [texto]. |
 | Trillo Hernandez, Anghel Melanie <br> <img src="Images/" width="150"/>     | [texto]. |
 
@@ -424,22 +424,416 @@ Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta
 [↑ Volver al índice](#índice)
 # Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+
+### Análisis Competitivo: Certiweb en el Mercado Vehicular
+
+Certiweb compite con diversas plataformas de compraventa e inspección vehicular. Estos son los principales competidores:
+
+### 1. Neoauto (Perú) - Competidor Directo
+<ul>
+  <li><strong>Sitio web:</strong> <a href="https://www.neoauto.com" target="_blank">neoauto.com</a></li>
+  <li><strong>Descripción:</strong> Portal líder de compraventa en Perú con publicaciones para vendedores y concesionarios</li>
+  <li><strong>Modelo:</strong> Anuncios pagados con reportes técnicos básicos (sin inspecciones profundas)</li>
+  <li><strong>Relación con Certiweb:</strong> Competencia directa en verificación vehicular</li>
+  <li><strong>Ventaja Certiweb:</strong> 
+    <ul>
+      <li>Diagnóstico 100% imparcial (no participa en compraventa)</li>
+      <li>Sello de confianza usable en cualquier plataforma</li>
+      <li>Inspección técnica profesional con 100+ puntos de revisión</li>
+    </ul>
+  </li>
+</ul>
+
+### 2. AutoTrader (Reino Unido) - Competidor Internacional
+<ul>
+  <li><strong>Sitio web:</strong> <a href="https://www.autotrader.co.uk" target="_blank">autotrader.co.uk</a></li>
+  <li><strong>Descripción:</strong> Plataforma británica líder con servicios de verificación e inspecciones</li>
+  <li><strong>Modelo:</strong> Reportes históricos y conexión con talleres asociados</li>
+  <li><strong>Relación con Certiweb:</strong> Modelo de referencia para certificación integrada</li>
+  <li><strong>Ventaja Certiweb:</strong>
+    <ul>
+      <li>Adaptado al mercado peruano con atención personalizada</li>
+      <li>Estandarización superior en inspecciones (100+ puntos)</li>
+      <li>Costo accesible para el contexto local</li>
+    </ul>
+  </li>
+</ul>
+
+### 3. Cars.com (EEUU) - Competidor Internacional
+<ul>
+  <li><strong>Sitio web:</strong> <a href="https://www.cars.com" target="_blank">cars.com</a></li>
+  <li><strong>Descripción:</strong> Portal estadounidense con herramientas de evaluación vehicular</li>
+  <li><strong>Modelo:</strong> Informes de condición y calificaciones mecánicas previas</li>
+  <li><strong>Relación con Certiweb:</strong> Ejemplo de integración de certificación en ventas</li>
+  <li><strong>Ventaja Certiweb:</strong>
+    <ul>
+      <li>Servicio 100% local con soporte en Perú</li>
+      <li>Reportes más detallados y visuales</li>
+      <li>Precio sugerido basado en mercado peruano</li>
+    </ul>
+  </li>
+</ul>
+
+### 4. Talleres Mecánicos Tradicionales - Competencia Indirecta
+<ul>
+  <li><strong>Descripción:</strong> Talleres físicos que realizan diagnósticos previos a ventas</li>
+  <li><strong>Modelo:</strong> Servicio presencial sin estandarización digital</li>
+  <li><strong>Relación con Certiweb:</strong> Alternativa básica para inspecciones</li>
+  <li><strong>Ventaja Certiweb:</strong>
+    <ul>
+      <li>Certificación profesional documentada (fotos + informe)</li>
+      <li>Plataforma digital con historial accesible</li>
+      <li>Sello de garantía transferible al comprador</li>
+    </ul>
+  </li>
+</ul>
+
 #### 2.1.1. Análisis competitivo
 
+<h2>Análisis del Panorama Competitivo</h1>
 
+<p><strong>¿Por qué llevar a cabo este análisis?</strong></p>
+<blockquote>
+  <p>Este análisis permite identificar fortalezas y debilidades frente a competidores clave en el mercado de inspección y venta de autos usados. Así se puede fortalecer la propuesta de valor de Certiweb y detectar oportunidades de diferenciación.</p>
+</blockquote>
+
+<p><strong>Pregunta u Objetivo del Análisis:</strong></p>
+<blockquote>
+  <p>¿Cómo se posiciona Certiweb frente a sus competidores en términos de propuesta de valor, estrategias de marketing, productos y servicios?</p>
+</blockquote>
+
+<hr>
+
+<h2>Tabla Comparativa</h2>
+
+<table class="competitive-analysis-table">
+  <thead>
+    <tr>
+      <th colspan="2"></th>
+      <th>CertiWeb</th>
+      <th>Neoauto</th>
+      <th>Cars</th>
+      <th>Talleres mecánicos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" class="category-header">Perfil</td>
+      <td>Overview</td>
+      <td>Certiweb es un taller especializado en inspecciones y certificaciones de autos usados que busca acelerar la venta con mayor confianza y seguridad.</td>
+      <td>Neoauto es un portal de anuncios para comprar y vender autos nuevos y usados, líder en visibilidad en Perú.</td>
+      <td>Cars.com es una plataforma internacional que conecta compradores con concesionarios y ofrece herramientas de valoración e historial.</td>
+      <td>Talleres mecánicos tradicionales ofrecen revisión técnica básica para evaluar el estado del vehículo antes de la compra o venta.</td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
+      <td>Certificación imparcial con revisión de más de 100 puntos, informe técnico detallado con fotos, y sello de confianza que aumenta la velocidad de venta.</td>
+      <td>Alta visibilidad, volumen de tráfico web y variedad de publicaciones para encontrar autos rápidamente.</td>
+      <td>Acceso a historial del vehículo, valoración en línea y conexión directa con concesionarios.</td>
+      <td>Costos bajos y diagnósticos inmediatos, aunque sin documentación formal ni sello de confianza para venta.</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="category-header">Perfil de Marketing</td>
+      <td>Mercado objetivo</td>
+      <td>Vendedores particulares, revendedores y compradores de autos usados que buscan mayor seguridad y agilidad en el proceso.</td>
+      <td>Vendedores particulares y concesionarios que desean publicar autos a gran escala.</td>
+      <td>Usuarios en EE.UU. interesados en comprar o vender vehículos con acceso a herramientas digitales.</td>
+      <td>Propietarios que necesitan diagnóstico mecánico o compradores que desean revisar el vehículo antes de pagar.</td>
+    </tr>
+    <tr>
+      <td>Estrategias de marketing</td>
+      <td>Campañas digitales, redes sociales, alianzas con portales de venta, uso de casos de éxito reales y posicionamiento local (SEO).</td>
+      <td>Publicidad en buscadores, redes sociales, publicaciones destacadas y planes premium dentro de su plataforma.</td>
+      <td>SEO global, marketing de contenido, convenios con concesionarios y reviews de usuarios.</td>
+      <td>Publicidad boca a boca, recomendaciones y presencia física en zonas de alta demanda.</td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="category-header">Perfil de Producto</td>
+      <td>Productos & Servicios</td>
+      <td>Inspección profesional, informe con fotos y diagnóstico técnico, sello Certiweb, suscripciones mensuales y anuales.</td>
+      <td>Publicación de autos, filtros de búsqueda avanzada, fotos y planes publicitarios.</td>
+      <td>Publicaciones, historial del vehículo, calculadora de valor estimado, contacto con dealers.</td>
+      <td>Revisión mecánica básica, pruebas de carretera y verificación de fallas, sin documentación formal.</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+## Estrategias Clave
 
+1. **Diferenciación a través de la certificación imparcial**
+   - Posicionamiento como tercero confiable que no compra ni vende vehículos
+   - Certificaciones independientes vs competidores vinculados a compraventa
+
+2. **Enfoque en confianza y rapidez de venta**
+   - Promesa clara: "Vende tu auto más rápido y con más seguridad"
+   - Beneficio tangible vs competidores con solo publicación o diagnóstico básico
+
+3. **Alianzas estratégicas**
+   - Convenios con portales (Neoauto, Todoautos) para ofrecer sello Certiweb
+   - Integración como valor añadido en publicaciones vehiculares
+
+4. **Educación del cliente sobre riesgos**
+   - Creación de contenido educativo (reels, blogs, videos)
+   - Enfoque en: estafas comunes y fallas ocultas en autos usados
+
+5. **Segmentación clara del mercado**
+   - Mensajes adaptados para:
+     1. Revendedores
+     2. Vendedores particulares
+     3. Compradores finales
+
+## Tácticas Implementadas
+
+1. **Promociones para usuarios tempranos**
+   - Precios promocionales o inspecciones gratuitas para primeros clientes
+   - Incentivos por compartir experiencias
+
+2. **Certificado visual impactante**
+   - Diseño de sello Certiweb atractivo para:
+     - Publicaciones online
+     - Uso físico en vehículos inspeccionados
+
+3. **Campañas en redes sociales geolocalizadas**
+   - Publicidad segmentada en:
+     - Facebook
+     - Instagram
+     - TikTok
+   - Enfoque en zonas de alto flujo (Ej: Surquillo, San Miguel en Lima)
+
+4. **Sistema de referidos**
+   - Programa que premia:
+     1. Cliente que refiere
+     2. Nuevo cliente referido
+   - Generación de tracción orgánica
+
+5. **Suscripciones flexibles para revendedores**
+   - Opciones de suscripción:
+     - Mensual
+     - Anual (con descuentos)
+   - Beneficios adicionales:
+     - Prioridad en inspecciones
+     - Asesoramiento en valorización
+
+6. **Informes desde el portal web**
+   - Funcionalidades clave:
+     - Generación de PDFs compartibles
+     - Integración en proceso de venta
+     - Panel web accesible para clientes
 
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
+
+# Diseño de Entrevistas para Investigación de Mercado
+
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+<h2 style="color: #2c3e50;">Segmento 1: Vendedores Particulares</h2>
+<h3 style="color: #3498db;">Objetivo:</h3> 
+<p>Conocer motivaciones, temores y experiencia al vender autos usados</p>
+
+<h3 style="color: #3498db;">Información a recolectar:</h3>
+<ul>
+  <li>Datos demográficos (edad, género, distrito)</li>
+  <li>Experiencia previa en ventas</li>
+  <li>Canales de venta utilizados</li>
+  <li>Problemas enfrentados</li>
+  <li>Conocimiento de servicios de inspección</li>
+</ul>
+
+<h3 style="color: #3498db;">Preguntas clave:</h3>
+  <ol>
+    <li>¿Has vendido un auto usado anteriormente? ¿Cómo fue la experiencia?</li>
+    <li>¿Cuál fue tu principal preocupación al momento de vender?</li>
+    <li>¿Dónde sueles publicar un auto en venta?</li>
+    <li>¿Qué tanto confías en los compradores que te contactan por internet?</li>
+    <li>¿Te ha pasado que los compradores desconfiaban del estado del auto?</li>
+    <li>¿Alguna vez has mentido u omitido detalles al vender tu auto? ¿Por qué?</li>
+    <li>¿Qué haces para que confíen en que tu auto está en buen estado?</li>
+    <li>¿Conoces algún servicio que certifique el estado de un auto antes de venderlo?</li>
+    <li>¿Pagarías por un servicio que te ayude a vender más rápido? ¿Cuánto?</li>
+    <li>¿Qué valoras más: vender rápido o vender a mejor precio?</li>
+    <li>¿Qué tan complicado es conseguir un mecánico de confianza?</li>
+    <li>¿Te sentirías más seguro si un experto validara que tu auto está bien?</li>
+    <li>¿A qué te dedicas? ¿Te deja tiempo para lidiar con una venta de auto?</li>
+    <li>¿Qué edad tienes y dónde vives?</li>
+    <li>¿Qué redes sociales usas con más frecuencia?</li>
+    <li>¿Compraste ese auto nuevo o de segunda? ¿Cómo fue esa compra?</li>
+    <li>¿Qué dispositivos usas más para hacer tus búsquedas? (Celular, PC, etc.)</li>
+    <li>¿Tienes familia o dependientes a los que involucres en tus decisiones?</li>
+    <li>¿Qué frustraciones has tenido al vender autos en el pasado?</li>
+    <li>Si tuvieras una herramienta que agilice y dé más confianza al proceso de venta, ¿la usarías?</li>
+  </ol>
+</div>
+
+<div style="background-color: #e8f4f8; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+<h2 style="color: #2c3e50;">Segmento 2: Revendedores</h2>
+<h3 style="color: #3498db;">Objetivo:</h3>
+<p>Entender proceso comercial y uso de certificaciones</p>
+
+<h3 style="color: #3498db;">Información a recolectar:</h3>
+<ul>
+  <li>Volumen de venta mensual</li>
+  <li>Uso de mecánicos/talleres</li>
+  <li>Necesidad de rotación rápida</li>
+  <li>Canales de venta principales</li>
+  <li>Presupuesto para inspecciones</li>
+</ul>
+
+<h3 style="color: #3498db;">Preguntas clave:</h3>
+  <ol>
+    <li>¿A cuántos autos les das rotación al mes?</li>
+    <li>¿Cómo aseguras la calidad mecánica antes de venderlos?</li>
+    <li>¿Tienes un mecánico fijo o trabajas con varios talleres?</li>
+    <li>¿Sueles invertir en diagnósticos antes de vender?</li>
+    <li>¿Te ha pasado que un cliente devolvió o se quejó del auto vendido?</li>
+    <li>¿Qué importancia tiene la confianza para cerrar una venta?</li>
+    <li>¿Has usado servicios de certificación antes? ¿Cuáles?</li>
+    <li>¿Con qué portales trabajas para publicar tus autos?</li>
+    <li>¿Crees que un sello de certificación ayudaría a vender más rápido?</li>
+    <li>¿Qué valoras más: ahorro de tiempo o validación técnica?</li>
+    <li>¿Cuánto estarías dispuesto a pagar por un servicio mensual de inspección?</li>
+    <li>¿Qué tipo de clientes te exigen más pruebas de calidad?</li>
+    <li>¿Cómo gestionas el papeleo y documentación?</li>
+    <li>¿Te ha beneficiado tener informes técnicos o fotos detalladas del auto?</li>
+    <li>¿Crees que hay mucha competencia en tu zona? ¿Qué te diferencia?</li>
+    <li>¿Qué edad tienes y en qué distrito trabajas?</li>
+    <li>¿Qué dispositivos usas para tus operaciones? ¿WhatsApp, Facebook, OLX, etc.?</li>
+    <li>¿Cuál es tu mayor frustración al vender autos?</li>
+    <li>¿Qué marcas prefieres revender y por qué?</li>
+    <li>¿Estarías dispuesto a incluir el costo de inspección como parte del precio final?</li>
+  </ol>
+</div>
+
+<div style="background-color: #f0e8f8; padding: 15px; border-radius: 5px;">
+<h2 style="color: #2c3e50;">Segmento 3: Compradores</h2>
+<h3 style="color: #3498db;">Objetivo:</h3>
+<p>Identificar temores y proceso de evaluación</p>
+
+<h3 style="color: #3498db;">Información a recolectar:</h3>
+<ul>
+  <li>Motivaciones de compra</li>
+  <li>Nivel de conocimiento técnico</li>
+  <li>Canales de búsqueda</li>
+  <li>Riesgos percibidos</li>
+  <li>Métodos de validación</li>
+</ul>
+
+<h3 style="color: #3498db;">Preguntas clave:</h3>
+  <ol>
+    <li>¿Has comprado un auto usado alguna vez? ¿Cómo fue la experiencia?</li>
+    <li>¿Qué es lo que más te preocupa al comprar un auto de segunda?</li>
+    <li>¿Cómo sueles verificar que el auto esté en buen estado?</li>
+    <li>¿Conoces algún taller o mecánico de confianza?</li>
+    <li>¿Te has sentido estafado o engañado en alguna compra anterior?</li>
+    <li>¿Qué tan importante es para ti que el auto tenga un informe técnico?</li>
+    <li>¿Confías en los vendedores de autos en general?</li>
+    <li>¿Te parece útil que un auto tenga un certificado de inspección antes de comprarlo?</li>
+    <li>¿Pagarías más por un auto que tenga esa certificación?</li>
+    <li>¿Dónde sueles buscar autos: Marketplace, OLX, portales especializados?</li>
+    <li>¿Qué redes sociales usas más para revisar o buscar autos?</li>
+    <li>¿Qué dispositivos usas para hacer búsquedas?</li>
+    <li>¿Qué edad tienes, dónde vives y a qué te dedicas?</li>
+    <li>¿Tomas la decisión solo o con tu pareja/familia?</li>
+    <li>¿Qué aspectos del auto revisas tú mismo antes de comprar?</li>
+    <li>¿Cómo decides si confiar en un vendedor?</li>
+    <li>¿Qué marcas o modelos te generan más confianza?</li>
+    <li>¿Te gustaría recibir asesoría profesional para tu próxima compra?</li>
+    <li>¿Qué contenido te parecería útil: videos, checklist, informes descargables?</li>
+    <li>¿Has tenido malas experiencias post-compra? ¿Cuáles?</li>
+  </ol>
+</div>
 
 
 
 #### 2.2.2. Registro de entrevistas
 
+# Segmento 1
 
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+# Segmento 2
+
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+# Segmento 3
+
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -469,19 +863,137 @@ Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta
 
 #### 2.3.3. User Journey Mapping
 
+Journey Map Vendedores individuales de autos usados
+<img src="Images/customer_journey_mapping_1.png">
 
+Journey Map Revendedores o pequeños comerciantes de autos usados
+<img src="Images/Customer_journey_map_2.png">
+
+Journey Map Compradores
+<img src="Images/Customer_journey_map_3.png">
 
 #### 2.3.4. Empathy Mapping
 
+Empathy Mapping Vendedores individuales de autos usados
+<img src="Images/Empathy_map_Mario_Hart.png">
 
+Empathy Mapping Revendedores o pequeños comerciantes de autos usados
+<img src="Images/Empathy_map_Sung_Kang.png">
+
+Empathy Mapping Compradores
+<img src="Images/Empathy_map_Matias_Zagazeta.png">
 
 #### 2.3.5. As-is Scenario Mapping
 
+<img src="Images/as_is_seg1.png">
+<img src="Images/as_is_seg2.png">
+<img src="Images/as_is_seg3.png">
 
+[Link](https://lucid.app/lucidspark/6619d091-cd80-4e92-b0dd-630565981dd9/edit?viewport_loc=726%2C2808%2C3840%2C1918%2C0_0&invitationId=inv_66fb4dd7-a579-427b-9bb2-e7c7b021ef0b)
 
 ### 2.4. Ubiquitous Language
 
-
+<table style="width:100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px;">
+  <thead style="background-color: #f8f8f8; text-align: left;">
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px;">Término (Inglés)</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Término (Español)</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Definición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Used Car</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Auto usado</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehículo que ya ha tenido uno o más dueños previos y se encuentra actualmente en condición de reventa.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Private Seller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vendedor individual</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona natural que vende su auto personal sin ser parte de una empresa o negocio de compraventa de vehículos.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Reseller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Revendedor</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona o empresa que compra autos usados con el propósito de reacondicionarlos y venderlos a otros compradores, buscando una ganancia.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">First-time Buyer</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Comprador primerizo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona que está adquiriendo un vehículo por primera vez y tiene poca o ninguna experiencia previa en el proceso de compraventa automotriz.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle Inspection</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Inspección vehicular</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso técnico mediante el cual se revisa el estado mecánico, estético y funcional de un auto antes de su venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Certification Seal</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sello de certificación</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Distintivo otorgado por Certiweb que valida que un vehículo ha pasado exitosamente una inspección técnica completa.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Inspection Report</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Informe de inspección</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Documento generado por Certiweb que detalla los resultados de la revisión técnica del vehículo, incluyendo observaciones, fallas y recomendaciones.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle Condition</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Estado del vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Nivel de conservación, funcionamiento y apariencia de un auto al momento de ser inspeccionado o vendido.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sales Listing</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Publicación de venta</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Anuncio que contiene información del auto en venta (precio, modelo, fotos, detalles técnicos) y que es publicado en plataformas de venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle History</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Historial del vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Registro de eventos relevantes en la vida del auto: propietarios anteriores, accidentes, mantenimiento, entre otros.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ownership Transfer</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Transferencia de propiedad</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trámite legal mediante el cual el auto cambia oficialmente de dueño en registros públicos o notariales.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pre-purchase Evaluation</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Evaluación precompra</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Revisión técnica realizada antes de cerrar la compra para asegurar que el auto está en buenas condiciones y el precio es justo.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trust in Seller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Confianza en el vendedor</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Percepción del comprador sobre la honestidad y transparencia del vendedor durante el proceso de venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trust in Vehicle</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Confianza en el vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Seguridad que tiene el comprador sobre el estado real del auto, basándose en informes, inspecciones o la transparencia del vendedor.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Listing Platform</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Plataforma de anuncios</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sitio web o aplicación donde se publican autos en venta, como OLX, Mercado Libre Autos o Marketplace.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Photo Session</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sesión de fotos</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso de capturar imágenes del auto para su publicación, idealmente en alta calidad y mostrando diferentes ángulos.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Buyer Decision Process</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso de decisión del comprador</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Etapas mentales y emocionales que atraviesa un comprador antes de concretar la adquisición de un auto.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Post-sale Assurance</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Seguridad postventa</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Garantía o tranquilidad que siente el comprador luego de adquirir un auto, especialmente si fue certificado o revisado previamente.</td>
+    </tr>
+  </tbody>
+</table>
 
 [↑ Volver al índice](#índice)
 # Capítulo III: Requirements Specification
