@@ -988,7 +988,31 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 # Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+En esta sección, se describen las herramientas utilizadas por el equipo para colaborar en el desarrollo del proyecto, así como sus propósitos específicos y las rutas de referencia.
 
+#### 1. Product UX/UI Design
+- **Figma**: Utilizado para el diseño y prototipado de la aplicación, tanto en su versión de escritorio como en navegadores móviles.
+
+#### 2. Software Development
+- **WebStorm**: Entorno de desarrollo integrado (IDE) utilizado para la creación y edición del código fuente del proyecto. Su elección se debe a su excelente soporte para frameworks web como Vue.js.
+- **Rider**: Entorno de desarrollo integrado (IDE) utilizado para la creación y edición del código fuente del proyecto. Su elección se debe a su excelente soporte para C# y .NET.
+- **HTML5**: Lenguaje de marcado utilizado para la estructura del contenido web de la aplicación.
+- **CSS**: Utilizado para el diseño y la presentación visual de las páginas web, complementando el contenido estructurado por HTML.
+- **JavaScript**: Lenguaje de programación empleado para crear interactividad y manejar la lógica del frontend de la aplicación.
+- **Vertabelo**: Herramienta utilizada para la creación y gestión de diagramas entidad-relación (ERD), empleada para diseñar la base de datos del proyecto.
+- **Structurizr**: Utilizado para el diseño del diagrama C4, representando la arquitectura del sistema y sus componentes.
+
+#### 3. Software Testing
+- **Gherkin**: Lenguaje de etiquetado utilizado para definir los criterios de aceptación de las historias de usuario. Facilita la escritura de pruebas de comportamiento y asegura que los criterios sean entendibles tanto para el equipo técnico como no técnico.
+
+#### 4. Software Deployment
+- **GitHub Pages**: Utilizado para el despliegue de la landing page, permitiendo que el sitio web esté disponible públicamente. La plataforma ofrece una solución de hosting gratuita y fácil de usar directamente desde el repositorio de GitHub, lo que facilita la actualización continua del sitio.  
+  - **Ruta de referencia**: [https://pages.github.com](https://pages.github.com)
+- **Azure Static Web Apps**: Utilizado para el despliegue y hosting de aplicaciones web estáticas, facilitando la integración continua y la entrega continua (CI/CD) directamente desde los repositorios de código.
+  - **Ruta de referencia**: [https://learn.microsoft.com/es-mx/azure/static-web-apps/](https://learn.microsoft.com/es-mx/azure/static-web-apps/)
+
+#### 5. Software Documentation
+- **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
 
 
 #### 5.1.2. Source Code Management
