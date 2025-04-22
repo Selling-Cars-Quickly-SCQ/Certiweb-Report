@@ -1015,14 +1015,27 @@ Empathy Mapping Compradores
 | E3-US01 | Verificación de inspección antes de comprar | Como comprador quiero ver si un auto publicado está certificado por Certiweb para tomar decisiones más seguras. | Dado que estoy viendo un anuncio con sello Certiweb cuando hago clic en el sello entonces puedo acceder al informe técnico del vehículo. | 3 | 
 | E3-US02 | Comparación de vehículos certificados | Como comprador quiero comparar dos o más autos con inspección Certiweb para elegir el que tenga mejor estado. | Dado que tengo varios links a informes Certiweb cuando accedo a la herramienta de comparación entonces puedo ver un resumen lado a lado de sus condiciones. | 3 | 
 | E3-US03 | Reportar inconsistencia | Como comprador quiero reportar una posible inconsistencia en un informe para asegurar transparencia en el proceso. | Dado que noto un problema en el contenido del informe cuando envío una observación desde el sitio entonces el sistema registra el caso y notifica a Certiweb. | 3 |
-| E4-US04 | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | Dado que tengo un código o link de un informe cuando lo ingreso en la sección de validación entonces el sistema muestra si el informe es oficial y vigente. | 3 |
+| E3-US04 | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | Dado que tengo un código o link de un informe cuando lo ingreso en la sección de validación entonces el sistema muestra si el informe es oficial y vigente. | 3 |
 
 ### 3.3. Impact Mapping
 [Impact mapping](/Images/Certiweb-ImpactMapping.png)
 
 
 ### 3.4. Product Backlog
-
+|# Orden|User Story ID|Título|Descripción|Story Points|
+|--|----|-----|-------------|--|
+|1| E1-US01 | Solicitud de inspección | Como vendedor individual quiero solicitar la inspección técnica de mi auto para poder publicarlo con respaldo técnico. | 3 |  
+|2| E1-US02 | Visualización del informe técnico | Como vendedor individual quiero ver el informe técnico de mi auto para compartirlo con interesados. | 3 |  
+|3| E1-US03 | Publicación del sello de certificación | Como vendedor individual quiero incluir un sello de certificación en mi anuncio en línea para generar mayor confianza. | 2 |  
+|4| E1-US04 | Historial de inspecciones | Como vendedor individual quiero ver un historial de las inspecciones realizadas a mis autos para tener trazabilidad técnica de cada uno. | 3 | 
+|5| E2-US01 | Registro masivo de vehículos | Como revendedor quiero registrar varios vehículos a la vez para ahorrar tiempo en la gestión de inspecciones. | 5 |  
+|6| E2-US02 | Estado de inspecciones | Como revendedor quiero ver el estado de inspección de mis vehículos para saber cuáles están listos para vender. | 3 |  
+|7| E2-US03 | Enlace compartible para clientes | Como revendedor quiero compartir el enlace al informe técnico de un auto para que el cliente lo revise fácilmente. | 2 |  
+|8| E2-US04 | Notificaciones de progreso | Como revendedor quiero recibir notificaciones cuando cambie el estado de una inspección para mantenerme informado sin tener que revisar constantemente. | 2 |  
+|9| E3-US01 | Verificación de inspección antes de comprar | Como comprador quiero ver si un auto publicado está certificado por Certiweb para tomar decisiones más seguras. | 3 |  
+|10| E3-US02 | Comparación de vehículos certificados | Como comprador quiero comparar dos o más autos con inspección Certiweb para elegir el que tenga mejor estado. | 5 |  
+|11| E3-US03 | Reportar inconsistencia | Como comprador quiero reportar una posible inconsistencia en un informe para asegurar transparencia en el proceso. | 2 |  
+|12| E3-US04 | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | 3 |  
 
 
 [↑ Volver al índice](#índice)
