@@ -1003,10 +1003,19 @@ Empathy Mapping Compradores
 
 ### 3.2. User Stories
 |Story ID|Titulo|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
-|----|----|----|----|----|
+|---|---|--------|-------|--|
 | E1-US01 | Solicitud de inspección | Como vendedor individual quiero solicitar la inspección técnica de mi auto para poder publicarlo con respaldo técnico. | Dado que estoy registrado cuando solicito una inspección y completo mis datos entonces el sistema agenda la revisión y me muestra la confirmación. | 1 | 
 | E1-US02 | Visualización del informe técnico | Como vendedor individual quiero ver el informe técnico de mi auto para compartirlo con interesados. | Dado que la inspección ha sido completada cuando ingreso al panel del vehículo entonces puedo ver y descargar el informe generado. | 1 | 
 | E1-US03 | Publicación del sello de certificación | Como vendedor individual quiero incluir un sello de certificación en mi anuncio en línea para generar mayor confianza. | Dado que el auto cuenta con una inspección aprobada cuando accedo a la ficha del vehículo entonces puedo copiar el código para incluir el sello en portales de autos. | 1 |
+| E1-US04 | Historial de inspecciones | Como vendedor individual quiero ver un historial de las inspecciones realizadas a mis autos para tener trazabilidad técnica de cada uno. | Dado que tengo vehículos inspeccionados anteriormente cuando accedo a mi historial entonces puedo ver fecha, resultados y descargar informes antiguos. | 1 |
+| E2-US01 | Registro masivo de vehículos | Como revendedor quiero registrar varios vehículos a la vez para ahorrar tiempo en la gestión de inspecciones. | Dado que tengo múltiples vehículos cuando subo un archivo con sus datos entonces el sistema los registra y muestra un resumen de carga. | 2 | 
+| E2-US02 | Estado de inspecciones | Como revendedor quiero ver el estado de inspección de mis vehículos para saber cuáles están listos para vender. | Dado que tengo autos inspeccionados y otros en proceso cuando accedo al panel de gestión entonces veo una lista con estado “pendiente”, “en inspección” o “certificado”. | 2 | 
+| E2-US03 | Enlace compartible para clientes | Como revendedor quiero compartir el enlace al informe técnico de un auto para que el cliente lo revise fácilmente. | Dado que un informe ya fue generado cuando copio o envío el enlace entonces el comprador puede acceder sin necesidad de login. | 2 |
+| E2-US04 | Notificaciones de progreso | Como revendedor quiero recibir notificaciones cuando cambie el estado de una inspección para mantenerme informado sin tener que revisar constantemente. | Dado que tengo autos en proceso de inspección cuando se actualiza su estado entonces recibo una notificación por correo o en la plataforma.| 2 |
+| E3-US01 | Verificación de inspección antes de comprar | Como comprador quiero ver si un auto publicado está certificado por Certiweb para tomar decisiones más seguras. | Dado que estoy viendo un anuncio con sello Certiweb cuando hago clic en el sello entonces puedo acceder al informe técnico del vehículo. | 3 | 
+| E3-US02 | Comparación de vehículos certificados | Como comprador quiero comparar dos o más autos con inspección Certiweb para elegir el que tenga mejor estado. | Dado que tengo varios links a informes Certiweb cuando accedo a la herramienta de comparación entonces puedo ver un resumen lado a lado de sus condiciones. | 3 | 
+| E3-US03 | Reportar inconsistencia | Como comprador quiero reportar una posible inconsistencia en un informe para asegurar transparencia en el proceso. | Dado que noto un problema en el contenido del informe cuando envío una observación desde el sitio entonces el sistema registra el caso y notifica a Certiweb. | 3 |
+| E4-US04 | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | Dado que tengo un código o link de un informe cuando lo ingreso en la sección de validación entonces el sistema muestra si el informe es oficial y vigente. | 3 |
 
 ### 3.3. Impact Mapping
 
