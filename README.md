@@ -1063,8 +1063,21 @@ Se emplea para los mensajes de commmits el estándar de **Conventional Commits**
 
 
 #### 5.1.4. Software Deployment Configuration
+Se inicio con la creación de la organización en github. 
 
+<img src="Images/github-organization.png" />
 
+Posteriormente, se asocio a los integrantes del equipo para poder colaborar en los repositorios de la organización.
+
+<img src="Images/github-members.png" />
+
+Luego, se crearon los repositorios del reporte, Landing Page, Frontend y Backend para organizar los productos entregables.
+
+<img src="Images/github-repositories.png" />
+
+Finalmente, se configuro y desplegó la versión inicial del Landing Page en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
+
+<img src="Images/github-landing-deployment.png" />
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
