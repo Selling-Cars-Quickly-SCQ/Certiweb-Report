@@ -992,7 +992,46 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 
 #### 5.1.2. Source Code Management
+En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
 
+- Report: https://github.com/Selling-Cars-Quickly-SCQ/Certiweb-Report
+- Landing page: https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page
+- Frontend: https://github.com/Selling-Cars-Quickly-SCQ/frontend
+- Backend: https://github.com/Selling-Cars-Quickly-SCQ/backend
+
+#### GitFlow Workflow
+Se implementa el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
+
+##### Para el Reporte:
+
+- **master**: Contiene las versiones estables del reporte.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama master.
+- **feature-\<número de capítulo>**: Rama creada para el desarrollo de funcionalidades del capítulo.
+
+##### Para el Landing, Frontend y Backend:
+
+- **main**: Contiene las versiones estables del reporte.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama release/\<versión>.
+- **hotfix**: Se utiliza para integrar caracteristicas urgentes que afectan el funcionamiento de la aplicación.
+- **realease/\<Versión>**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama main.
+- **feature/\<nombre de funcionalidad>**: Rama creada para el desarrollo de funcionalidades específicas según el nombre. Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
+
+<img src="Images/gitflow.png" />
+
+#### Conventional Commits
+Se emplea para los mensajes de commmits el estándar de **Conventional Commits** con las siguientes etiquetas:
+
+- **feat**: Nuevas características.
+- **fix**: Corrección de errores.
+- **docs**: Documentación.
+- **style**: Modificaciones de estilos.
+- **refactor**: Cambio de código que no corrige un error ni añade una característica.
+- **perf**: Modificaciones que mejoran el rendimiento.
+- **test**: Modificacciones en testing.
+- **build**: Cambios que afectan al sistema de compilación o a dependencias externas.
+- **ci**: Cambios en nuestros archivos y scripts de configuración CI.
+- **chore**: Otros cambios que no modifican ficheros src o test
+- **revert**: Revierte un commit anterior
 
 
 #### 5.1.3. Source Code Style Guide & Conventions
