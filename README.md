@@ -863,19 +863,137 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 #### 2.3.3. User Journey Mapping
 
+Journey Map Vendedores individuales de autos usados
+<img src="Images/customer_journey_mapping_1.png">
 
+Journey Map Revendedores o pequeños comerciantes de autos usados
+<img src="Images/Customer_journey_map_2.png">
+
+Journey Map Compradores
+<img src="Images/Customer_journey_map_3.png">
 
 #### 2.3.4. Empathy Mapping
 
+Empathy Mapping Vendedores individuales de autos usados
+<img src="Images/Empathy_map_Mario_Hart.png">
 
+Empathy Mapping Revendedores o pequeños comerciantes de autos usados
+<img src="Images/Empathy_map_Sung_Kang.png">
+
+Empathy Mapping Compradores
+<img src="Images/Empathy_map_Matias_Zagazeta.png">
 
 #### 2.3.5. As-is Scenario Mapping
 
+<img src="Images/as_is_seg1.png">
+<img src="Images/as_is_seg2.png">
+<img src="Images/as_is_seg3.png">
 
+[Link](https://lucid.app/lucidspark/6619d091-cd80-4e92-b0dd-630565981dd9/edit?viewport_loc=726%2C2808%2C3840%2C1918%2C0_0&invitationId=inv_66fb4dd7-a579-427b-9bb2-e7c7b021ef0b)
 
 ### 2.4. Ubiquitous Language
 
-
+<table style="width:100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px;">
+  <thead style="background-color: #f8f8f8; text-align: left;">
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px;">Término (Inglés)</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Término (Español)</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Definición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Used Car</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Auto usado</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehículo que ya ha tenido uno o más dueños previos y se encuentra actualmente en condición de reventa.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Private Seller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vendedor individual</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona natural que vende su auto personal sin ser parte de una empresa o negocio de compraventa de vehículos.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Reseller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Revendedor</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona o empresa que compra autos usados con el propósito de reacondicionarlos y venderlos a otros compradores, buscando una ganancia.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">First-time Buyer</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Comprador primerizo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona que está adquiriendo un vehículo por primera vez y tiene poca o ninguna experiencia previa en el proceso de compraventa automotriz.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle Inspection</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Inspección vehicular</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso técnico mediante el cual se revisa el estado mecánico, estético y funcional de un auto antes de su venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Certification Seal</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sello de certificación</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Distintivo otorgado por Certiweb que valida que un vehículo ha pasado exitosamente una inspección técnica completa.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Inspection Report</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Informe de inspección</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Documento generado por Certiweb que detalla los resultados de la revisión técnica del vehículo, incluyendo observaciones, fallas y recomendaciones.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle Condition</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Estado del vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Nivel de conservación, funcionamiento y apariencia de un auto al momento de ser inspeccionado o vendido.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sales Listing</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Publicación de venta</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Anuncio que contiene información del auto en venta (precio, modelo, fotos, detalles técnicos) y que es publicado en plataformas de venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle History</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Historial del vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Registro de eventos relevantes en la vida del auto: propietarios anteriores, accidentes, mantenimiento, entre otros.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ownership Transfer</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Transferencia de propiedad</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trámite legal mediante el cual el auto cambia oficialmente de dueño en registros públicos o notariales.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pre-purchase Evaluation</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Evaluación precompra</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Revisión técnica realizada antes de cerrar la compra para asegurar que el auto está en buenas condiciones y el precio es justo.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trust in Seller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Confianza en el vendedor</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Percepción del comprador sobre la honestidad y transparencia del vendedor durante el proceso de venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trust in Vehicle</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Confianza en el vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Seguridad que tiene el comprador sobre el estado real del auto, basándose en informes, inspecciones o la transparencia del vendedor.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Listing Platform</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Plataforma de anuncios</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sitio web o aplicación donde se publican autos en venta, como OLX, Mercado Libre Autos o Marketplace.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Photo Session</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sesión de fotos</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso de capturar imágenes del auto para su publicación, idealmente en alta calidad y mostrando diferentes ángulos.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Buyer Decision Process</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso de decisión del comprador</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Etapas mentales y emocionales que atraviesa un comprador antes de concretar la adquisición de un auto.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Post-sale Assurance</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Seguridad postventa</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Garantía o tranquilidad que siente el comprador luego de adquirir un auto, especialmente si fue certificado o revisado previamente.</td>
+    </tr>
+  </tbody>
+</table>
 
 [↑ Volver al índice](#índice)
 # Capítulo III: Requirements Specification
