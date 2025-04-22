@@ -155,7 +155,7 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 | Agama Espinoza, Eric Fabrizio <br> <img src="Images/eric.png" width="150"/> | Soy Eric Agama, estudiante de Ingeniería de Software. Me caracterizo por ser responsable y comprometido en mis trabajos, y siempre busco optimizar la organización dentro del equipo. Tengo experiencia con el lenguaje Luau en Roblox Studio.              |             |
 | Millones Espinoza, Jesus Andres <br> <img src="Images/jesus-millones.png" width="150"/>      | Mi nombre es Jesús Millones, estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java. |
 | Santos Torres, Juan Manuel <br> <img src="Images/" width="150"/>      | [texto]. |
-| Trillo Hernandez, Anghel Melanie <br> <img src="Images/" width="150"/>     | [texto]. |
+| Trillo Hernandez, Anghel Melanie <br> <img src="Images/anghel-trillo.jpg" width="150"/>     | Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual. |
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
