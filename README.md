@@ -998,11 +998,14 @@ Empathy Mapping Compradores
 [↑ Volver al índice](#índice)
 # Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
-
+| E1-US01 | Solicitud de inspección | Como vendedor individual quiero solicitar la inspección técnica de mi auto para poder publicarlo con respaldo técnico. | Dado que estoy registrado cuando solicito una inspección y completo mis datos entonces el sistema agenda la revisión y me muestra la confirmación. | 1 | 
+| E1-US02 | Visualización del informe técnico | Como vendedor individual quiero ver el informe técnico de mi auto para compartirlo con interesados. | Dado que la inspección ha sido completada cuando ingreso al panel del vehículo entonces puedo ver y descargar el informe generado. | 1 | 
+| E1-US03 | Publicación del sello de certificación | Como vendedor individual quiero incluir un sello de certificación en mi anuncio en línea para generar mayor confianza. | Dado que el auto cuenta con una inspección aprobada cuando accedo a la ficha del vehículo entonces puedo copiar el código para incluir el sello en portales de autos. | 1 |
 
 
 ### 3.2. User Stories
-
+|Story ID|Titulo|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
+|----|----|----|----|----|
 
 
 ### 3.3. Impact Mapping
