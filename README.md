@@ -784,7 +784,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 | Edad         | 44           |
 | Distrito     | Villa El Salvador          |
 | <img src="Images/" width="200"/>  | [Fernando Marchena](/Images/FernandoRamirez.png) |
-| URL de la grabación | [Link](link)            |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EX1wwmDzIHdNmC5BcsLz6kYBArWGdpbMP4b9OCYKjrgLvQ?e=0GHpFF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)            |
 <br>
 
 | Entrevista 2 | Boris Arana |
@@ -792,7 +792,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 | Edad         |        50       |
 | Distrito     | Chorrillos          |
 | <img src="Images/" width="200"/>  | [Boris Arana](/Images/BorisArana.png) |
-| URL de la grabación | [Link](link)            |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EUaATBu7BVlPtASkkzdAN2sBaxmULpiGdO1Ttru30nkYbw?e=5a9M8d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)            |
 <br>
 
 | Entrevista 3 | Juan Carlos Ramirez |
@@ -800,7 +800,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 | Edad         |    38        |
 | Distrito     | San Miguel          |
 | <img src="Images/" width="200"/>  | [JC Ramirez](/Images/JuanCarlosRamirez.png) |
-| URL de la grabación | [Link](link)            |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EfDkdazl5mRLhVd6AlosfZoBG4S93iSHuShBow0JPPWTWw?e=v0Xteo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)            |
 <br>
 
 # Segmento 3
