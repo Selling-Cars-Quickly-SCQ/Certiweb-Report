@@ -783,7 +783,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 |------------------|----------------------|
 | Edad         | 44           |
 | Distrito     | Villa El Salvador          |
-| <img src="Images/" width="200"/>  | [texto] |
+| <img src="Images/" width="200"/>  | [Fernando Marchena](/Images/FernandoRamirez.png) |
 | URL de la grabación | [Link](link)            |
 <br>
 
@@ -791,7 +791,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 |------------------|----------------------|
 | Edad         |        50       |
 | Distrito     | Chorrillos          |
-| <img src="Images/" width="200"/>  | [texto] |
+| <img src="Images/" width="200"/>  | [Boris Arana](/Images/BorisArana.png) |
 | URL de la grabación | [Link](link)            |
 <br>
 
@@ -799,7 +799,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 |------------------|----------------------|
 | Edad         |    38        |
 | Distrito     | San Miguel          |
-| <img src="Images/" width="200"/>  | [texto] |
+| <img src="Images/" width="200"/>  | [JC Ramirez](/Images/JuanCarlosRamirez.png) |
 | URL de la grabación | [Link](link)            |
 <br>
 
