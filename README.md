@@ -779,31 +779,28 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 # Segmento 2
 
-| Entrevista 1 | [texto] |
+| Entrevista 1 | Fernando Ramirez Marchena |
 |------------------|----------------------|
-| Edad         | [texto]              |
-| Distrito     | [texto]          |
+| Edad         | 44           |
+| Distrito     | Villa El Salvador          |
 | <img src="Images/" width="200"/>  | [texto] |
 | URL de la grabación | [Link](link)            |
-| Timming      | [texto]           |
 <br>
 
-| Entrevista 2 | [texto] |
+| Entrevista 2 | Boris Arana |
 |------------------|----------------------|
-| Edad         | [texto]              |
-| Distrito     | [texto]          |
+| Edad         |        50       |
+| Distrito     | Chorrillos          |
 | <img src="Images/" width="200"/>  | [texto] |
 | URL de la grabación | [Link](link)            |
-| Timming      | [texto]           |
 <br>
 
-| Entrevista 3 | [texto] |
+| Entrevista 3 | Juan Carlos Ramirez |
 |------------------|----------------------|
-| Edad         | [texto]              |
-| Distrito     | [texto]          |
+| Edad         |    38        |
+| Distrito     | San Miguel          |
 | <img src="Images/" width="200"/>  | [texto] |
 | URL de la grabación | [Link](link)            |
-| Timming      | [texto]           |
 <br>
 
 # Segmento 3
