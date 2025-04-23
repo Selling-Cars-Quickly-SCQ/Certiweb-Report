@@ -1027,8 +1027,7 @@ Empathy Mapping Compradores
 | E3-US04 | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | Dado que tengo un código o link de un informe cuando lo ingreso en la sección de validación entonces el sistema muestra si el informe es oficial y vigente. | 3 |
 
 ### 3.3. Impact Mapping
-[Impact mapping](/Images/Certiweb-ImpactMapping.png)
-
+<img src="Images/Certiweb-ImpactMapping.png">
 
 ### 3.4. Product Backlog
 |# Orden|User Story ID|Título|Descripción|Story Points|
