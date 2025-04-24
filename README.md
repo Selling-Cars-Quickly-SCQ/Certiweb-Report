@@ -1049,8 +1049,6 @@ Empathy Mapping Compradores
 
 ### 3.4. Product Backlog
 
-### Product Backlog
-
 | # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) | Prioridad |
 |---------|---------------|--------|-------------|----------------------------------|-----------|
 | 1       | US01          | Información clara sobre Certiweb | Como visitante quiero entender de inmediato qué es Certiweb y qué beneficios ofrece para decidir si usarlo. | 3 | Alta |
