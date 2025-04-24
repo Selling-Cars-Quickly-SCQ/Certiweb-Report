@@ -45,7 +45,7 @@ width=50%"/>
 
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
-|---------|------------|------------|
+|------|------------|------------|
 |Trabaja en equipo <br>para  proporcionar liderazgo en <br> forma conjunta|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
 |Crea un entorno colaborativo e <br>inclusivo, establece <br>metas, planifica tareas y cumple objetivos|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
 
@@ -151,11 +151,11 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 
 | Nombre                           | Descripción                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Lopez Roman, Franco Mauricio <br> <img src="Images/franco-lopez.png" width="150"/>|[texto]. |
+| Lopez Roman, Franco Mauricio <br> <img src="Images/franco-lopez.png" width="150"/>|Me llamo Franco Mauricio Lopez y soy estudiante de la carrera de Ingenieria de Software. Me considero una persona responsable y comprometida, que da su mayor esfuerzo para el proyecto, con una comunicación para el trabajo en equipo. |
 | Agama Espinoza, Eric Fabrizio <br> <img src="Images/eric.png" width="150"/> | Soy Eric Agama, estudiante de Ingeniería de Software. Me caracterizo por ser responsable y comprometido en mis trabajos, y siempre busco optimizar la organización dentro del equipo. Tengo experiencia con el lenguaje Luau en Roblox Studio.              |             |
 | Millones Espinoza, Jesus Andres <br> <img src="Images/jesus-millones.png" width="150"/>      | Mi nombre es Jesús Millones, estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java. |
 | Santos Torres, Juan Manuel <br> <img src="Images/" width="150"/>      | [texto]. |
-| Trillo Hernandez, Anghel Melanie <br> <img src="Images/" width="150"/>     | [texto]. |
+| Trillo Hernandez, Anghel Melanie <br> <img src="Images/anghel-trillo.jpg" width="150"/>     | Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual. |
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
@@ -748,7 +748,92 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 #### 2.2.2. Registro de entrevistas
 
+# Segmento 1
 
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+# Segmento 2
+
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+# Segmento 3
+
+| Entrevista 1 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 2 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
+
+| Entrevista 3 | [texto] |
+|------------------|----------------------|
+| Edad         | [texto]              |
+| Distrito     | [texto]          |
+| <img src="Images/" width="200"/>  | [texto] |
+| URL de la grabación | [Link](link)            |
+| Timming      | [texto]           |
+<br>
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -757,45 +842,231 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 
-
+<img src="Images/Mario Hart.png">
+<img src="Images/Sung Kang.png">
+<img src="Images/Matías Zagazeta.png">
 
 #### 2.3.2. User Task Matrix
 
-
+| TASK                                                            | Revendedor(a) FREQUENCY | Revendedor(a) IMPORTANCE | Concencionario(a) FREQUENCY | Concencionario(a) IMPORTANCE | Comprador(a) FREQUENCY  | Comprador(a) IMPORTANCE  |
+|-----------------------------------------------------------------|-------------------------|--------------------------|-----------------------------|------------------------------|-------------------------|--------------------------|
+| Preparar vehículo para venta                                    | Always                  | High                     | Never                       | Low                          | Always                  | High                     |
+| Publicar anuncios en plataformas                                | Always                  | High                     | Never                       | Low                          | Always                  | High                     |
+| Coordinar visitas para mostrar el auto                          | Sometimes               | Medium                   | Sometimes                   | Medium                       | Always                  | High                     |
+| Revisar vehículos en venta (búsqueda y comparación)             | Never                   | Low                      | Always                      | High                         | Sometimes               | Medium                   |
+| Coordinar inspecciones o revisiones mecánicas                   Sometimes                 | Medium                   | Sometimes                   | High                         | Always                  | High                     |
+| Verificar documentación legal y técnica del auto                | Always                  | High                     | Always                      | High                         | Always                  | High                     |
+| Negociar el precio                                              | Always                  | High                     | Sometimes                   | Medium                       | Always                  | High                     |
+| Generar confianza frente al otro usuario (vendedor o comprador) | Always                  | High                     | Always                      | High                         | Always                  | High                     |
+| Validar estado técnico del auto de forma objetiva               | Sometimes               | High                     | Always                      | High                         | Always                  | High                     |
+| Concretar la venta o compra con seguridad                       | Always                  | High                     | Always                      | High                         | Always                  | High                     |
 
 #### 2.3.3. User Journey Mapping
 
+Journey Map Vendedores individuales de autos usados
+<img src="Images/customer_journey_mapping_1.png">
 
+Journey Map Revendedores o pequeños comerciantes de autos usados
+<img src="Images/Customer_journey_map_2.png">
+
+Journey Map Compradores
+<img src="Images/Customer_journey_map_3.png">
 
 #### 2.3.4. Empathy Mapping
 
+Empathy Mapping Vendedores individuales de autos usados
+<img src="Images/Empathy_map_Mario_Hart.png">
 
+Empathy Mapping Revendedores o pequeños comerciantes de autos usados
+<img src="Images/Empathy_map_Sung_Kang.png">
+
+Empathy Mapping Compradores
+<img src="Images/Empathy_map_Matias_Zagazeta.png">
 
 #### 2.3.5. As-is Scenario Mapping
 
+<img src="Images/as_is_seg1.png">
+<img src="Images/as_is_seg2.png">
+<img src="Images/as_is_seg3.png">
 
+[Link](https://lucid.app/lucidspark/6619d091-cd80-4e92-b0dd-630565981dd9/edit?viewport_loc=726%2C2808%2C3840%2C1918%2C0_0&invitationId=inv_66fb4dd7-a579-427b-9bb2-e7c7b021ef0b)
 
 ### 2.4. Ubiquitous Language
 
-
+<table style="width:100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px;">
+  <thead style="background-color: #f8f8f8; text-align: left;">
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px;">Término (Inglés)</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Término (Español)</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Definición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Used Car</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Auto usado</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehículo que ya ha tenido uno o más dueños previos y se encuentra actualmente en condición de reventa.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Private Seller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vendedor individual</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona natural que vende su auto personal sin ser parte de una empresa o negocio de compraventa de vehículos.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Reseller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Revendedor</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona o empresa que compra autos usados con el propósito de reacondicionarlos y venderlos a otros compradores, buscando una ganancia.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">First-time Buyer</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Comprador primerizo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Persona que está adquiriendo un vehículo por primera vez y tiene poca o ninguna experiencia previa en el proceso de compraventa automotriz.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle Inspection</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Inspección vehicular</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso técnico mediante el cual se revisa el estado mecánico, estético y funcional de un auto antes de su venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Certification Seal</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sello de certificación</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Distintivo otorgado por Certiweb que valida que un vehículo ha pasado exitosamente una inspección técnica completa.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Inspection Report</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Informe de inspección</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Documento generado por Certiweb que detalla los resultados de la revisión técnica del vehículo, incluyendo observaciones, fallas y recomendaciones.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle Condition</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Estado del vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Nivel de conservación, funcionamiento y apariencia de un auto al momento de ser inspeccionado o vendido.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sales Listing</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Publicación de venta</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Anuncio que contiene información del auto en venta (precio, modelo, fotos, detalles técnicos) y que es publicado en plataformas de venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Vehicle History</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Historial del vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Registro de eventos relevantes en la vida del auto: propietarios anteriores, accidentes, mantenimiento, entre otros.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ownership Transfer</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Transferencia de propiedad</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trámite legal mediante el cual el auto cambia oficialmente de dueño en registros públicos o notariales.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pre-purchase Evaluation</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Evaluación precompra</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Revisión técnica realizada antes de cerrar la compra para asegurar que el auto está en buenas condiciones y el precio es justo.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trust in Seller</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Confianza en el vendedor</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Percepción del comprador sobre la honestidad y transparencia del vendedor durante el proceso de venta.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Trust in Vehicle</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Confianza en el vehículo</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Seguridad que tiene el comprador sobre el estado real del auto, basándose en informes, inspecciones o la transparencia del vendedor.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Listing Platform</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Plataforma de anuncios</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sitio web o aplicación donde se publican autos en venta, como OLX, Mercado Libre Autos o Marketplace.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Photo Session</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Sesión de fotos</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso de capturar imágenes del auto para su publicación, idealmente en alta calidad y mostrando diferentes ángulos.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Buyer Decision Process</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Proceso de decisión del comprador</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Etapas mentales y emocionales que atraviesa un comprador antes de concretar la adquisición de un auto.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Post-sale Assurance</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Seguridad postventa</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Garantía o tranquilidad que siente el comprador luego de adquirir un auto, especialmente si fue certificado o revisado previamente.</td>
+    </tr>
+  </tbody>
+</table>
 
 [↑ Volver al índice](#índice)
 # Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
 
+#### Segmento 1: Vendedores individuales
+<img src="Images/tobe-segment1.png">
 
+#### Segmento 2: Revendedores
+<img src="Images/tobe-segment2.png">
+
+#### Segmento 3: Compradores
+<img src="Images/tobe-segment3.png">
+
+[Link](https://lucid.app/lucidspark/6619d091-cd80-4e92-b0dd-630565981dd9/edit?viewport_loc=726%2C2808%2C3840%2C1918%2C0_0&invitationId=inv_66fb4dd7-a579-427b-9bb2-e7c7b021ef0b)
 
 ### 3.2. User Stories
 
+| Epic/Story ID | Título | Descripción |
+|----------------|--------|-------------|
+| EP01 | Landing Page Informativa | Como visitante, quiero entender qué es Certiweb y cómo funciona, para decidir si quiero utilizar el servicio. |
+| EP02 | Gestión y Publicación de Certificaciones Vehiculares | Como vendedor, quiero gestionar inspecciones y mostrar resultados en mi anuncio, para generar confianza en potenciales compradores. |
+| EP03 | Gestión Avanzada para Revendedores | Como revendedor de autos, quiero gestionar múltiples vehículos de manera eficiente, para optimizar mi flujo de trabajo. |
+| EP04 | Experiencia de Compra Segura | Como comprador, quiero tener acceso a la verificación técnica del auto, para tomar decisiones informadas y seguras. |
+| EP05 | API de Gestión Vehicular | Como developer, quiero implementar endpoints para gestionar la inspección de vehículos, para que los datos estén disponibles para la aplicación. |
+<br>
 
+| Epic/Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|----------------|--------|-------------|-------------------------|--------------------------|
+| US01 | Información clara sobre Certiweb | Como visitante quiero entender de inmediato qué es Certiweb y qué beneficios ofrece para decidir si usarlo. | Escenario 1:<br> <strong>Dado</strong> que ingreso a la landing page,<br> <strong>Cuando</strong> leo el contenido destacado,<br> <strong>Entonces</strong> entiendo claramente que Certiweb ofrece inspección técnica y certificación para autos usados. <br> Escenario 2:<br><strong>Dado</strong> que soy un visitante interesado,<br><strong>Cuando</strong> bajo por la página,<br><strong>Entonces</strong> veo ejemplos visuales (sellos, informes, beneficios) que explican los servicios. | EPIC01 |
+| US02 | Testimonios y casos de éxito | Como visitante quiero leer experiencias de otros usuarios para ganar confianza en el servicio. | Escenario 1:<br><strong>Dado</strong> que estoy navegando en la landing,<br><strong>Cuando</strong> bajo hasta la sección de testimonios,<br><strong>Entonces</strong> veo citas reales de compradores,revendedores o vendedores satisfechos. <br> Escenario 2:<br><strong>Dado</strong> que estoy interesado en el servicio,<br><strong>Cuando</strong> hago clic en un testimonio,<br><strong>Entonces</strong> puedo leer una historia completa de éxito. | EPIC01 |
+| US03 | Botón de acción claro | Como visitante quiero ver botones visibles para registrarme o solicitar una inspección para comenzar fácilmente. | Escenario 1:<br><strong>Dado</strong> que estoy en la página principal,<br><strong>Cuando</strong> llego al primer scroll,<br><strong>Entonces</strong> veo botones como “Solicita tu inspección” o “Empieza ahora” que me llevan al registro o agendamiento. <br> Escenario 2:<br><strong>Dado</strong> que estoy en una sección específica,<br><strong>Cuando</strong> veo un botón de acción,<br><strong>Entonces</strong> puedo acceder directamente al formulario de contacto. | EPIC01 |
+| US04 | Compatibilidad móvil del Landing Page | Como visitante desde celular quiero que el sitio web se vea bien y sea fácil de usar desde mi dispositivo para navegar sin complicaciones. | Escenario 1:<br><strong>Dado</strong> que ingreso a la página desde mi teléfono,<br><strong>Cuando</strong> navego por las secciones,<br><strong>Entonces</strong> todos los elementos deben ajustarse correctamente al tamaño de pantalla sin desbordes ni errores de maquetación.<br>Escenario 2:<br><strong>Dado</strong> que estoy usando la navegación móvil,<br><strong>Cuando</strong> toco botones o enlaces,<br><strong>Entonces</strong> estos deben ser accesibles con el dedo y tener un diseño táctil adecuado. | EPIC01 |
+| US05 | Solicitud de inspección | Como vendedor individual quiero solicitar la inspección técnica de mi auto para poder publicarlo con respaldo técnico. | Escenario 1:<br><strong>Dado</strong> que ingreso a la página desde mi teléfono,<br><strong>Cuando</strong> navego por las secciones,<br><strong>Entonces</strong> todos los elementos deben ajustarse correctamente al tamaño de pantalla sin desbordes ni errores de maquetación.<br>Escenario 2:<br><strong>Dado</strong> que estoy usando la navegación móvil,<br><strong>Cuando</strong> toco botones o enlaces,<br><strong>Entonces</strong> estos deben ser accesibles con el dedo y tener un diseño táctil adecuado. | EPIC02 |
+| US06 | Visualización del informe técnico | Como vendedor individual quiero ver el informe técnico de mi auto para compartirlo con interesados. | Escenario 1:<br><strong>Dado</strong> que la inspección ha sido completada,<br><strong>Cuando</strong> ingreso al panel del vehículo,<br><strong>Entonces</strong> puedo ver y descargar el informe generado.<br> Escenario 2:<br><strong>Dado</strong> que necesito compartir el informe,<br><strong>Cuando</strong> selecciono la opción de compartir,<br><strong>Entonces</strong> puedo enviar un enlace directo a los interesados. | EPIC02 |
+| US07 | Publicación del sello de certificación | Como vendedor individual quiero incluir un sello de certificación en mi anuncio en línea para generar mayor confianza. | Escenario 1:<br><strong>Dado</strong> que el auto cuenta con una inspección aprobada,<br><strong>Cuando</strong> accedo a la ficha del vehículo,<br><strong>Entonces</strong> puedo copiar el código para incluir el sello en portales de autos. <br> Escenario 2:<br><strong>Dado</strong> que estoy editando mi anuncio,<br><strong>Cuando</strong> inserto el código del sello,<br><strong>Entonces</strong> el sello se muestra correctamente en la vista previa. | EPIC02 |
+| US08 | Historial de inspecciones | Como vendedor individual quiero ver un historial de las inspecciones realizadas a mis autos para tener trazabilidad técnica de cada uno. | Escenario 1:<br><strong>Dado</strong> que tengo vehículos inspeccionados anteriormente,<br><strong>Cuando</strong> accedo a mi historial,<br><strong>Entonces</strong> puedo ver fecha, resultados y descargar informes antiguos.<br> Escenario 2:<br><strong>Dado</strong> que necesito revisar un informe específico,<br><strong>Cuando</strong> busco por fecha o vehículo,<br><strong>Entonces</strong> puedo acceder rápidamente al informe deseado. | EPIC02 |
+| US09 | Registro masivo de vehículos | Como revendedor quiero registrar varios vehículos a la vez para ahorrar tiempo en la gestión de inspecciones. | Escenario 1:<br><strong>Dado</strong> que tengo múltiples vehículos,<br><strong>Cuando</strong> subo un archivo con sus datos,<br><strong>Entonces</strong> el sistema los registra y muestra un resumen de carga.<br> Escenario 2:<br><strong>Dado</strong> que algunos datos están incompletos,<br><strong>Cuando</strong> reviso el resumen de carga,<br><strong>Entonces</strong> puedo corregir y completar la información antes de finalizar el registro. | EP03 |
+| US010 | Estado de inspecciones | Como revendedor quiero ver el estado de inspección de mis vehículos para saber cuáles están listos para vender. | Escenario 1:<br><strong>Dado</strong> que tengo autos inspeccionados y otros en proceso,<br><strong>Cuando</strong> accedo al panel de gestión,<br><strong>Entonces</strong> veo una lista con estado “pendiente”, “en inspección” o “certificado”.<br> Escenario 2:<br><strong>Dado</strong> que necesito priorizar ventas,<br><strong>Cuando</strong> filtro por estado,<br><strong>Entonces</strong> puedo ver solo los vehículos listos para vender. | EP03 |
+| US011 | Enlace compartible para clientes | Como revendedor quiero compartir el enlace al informe técnico de un auto para que el cliente lo revise fácilmente. | Escenario 1:<br><strong>Dado</strong> que un informe ya fue generado,<br><strong>Cuando</strong> copio o envío el enlace,<br><strong>Entonces</strong> el comprador puede acceder sin necesidad de login.<br> Escenario 2:<br><strong>Dado</strong> que el cliente ha recibido el enlace,<br><strong>Cuando</strong> hace clic en el enlace,<br><strong>Entonces</strong> puede ver el informe completo en su navegador sin requerir autenticación adicional. | EP03 |
+| US012 | Notificaciones de progreso | Como revendedor quiero recibir notificaciones cuando cambie el estado de una inspección para mantenerme informado sin tener que revisar constantemente. | Escenario 1:<br><strong>Dado</strong> que tengo autos en proceso de inspección,<br><strong>Cuando</strong> se actualiza su estado,<br><strong>Entonces</strong> recibo una notificación por correo o en la plataforma.<br> Escenario 2:<br><strong>Dado</strong> que prefiero notificaciones en tiempo real,<br><strong>Cuando</strong> configuro mis preferencias,<br><strong>Entonces</strong> recibo alertas instantáneas en mi dispositivo móvil. | EP03 |
+| US013 | Verificación de inspección antes de comprar | Como comprador quiero ver si un auto publicado está certificado por Certiweb para tomar decisiones más seguras. | Escenario 1:<br><strong>Dado</strong> que estoy viendo un anuncio con sello Certiweb,<br><strong>Cuando</strong> hago clic en el sello,<br><strong>Entonces</strong> puedo acceder al informe técnico del vehículo.<br> Escenario 2:<br><strong>Dado</strong> que quiero verificar la autenticidad,<br><strong>Cuando</strong> ingreso el código del informe,<br><strong>Entonces</strong> el sistema confirma su validez y detalles. | EP04 |
+| US014 | Comparación de vehículos certificados | Como comprador quiero comparar dos o más autos con inspección Certiweb para elegir el que tenga mejor estado. | Escenario 1:<br><strong>Dado</strong> que tengo varios links a informes Certiweb,<br><strong>Cuando</strong> accedo a la herramienta de comparación,<br><strong>Entonces</strong> puedo ver un resumen lado a lado de sus condiciones.<br> Escenario 2:<br><strong>Dado</strong> que necesito más detalles,<br><strong>Cuando</strong> selecciono un vehículo,<br><strong>Entonces</strong> puedo ver un análisis detallado de su estado técnico. | EP04 |
+| US015 | Reportar inconsistencia | Como comprador quiero reportar una posible inconsistencia en un informe para asegurar transparencia en el proceso. | Escenario 1:<br><strong>Dado</strong> que noto un problema en el contenido del informe,<br><strong>Cuando</strong> envío una observación desde el sitio,<br><strong>Entonces</strong> el sistema registra el caso y notifica a Certiweb.<br> Escenario 2:<br><strong>Dado</strong> que quiero seguimiento,<br><strong>Cuando</strong> reviso el estado de mi reporte,<br><strong>Entonces</strong> puedo ver actualizaciones y respuestas del equipo de Certiweb. | EP04 |
+| US016 | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | Escenario 1:<br><strong>Dado</strong> que tengo un código o link de un informe,<br><strong>Cuando</strong> lo ingreso en la sección de validación,<br><strong>Entonces</strong> el sistema muestra si el informe es oficial y vigente.<br> Escenario 2:<br><strong>Dado</strong> que necesito más información,<br><strong>Cuando</strong> el informe es válido,<br><strong>Entonces</strong> puedo ver detalles adicionales sobre la inspección. | EP04 |
+| TS01 | Endpoint para crear inspección vehicular | Como developer quiero crear un endpoint `POST /inspections` para registrar una solicitud de inspección técnica. | Escenario 1:<br><strong>Dado</strong> que un usuario envía una solicitud con los datos del vehículo,<br><strong>Cuando</strong> la petición es válida,<br><strong>Entonces</strong> se registra en la base de datos y retorna ID y estado “pendiente”. <br> Escenario 2:<br><strong>Dado</strong> que los datos son incompletos,<br><strong>Cuando</strong> intento registrar la inspección,<br><strong>Entonces</strong> el sistema devuelve un error con detalles de los campos faltantes.| EP05 |
+| TS02 | Endpoint para visualizar informe | Como developer quiero implementar un endpoint `GET /report/:id` que devuelva el informe técnico en formato JSON. | Escenario 1:<br><strong>Dado</strong> que se hace una solicitud con un ID válido,<br><strong>Cuando</strong> existe el informe,<br><strong>Entonces</strong> se retorna con los datos técnicos y estado de certificación.<br> Escenario 2:<br><strong>Dado</strong> que el ID no es válido,<br><strong>Cuando</strong> se realiza la solicitud,<br><strong>Entonces</strong> el sistema devuelve un error 404 indicando que el informe no se encontró. | EP05 |
+| TS03 | Endpoint para validación de informe | Como developer quiero un endpoint `GET /validate/:code` para comprobar la autenticidad de un informe. | Escenario 1:<br><strong>Dado</strong> un código de informe válido,<br><strong>Cuando</strong> se consulta la API,<br><strong>Entonces</strong> debe retornar si es válido, certificado y su estado actual.<br> Escenario 2:<br><strong>Dado</strong> un código inválido,<br><strong>Cuando</strong> se realiza la consulta,<br><strong>Entonces</strong> el sistema devuelve un mensaje de error indicando que el código no es válido. | EP05 |
+| TS04 | Endpoint para consulta de informes técnicos | Como developer quiero un endpoint `GET /reports/:vehicleId` para que se pueda obtener el informe técnico de un vehículo inspeccionado. | Escenario 1:<br><strong>Dado</strong> que el vehicleId existe,<br><strong>Cuando</strong> se consulta el endpoint,<br><strong>Entonces</strong> se retorna un JSON con el informe técnico completo.<br>Escenario 2:<br><strong>Dado</strong> que el vehicleId no existe,<br><strong>Cuando</strong> se hace la solicitud,<br><strong>Entonces</strong> el sistema devuelve un error 404 con el mensaje "Informe no encontrado". | EP05 |
 
 ### 3.3. Impact Mapping
-
-
+<img src="Images/Certiweb-ImpactMapping.png">
 
 ### 3.4. Product Backlog
 
-
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) | Prioridad |
+|---------|---------------|--------|-------------|----------------------------------|-----------|
+| 1       | US01          | Información clara sobre Certiweb | Como visitante quiero entender de inmediato qué es Certiweb y qué beneficios ofrece para decidir si usarlo. | 3 | Alta |
+| 2       | US02          | Testimonios y casos de éxito | Como visitante quiero leer experiencias de otros usuarios para ganar confianza en el servicio. | 2 | Alta |
+| 3       | US03          | Botón de acción claro | Como visitante quiero ver botones visibles para registrarme o solicitar una inspección para comenzar fácilmente. | 2 | Alta |
+| 4       | US04          | Compatibilidad móvil del Landing Page | Como visitante desde celular quiero que el sitio web se vea bien y sea fácil de usar desde mi dispositivo para navegar sin complicaciones. | 3 | Media |
+| 5       | US05          | Solicitud de inspección | Como vendedor individual quiero solicitar la inspección técnica de mi auto para poder publicarlo con respaldo técnico. | 5 | Media |
+| 6       | US06          | Visualización del informe técnico | Como vendedor individual quiero ver el informe técnico de mi auto para compartirlo con interesados. | 3 | Media |
+| 7       | US07          | Publicación del sello de certificación | Como vendedor individual quiero incluir un sello de certificación en mi anuncio en línea para generar mayor confianza. | 2 | Media |
+| 8       | US08          | Historial de inspecciones | Como vendedor individual quiero ver un historial de las inspecciones realizadas a mis autos para tener trazabilidad técnica de cada uno. | 3 | Baja |
+| 9       | US09          | Registro masivo de vehículos | Como revendedor quiero registrar varios vehículos a la vez para ahorrar tiempo en la gestión de inspecciones. | 5 | Baja |
+| 10      | US010         | Estado de inspecciones | Como revendedor quiero ver el estado de inspección de mis vehículos para saber cuáles están listos para vender. | 3 | Baja |
+| 11      | US011         | Enlace compartible para clientes | Como revendedor quiero compartir el enlace al informe técnico de un auto para que el cliente lo revise fácilmente. | 2 | Baja |
+| 12      | US012         | Notificaciones de progreso | Como revendedor quiero recibir notificaciones cuando cambie el estado de una inspección para mantenerme informado sin tener que revisar constantemente. | 3 | Baja |
+| 13      | US013         | Verificación de inspección antes de comprar | Como comprador quiero ver si un auto publicado está certificado por Certiweb para tomar decisiones más seguras. | 3 | Baja |
+| 14      | US014         | Comparación de vehículos certificados | Como comprador quiero comparar dos o más autos con inspección Certiweb para elegir el que tenga mejor estado. | 5 | Baja |
+| 15      | US015         | Reportar inconsistencia | Como comprador quiero reportar una posible inconsistencia en un informe para asegurar transparencia en el proceso. | 2 | Baja |
+| 16      | US016         | Validación de informe Certiweb | Como comprador quiero validar un código de informe Certiweb para asegurarme de que es auténtico. | 3 | Baja |
 
 [↑ Volver al índice](#índice)
 # Capítulo IV: Product Design
@@ -978,20 +1249,158 @@ wwewewew
 # Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
+En esta sección, se describen las herramientas utilizadas por el equipo para colaborar en el desarrollo del proyecto, así como sus propósitos específicos y las rutas de referencia.
 
+#### 1. Product UX/UI Design
+- **Figma**: Utilizado para el diseño y prototipado de la aplicación, tanto en su versión de escritorio como en navegadores móviles.
+
+#### 2. Software Development
+- **WebStorm**: Entorno de desarrollo integrado (IDE) utilizado para la creación y edición del código fuente del proyecto. Su elección se debe a su excelente soporte para frameworks web como Vue.js.
+- **Rider**: Entorno de desarrollo integrado (IDE) utilizado para la creación y edición del código fuente del proyecto. Su elección se debe a su excelente soporte para C# y .NET.
+- **HTML5**: Lenguaje de marcado utilizado para la estructura del contenido web de la aplicación.
+- **CSS**: Utilizado para el diseño y la presentación visual de las páginas web, complementando el contenido estructurado por HTML.
+- **JavaScript**: Lenguaje de programación empleado para crear interactividad y manejar la lógica del frontend de la aplicación.
+- **Vertabelo**: Herramienta utilizada para la creación y gestión de diagramas entidad-relación (ERD), empleada para diseñar la base de datos del proyecto.
+- **Structurizr**: Utilizado para el diseño del diagrama C4, representando la arquitectura del sistema y sus componentes.
+
+#### 3. Software Testing
+- **Gherkin**: Lenguaje de etiquetado utilizado para definir los criterios de aceptación de las historias de usuario. Facilita la escritura de pruebas de comportamiento y asegura que los criterios sean entendibles tanto para el equipo técnico como no técnico.
+
+#### 4. Software Deployment
+- **GitHub Pages**: Utilizado para el despliegue de la landing page, permitiendo que el sitio web esté disponible públicamente. La plataforma ofrece una solución de hosting gratuita y fácil de usar directamente desde el repositorio de GitHub, lo que facilita la actualización continua del sitio.  
+  - **Ruta de referencia**: [https://pages.github.com](https://pages.github.com)
+- **Azure Static Web Apps**: Utilizado para el despliegue y hosting de aplicaciones web estáticas, facilitando la integración continua y la entrega continua (CI/CD) directamente desde los repositorios de código.
+  - **Ruta de referencia**: [https://learn.microsoft.com/es-mx/azure/static-web-apps/](https://learn.microsoft.com/es-mx/azure/static-web-apps/)
+
+#### 5. Software Documentation
+- **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
 
 
 #### 5.1.2. Source Code Management
+En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
 
+- Report: https://github.com/Selling-Cars-Quickly-SCQ/Certiweb-Report
+- Landing page: https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page
+- Frontend: https://github.com/Selling-Cars-Quickly-SCQ/frontend
+- Backend: https://github.com/Selling-Cars-Quickly-SCQ/backend
+
+#### GitFlow Workflow
+Se implementa el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
+
+##### Para el Reporte:
+
+- **master**: Contiene las versiones estables del reporte.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama master.
+- **feature-\<número de capítulo>**: Rama creada para el desarrollo de funcionalidades del capítulo.
+
+##### Para el Landing, Frontend y Backend:
+
+- **main**: Contiene las versiones estables del reporte.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama release/\<versión>.
+- **hotfix**: Se utiliza para integrar caracteristicas urgentes que afectan el funcionamiento de la aplicación.
+- **realease/\<Versión>**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama main.
+- **feature/\<nombre de funcionalidad>**: Rama creada para el desarrollo de funcionalidades específicas según el nombre. Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
+
+<img src="Images/gitflow.png" />
+
+#### Conventional Commits
+Se emplea para los mensajes de commmits el estándar de **Conventional Commits** con las siguientes etiquetas:
+
+- **feat**: Nuevas características.
+- **fix**: Corrección de errores.
+- **docs**: Documentación.
+- **style**: Modificaciones de estilos.
+- **refactor**: Cambio de código que no corrige un error ni añade una característica.
+- **perf**: Modificaciones que mejoran el rendimiento.
+- **test**: Modificacciones en testing.
+- **build**: Cambios que afectan al sistema de compilación o a dependencias externas.
+- **ci**: Cambios en nuestros archivos y scripts de configuración CI.
+- **chore**: Otros cambios que no modifican ficheros src o test
+- **revert**: Revierte un commit anterior
 
 
 #### 5.1.3. Source Code Style Guide & Conventions
+Utilizaremos buenas prácticas y convenciones para mantener un código limpio, consistente y fácil de mantener en todos los lenguajes utilizados.
 
+## HTML:
+
+1. **Estructura Semántica**:
+  - Se utilizan etiquetas semánticas para estructurar el contenido, como `<header>`, `<section>`, `<nav>`, `<footer>`, y `<h1>`, lo que mejora la accesibilidad y optimización SEO.
+
+2. **Nombres de Clases**:
+  - Las clases siguen la convención **camelCase** (primera palabra en minúscula y las subsecuentes con capitalización), como `containerH`, `boxH`, `membership-banner-price`, y `membership-card`.
+
+3. **Atributos en Elementos**:
+  - Elementos como `<a>` utilizan `style="--i:0;"`, lo que indica el uso de variables CSS personalizadas, combinadas con animaciones que dependen de `--i`.
+
+4. **Imágenes y Recursos**:
+  - Las imágenes se optimizan con el formato `webp`, mejorando la velocidad de carga (`assets/images/logo/logoWhite.webp`).
+
+## CSS:
+
+1. **Resets de CSS**:
+  - Se aplica un reset de márgenes y padding para asegurar consistencia entre navegadores:
+    ```css
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    ```
+
+2. **Convención de Nombres de Clases**:
+  - Los nombres de clases son **descriptivos** y reflejan el propósito de cada elemento, como `.header`, `.navbar`, `.banner`, `.about-box`.
+
+3. **Uso de Pseudo-clases**:
+  - Se utilizan pseudo-clases como `:hover` y `:checked` para manejar interacciones:
+    ```css
+    #check:checked~.navbar {
+        height: 20.5rem;
+    }
+    ```
+
+4. **Grid Layouts**:
+  - Se usa `display: grid` para la disposición de elementos, junto con `grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));`, lo que hace el diseño adaptable a pantallas de diferentes tamaños.
+
+5. **Media Queries**:
+  - Se incluyen **media queries** para dispositivos pequeños, asegurando una buena experiencia en móviles:
+    ```css
+    @media (max-width: 768px) {
+        .icons {
+            display: inline-flex;
+        }
+    }
+    ```
+
+6. **Variables CSS Personalizadas**:
+  - Se utilizan variables como `--i` en las animaciones para crear **retrasos** controlados por CSS, haciendo que los elementos de la barra de navegación aparezcan secuencialmente.
+
+7. **Transiciones**:
+  - Se implementan transiciones suaves en varios elementos para mejorar la interacción con el usuario:
+    ```css
+    .img-logo:hover {
+        transform: scale(1.25);
+        transition: transform 0.5s ease-in-out;
+    }
+    ```
 
 
 #### 5.1.4. Software Deployment Configuration
+Se inicio con la creación de la organización en github. 
 
+<img src="Images/github-organization.png" />
 
+Posteriormente, se asocio a los integrantes del equipo para poder colaborar en los repositorios de la organización.
+
+<img src="Images/github-members.png" />
+
+Luego, se crearon los repositorios del reporte, Landing Page, Frontend y Backend para organizar los productos entregables.
+
+<img src="Images/github-repositories.png" />
+
+Finalmente, se configuro y desplegó la versión inicial del Landing Page en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
+
+<img src="Images/github-landing-deployment.png" />
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
