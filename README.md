@@ -1071,16 +1071,111 @@ Empathy Mapping Compradores
 [↑ Volver al índice](#índice)
 # Capítulo IV: Product Design
 ### 4.1. Style Guidelines
-
-wwewewew
-
 #### 4.1.1. General Style Guidelines
 
+<div style="background:#F0F9F4;border-radius:8px;padding:20px;margin-bottom:20px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+  
+  <div style="display:flex;align-items:center;margin-bottom:16px;">
+    <div style="flex:1;padding-right:20px;">
+      <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Branding:</h3>
+      <img src="Images/certiweb.png" alt="Certiweb logo" width="180" style="border-radius:4px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex:1;">
+      <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Tipografía:</h3>
+      <p style="margin-bottom:8px;">Fuente principal: <code style="background:#F8ECD6;padding:2px 6px;border-radius:4px;font-family:monospace;">Roboto</code></p>
+      <p style="color:#333;font-size:0.95em;">Es moderna, legible y adecuada para transmitir confianza técnica.</p>
+    </div>
+  </div>
 
+  <h3 style="color:#002D18;margin-top:20px;font-size:1.1em;">Colores:</h3>
+  
+  <div style="overflow-x:auto;">
+    <table style="width:100%;border-collapse:collapse;margin:12px 0;background:white;border-radius:6px;overflow:hidden;">
+      <thead style="background:#002D18;color:white;">
+        <tr>
+          <th style="padding:12px;text-align:left;">Nombre</th>
+          <th style="padding:12px;text-align:left;">Color</th>
+          <th style="padding:12px;text-align:left;">Código HEX</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Arena suave</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#D8CCB8;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#D8CCB8</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Verde oscuro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#002D18;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#002D18</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Verde claro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#F0F9F4;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#F0F9F4</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Negro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#000000;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#000000</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Beige claro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#F8ECD6;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#F8ECD6</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Gris claro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#C3CCC7;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#C3CCC7</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Amarillo pastel</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#F8F8B7;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#F8F8B7</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Amarillo vivo</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#FBB901;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#FBB901</code></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3 style="color:#002D18;margin-top:20px;font-size:1.1em;">Espaciado:</h3>
+  <ul style="color:#333;padding-left:20px;list-style-type:square;">
+    <li>Uso de espaciado fluido en múltiplos de 8px para mantener coherencia visual</li>
+  </ul>
+
+  <h3 style="color:#002D18;margin-top:20px;font-size:1.1em;">Tono de comunicación:</h3>
+  <ul style="color:#333;padding-left:20px;list-style-type:square;">
+    <li>Formal, respetuoso y entusiasta</li>
+    <li>Confianza, profesionalismo y seguridad</li>
+  </ul>
+</div>
 
 #### 4.1.2. Web Style Guidelines
 
-
+<div style="display:flex;gap:20px;margin-bottom:30px;">
+  <div style="flex:1;background:#F8ECD6;border-radius:8px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Diseño Responsivo:</h3>
+    <ul style="color:#333;padding-left:20px;list-style-type:circle;">
+      <li><strong>Mobile-first:</strong> prioridad a la navegación desde dispositivos móviles</li>
+      <li>Uso de tarjetas (cards) para representar vehículos e informes técnicos</li>
+      <li>Tipografía adaptativa: tamaño dinámico desde 14px hasta 24px</li>
+    </ul>
+  </div>
+  
+  <div style="flex:1;background:#F8ECD6;border-radius:8px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Componentes UI:</h3>
+    <ul style="color:#333;padding-left:20px;list-style-type:circle;">
+      <li>Botones con bordes redondeados y sombras suaves</li>
+      <li>Feedback visual (hover, focus, active)</li>
+      <li>Animaciones suaves en la interacción (scroll, carga, validación)</li>
+    </ul>
+  </div>
+</div>
 
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
