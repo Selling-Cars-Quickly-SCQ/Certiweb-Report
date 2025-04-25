@@ -1327,7 +1327,28 @@ Empathy Mapping Compradores
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 
+<!--Register y login-->
 
+
+<!--Dashboard-->
+<img src="Images/webappWireframedashboard1.png">
+<img src="Images/webappWireframedashboard8.png">
+<img src="Images/webappWireframedashboard9.png">
+<img src="Images/webappWireframedashboard10.png">
+<img src="Images/webappWireframedashboard2.png">
+
+<!--Settings-->
+<img src="Images/webappWireframedashboard3.png">
+<img src="Images/webappWireframedashboard4.png">
+<img src="Images/webappWireframedashboard5.png">
+<img src="Images/webappWireframedashboard6.png">
+<img src="Images/webappWireframedashboard7.png">
+
+<!--reserva-->
+<img src="Images/webappWireframedashboard11.png">
+
+<!--Aprovacion de reserva vista admin-->
+<img src="Images/webappWireframedashboard12.png">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
