@@ -1307,11 +1307,22 @@ Empathy Mapping Compradores
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 
+<img src="Images/LandingWire1.png">
+<img src="Images/LandingWire2.png">
 
+### Mobile version
+<img src="Images/LandingWireMobile1.png">
+<img src="Images/LandingWireMobile2.png">
 
 #### 4.3.2. Landing Page Mock-up
 
+<img src="Images/LandingMock1.png">
+<img src="Images/LandingMock2.png">
 
+### Mobile version
+<img src="Images/LandingMockMobile1.png">
+<img src="Images/LandingMockMobile2.png">
+<img src="Images/LandingMockMobile3.png">
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
