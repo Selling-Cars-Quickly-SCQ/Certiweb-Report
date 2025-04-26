@@ -1828,8 +1828,21 @@ URL del repositorio de Web Services: https://github.com/Selling-Cars-Quickly-SCQ
 
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se inicio con la creación de la organización en github. 
 
+<img src="Images/github-organization.png" />
 
+Posteriormente, se asocio a los integrantes del equipo para poder colaborar en los repositorios de la organización.
+
+<img src="Images/github-members.png" />
+
+Luego, se crearon los repositorios del reporte, Landing Page, Frontend y Backend para organizar los productos entregables.
+
+<img src="Images/github-repositories.png" />
+
+Finalmente, se configuro y desplegó la versión inicial del Landing Page en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
+
+<img src="Images/github-landing-deployment.png" />
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
