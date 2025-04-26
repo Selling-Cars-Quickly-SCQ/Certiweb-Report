@@ -1369,15 +1369,19 @@ Empathy Mapping Compradores
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
+<img src="Images/SystemContext.png">
 
+```html
+buyer -> certiwebSystem "Searches and views certified listings, contacts seller (via platform or directly)" "HTTPS"
+```
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-
+<img src="Images/ContainersDiagram.png">
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-
+<img src="Images/ComponentDiagram.png">
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
