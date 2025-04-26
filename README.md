@@ -1787,7 +1787,7 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 | Sprint n - 1 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 1 |
 | **Sprint Goal & User Stories** |                                                                                                                                    |
 | Sprint 1 Goal                | Nuestro enfoque es desarrollar la primera versión de la documentación del proyecto y la elaboración del landing page, como equipo hemos llegado a la conclusión la importancia de el cumplimiento del landing page, pues es donde los potenciales usuarios tendran primer contacto con el proyecto                                                                       |
-| Sprint 1 Velocity            | 5       |
+| Sprint 1 Velocity            | 13       |
 | **Sum of Story Points**      | 13                                |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
@@ -1814,7 +1814,13 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 |            |       | T05                  | Pruebas de Usabilidad en Dispositivos Móviles | Realizar pruebas de usabilidad para garantizar una experiencia óptima en móviles   | 3                      | Eric Fabrizio Agama | Done       |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
-
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | c042919 | docs(assets): add certiweb and logo picture | docs(assets): add certiweb and logo picture | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 727eb97  | docs(video): add certiweb video promo  | docs(video): add certiweb video promo | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 5dceb27  | feat(landing): add hero section | feat(landing): add hero section | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 49b9560  | feat(landing): add reviews section | feat(landing): add reviews section | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 8fd4024  | feat(landing): add contact and footer section | feat(landing): add contact and footer section | 26/04/2025 |
 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
