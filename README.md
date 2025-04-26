@@ -1816,8 +1816,8 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 ##### 5.2.1.4. Development Evidence for Sprint Review
 | Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
 |-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
-| [Certiweb-Landing]() | develop  | commitId | commit message | 25/04/2025 |
-| [Certiweb-Landing]() | develop  |  |  | 25/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | commitId | commit message | 25/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  |  |  | 25/04/2025 |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
