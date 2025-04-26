@@ -1816,8 +1816,12 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 ##### 5.2.1.4. Development Evidence for Sprint Review
 | Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
 |-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
-| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | commitId | commit message | 25/04/2025 |
-| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  |  |  | 25/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | c042919 | docs(assets): add certiweb and logo picture | docs(assets): add certiweb and logo picture | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 727eb97  | docs(video): add certiweb video promo  | docs(video): add certiweb video promo | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 5dceb27  | feat(landing): add hero section | feat(landing): add hero section | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 49b9560  | feat(landing): add reviews section | feat(landing): add reviews section | 26/04/2025 |
+| [Certiweb-Landing](https://github.com/Selling-Cars-Quickly-SCQ/Landing-Page) | develop  | 8fd4024  | feat(landing): add contact and footer section | feat(landing): add contact and footer section | 26/04/2025 |
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
