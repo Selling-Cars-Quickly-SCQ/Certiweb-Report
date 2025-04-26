@@ -1793,7 +1793,9 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
 
+URL del repositorio de Web Services: https://github.com/Selling-Cars-Quickly-SCQ/backend
 
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
