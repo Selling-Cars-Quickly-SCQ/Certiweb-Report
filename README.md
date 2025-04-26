@@ -1774,7 +1774,27 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 
+###### Sprint Planning 1 Background
 
+| Item | Description |
+|:----|:------------|
+| **Date** | 2025-04-17 |
+| **Time** | 09:00 AM |
+| **Location** | Virtual (Google Meet) |
+| **Prepared By** | Eric Agama |
+| **Attendees (to planning meeting)** | Anghel Trillo, Franco Lopez, Jesus Millones, Juan Santos |
+| **Review Summary** | Dedicado a la planificación inicial, definición del Product Backlog, priorización de épicas y arquitectura preliminar.   Se consolidó el enfoque de Certiweb como una plataforma de inspección técnica confiable para autos usados. El equipo entregó el Product Backlog y diagramas de clases. Feedback positivo del Product Owner respecto a la claridad de objetivos. |
+| **Retrospective Summary** | El equipo identificó que la comunicación fue efectiva, pero que sería útil definir un protocolo de reuniones diarias más estructurado.  También se recomendó establecer un **Definition of Ready** más claro para los User Stories. |
+
+---
+
+###### Sprint Goal & User Stories
+
+| Item | Descripción |
+|:----|:------------|
+| **Sprint 1 Goal** | Nuestro enfoque está en entregar una Landing Page inicial para Certiweb que informe y genere confianza entre los visitantes. Creemos que esto logrará el primer compromiso e interés de usuarios potenciales, tanto vendedores como compradores. Esto se confirmará cuando los usuarios puedan entender el valor de Certiweb e iniciar fácilmente el proceso de registro o solicitud de inspección. |
+| **Sprint 1 Velocity** | 8 Story Points |
+| **Sum of Story Points** | 7 Story Points |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
