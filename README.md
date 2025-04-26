@@ -1863,6 +1863,8 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 1.
+
 <img src="Images/insight1-1.png" />
 <img src="Images/insight1-2.png" />
 <img src="Images/insight1-3.png" />
