@@ -1073,88 +1073,497 @@ Empathy Mapping Compradores
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
 
+<div style="background:#F0F9F4;border-radius:8px;padding:20px;margin-bottom:20px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+  
+  <div style="display:flex;align-items:center;margin-bottom:16px;">
+    <div style="flex:1;padding-right:20px;">
+      <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Branding:</h3>
+      <img src="Images/certiweb.png" alt="Certiweb logo" width="180" style="border-radius:4px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex:1;">
+      <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Tipografía:</h3>
+      <p style="margin-bottom:8px;">Fuente principal: <code style="background:#F8ECD6;padding:2px 6px;border-radius:4px;font-family:monospace;">Roboto</code></p>
+      <p style="color:#333;font-size:0.95em;">Es moderna, legible y adecuada para transmitir confianza técnica.</p>
+    </div>
+  </div>
 
+  <h3 style="color:#002D18;margin-top:20px;font-size:1.1em;">Colores:</h3>
+  
+  <div style="overflow-x:auto;">
+    <table style="width:100%;border-collapse:collapse;margin:12px 0;background:white;border-radius:6px;overflow:hidden;">
+      <thead style="background:#002D18;color:white;">
+        <tr>
+          <th style="padding:12px;text-align:left;">Nombre</th>
+          <th style="padding:12px;text-align:left;">Color</th>
+          <th style="padding:12px;text-align:left;">Código HEX</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Arena suave</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#D8CCB8;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#D8CCB8</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Verde oscuro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#002D18;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#002D18</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Verde claro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#F0F9F4;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#F0F9F4</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Negro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#000000;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#000000</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Beige claro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#F8ECD6;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#F8ECD6</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Gris claro</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#C3CCC7;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#C3CCC7</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;">
+          <td style="padding:12px;">Amarillo pastel</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#F8F8B7;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#F8F8B7</code></td>
+        </tr>
+        <tr style="border-bottom:1px solid #F0F9F4;background-color:#F8F8B7;">
+          <td style="padding:12px;">Amarillo vivo</td>
+          <td style="padding:12px;"><span style="display:inline-block;width:24px;height:24px;border-radius:50%;background-color:#FBB901;border:1px solid #ddd;"></span></td>
+          <td style="padding:12px;"><code>#FBB901</code></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3 style="color:#002D18;margin-top:20px;font-size:1.1em;">Espaciado:</h3>
+  <ul style="color:#333;padding-left:20px;list-style-type:square;">
+    <li>Uso de espaciado fluido en múltiplos de 8px para mantener coherencia visual</li>
+  </ul>
+
+  <h3 style="color:#002D18;margin-top:20px;font-size:1.1em;">Tono de comunicación:</h3>
+  <ul style="color:#333;padding-left:20px;list-style-type:square;">
+    <li>Formal, respetuoso y entusiasta</li>
+    <li>Confianza, profesionalismo y seguridad</li>
+  </ul>
+</div>
 
 #### 4.1.2. Web Style Guidelines
 
-
+<div style="display:flex;gap:20px;margin-bottom:30px;">
+  <div style="flex:1;background:#F8ECD6;border-radius:8px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Diseño Responsivo:</h3>
+    <ul style="color:#333;padding-left:20px;list-style-type:circle;">
+      <li><strong>Mobile-first:</strong> prioridad a la navegación desde dispositivos móviles</li>
+      <li>Uso de tarjetas (cards) para representar vehículos e informes técnicos</li>
+      <li>Tipografía adaptativa: tamaño dinámico desde 14px hasta 24px</li>
+    </ul>
+  </div>
+  
+  <div style="flex:1;background:#F8ECD6;border-radius:8px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Componentes UI:</h3>
+    <ul style="color:#333;padding-left:20px;list-style-type:circle;">
+      <li>Botones con bordes redondeados y sombras suaves</li>
+      <li>Feedback visual (hover, focus, active)</li>
+      <li>Animaciones suaves en la interacción (scroll, carga, validación)</li>
+    </ul>
+  </div>
+</div>
 
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 
-
+<div style="display:flex;gap:20px;">
+  <div style="flex:1;background:#F0F9F4;border-radius:8px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">Landing Page:</h3>
+    <ul style="color:#333;padding-left:20px;list-style-type:disc;">
+      <li>Jerarquía visual clara: beneficios → cómo funciona → CTA</li>
+      <li>Organización secuencial para flujos como "Solicitar inspección"</li>
+    </ul>
+  </div>
+  
+  <div style="flex:1;background:#F0F9F4;border-radius:8px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+    <h3 style="color:#002D18;margin-top:0;font-size:1.1em;">App Web:</h3>
+    <ul style="color:#333;padding-left:20px;list-style-type:disc;">
+      <li>Panel con organización por tópicos: "Mis vehículos", "Historial", "Certificados"</li>
+      <li>Organización por audiencia:
+        <ul style="padding-left:20px;list-style-type:circle;">
+          <li>Vendedores individuales</li>
+          <li>Revendedores</li>
+          <li>Compradores primerizos</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
 #### 4.2.2. Labeling Systems
 
-
+<div style="background:#F8F8B7;border-radius:8px;padding:16px;margin:12px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+  <ul style="color:#002D18;padding-left:20px;list-style-type:none;">
+    <li style="margin-bottom:8px;">• <strong>Etiquetas concisas, orientadas a la acción:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">"Solicitar inspección"</li>
+        <li style="margin:4px 0;">"Ver informe"</li>
+        <li style="margin:4px 0;">"Certificado vigente"</li>
+        <li style="margin:4px 0;">"Agregar vehículo"</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+<div style="background:#F0F9F4;border-radius:8px;padding:16px;margin:12px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+  <h4 style="color:#002D18;margin-top:0;margin-bottom:8px;">Landing Page</h4>
+  <pre style="background:#F8ECD6;padding:12px;border-radius:6px;overflow-x:auto;border-left:3px solid #FBB901;"><code>&lt;title&gt;Certiweb - Tu Taller de Inspección y Certificación Vehicular&lt;/title&gt;
+&lt;meta name="description" content="Certiweb te ayuda a vender tu auto con confianza, respaldado por inspecciones técnicas profesionales y certificados verificables."&gt;
+&lt;meta name="keywords" content="Certificación de autos, inspección vehicular, vender auto usado, informe técnico"&gt;
+&lt;meta name="author" content="Selling Cars Quickly (SCQ)"&gt;</code></pre>
 
+  <h4 style="color:#002D18;margin-top:16px;margin-bottom:8px;">Web Application</h4>
+  <pre style="background:#F8ECD6;padding:12px;border-radius:6px;overflow-x:auto;border-left:3px solid #FBB901;"><code>&lt;title&gt;Panel Certiweb - Gestión de Autos&lt;/title&gt;
+&lt;meta name="description" content="Administra tus vehículos, consulta informes técnicos y comparte certificados desde un solo lugar."&gt;
+&lt;meta name="keywords" content="panel de autos, historial de inspección, certificado vehicular, venta segura"&gt;
+&lt;meta name="author" content="Selling Cars Quickly (SCQ)"&gt;</code></pre>
+</div>
 
 #### 4.2.4. Searching Systems
 
-
+<div style="background:#F8ECD6;border-radius:8px;padding:16px;margin:12px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+  <ul style="color:#002D18;padding-left:20px;list-style-type:none;">
+    <li style="margin-bottom:8px;">• <strong>Filtros por:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">Estado del vehículo: Inspeccionado, En revisión, Aprobado.</li>
+        <li style="margin:4px 0;">Tipo de usuario: vendedor individual, revendedor.</li>
+        <li style="margin:4px 0;">Fecha de inspección.</li>
+      </ul>
+    </li>
+    <li style="margin:12px 0 8px 0;">• <strong>Búsqueda por texto:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">Buscar por placa, nombre del modelo o número de informe.</li>
+      </ul>
+    </li>
+    <li style="margin:12px 0 8px 0;">• <strong>Resultados con vista resumida:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">Tarjetas con datos clave: marca, modelo, fecha inspección, estado.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 #### 4.2.5. Navigation Systems
 
+<div style="background:#F0F9F4;border-radius:8px;padding:16px;margin:12px 0;box-shadow:0 2px 4px rgba(0,0,0,0.05);">
+  <h4 style="color:#002D18;margin-top:0;margin-bottom:8px;">Landing Page:</h4>
+  <ul style="color:#002D18;padding-left:20px;list-style-type:none;">
+    <li style="margin-bottom:8px;">
+      • <strong>Menú de navegación fijo (sticky) en la parte superior con anclas internas:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">Inicio | Sobre Nosotros | Reseñas | ¡Por qué elegirnos? | Contáctanos</li>
+      </ul>
+    </li>
+    <li style="margin:12px 0 8px 0;">• <strong>Scroll vertical guiado con bloques visuales claramente diferenciados.</strong></li>
+    <li style="margin:12px 0 8px 0;">
+      • <strong>Botones CTA recurrentes:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">"Solicitar inspección" y "Certifica tu auto ahora" en secciones clave.</li>
+      </ul>
+    </li>
+    <li style="margin:12px 0 8px 0;">• <strong>Sección de FAQ y contacto al final, accesibles desde el menú.</strong></li>
+  </ul>
 
+  <h4 style="color:#002D18;margin-top:16px;margin-bottom:8px;">Web App:</h4>
+  <ul style="color:#002D18;padding-left:20px;list-style-type:none;">
+    <li style="margin-bottom:8px;">
+      • <strong>Sidebar lateral con acceso rápido a:</strong>
+      <ul style="padding-left:20px;list-style-type:square;color:#333;">
+        <li style="margin:4px 0;">Dashboard</li>
+        <li style="margin:4px 0;">Mis vehículos</li>
+        <li style="margin:4px 0;">Certificados</li>
+        <li style="margin:4px 0;">Historial</li>
+        <li style="margin:4px 0;">Perfil</li>
+      </ul>
+    </li>
+    <li style="margin:12px 0 8px 0;">• <strong>Menús desplegables y tabs para cambiar entre vistas</strong> (por ejemplo: Detalles del auto | Certificado | Fotos).</li>
+    <li style="margin:12px 0 8px 0;">• <strong>Indicadores de progreso</strong> en flujos como "Solicitar inspección" o "Subir documentos".</li>
+  </ul>
+
+  <h4 style="color:#002D18;margin-top:16px;margin-bottom:8px;">Accesibilidad y usabilidad:</h4>
+  <ul style="color:#002D18;padding-left:20px;list-style-type:none;">
+    <li style="margin-bottom:8px;">• Navegación accesible con teclado y lectores de pantalla.</li>
+    <li style="margin-bottom:8px;">• Íconos y etiquetas claras para facilitar navegación intuitiva.</li>
+    <li style="margin-bottom:8px;">• Diseño coherente entre móvil y escritorio, con menús tipo hamburguesa en mobile.</li>
+  </ul>
+</div>
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 
+<img src="Images/LandingWire1.png">
+<img src="Images/LandingWire2.png">
 
+### Mobile version
+<img src="Images/LandingWireMobile1.png">
+<img src="Images/LandingWireMobile2.png">
 
 #### 4.3.2. Landing Page Mock-up
 
+<img src="Images/LandingMock1.png">
+<img src="Images/LandingMock2.png">
 
+### Mobile version
+<img src="Images/LandingMockMobile1.png">
+<img src="Images/LandingMockMobile2.png">
+<img src="Images/LandingMockMobile3.png">
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 
+<!--Register y login-->
 
+
+<!--Dashboard-->
+<img src="Images/webappWireframedashboard1.png">
+<img src="Images/webappWireframedashboard8.png">
+<img src="Images/webappWireframedashboard9.png">
+<img src="Images/webappWireframedashboard10.png">
+<img src="Images/webappWireframedashboard2.png">
+
+<!--Settings-->
+<img src="Images/webappWireframedashboard3.png">
+<img src="Images/webappWireframedashboard4.png">
+<img src="Images/webappWireframedashboard5.png">
+<img src="Images/webappWireframedashboard7.png">
+
+<!--reserva-->
+<img src="Images/webappWireframedashboard11.png">
+
+<!--Aprovacion de reserva vista admin-->
+<img src="Images/webappWireframedashboard12.png">
+
+<!--Visualizacion Anuncio-->
+<img src="Images/webappWireframedashboard13.png">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+User Goal: Reservar una Inspección Vehicular
+<img src="Images/UserGoal1.png">
 
+User Goal: Acceder a Informes Técnicos
+<img src="Images/UserGoal2.png">
+
+User Goal: Visualizar Anuncios de Venta
+<img src="Images/UserGoal3.png">
+
+[Link del los Wireflow Diagrams](https://lucid.app/lucidchart/47dee77f-6e40-411c-b9d1-04c7cc3d1791/edit?viewport_loc=9304%2C-764%2C7516%2C3284%2C0_0&invitationId=inv_c790acfc-5ce8-419f-88cc-f9084b6312ff)
 
 #### 4.4.3. Web Applications Mock-ups
 
+<!--Dashboard-->
+<img src="Images/webappMockUpdashboard1.png">
+<img src="Images/webappMockUpdashboard9.png">
+<img src="Images/webappMockUpdashboard2.png">
+<img src="Images/webappMockUpdashboard3.png">
+<img src="Images/webappMockUpdashboard4.png">
 
+<!--Settings-->
+<img src="Images/webappMockUpdashboard5.png">
+<img src="Images/webappMockUpdashboard6.png">
+<img src="Images/webappMockUpdashboard7.png">
+<img src="Images/webappMockUpdashboard8.png">
+
+<!--reserva-->
+<img src="Images/webappMockUpdashboard10.png">
+
+<!--Aprovacion de reserva vista admin-->
+<img src="Images/webappMockUpdashboard11.png">
+
+<!--Visualizacion Anuncio-->
+<img src="Images/webappMockUpdashboard12.png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+User Goal: Reservar una Inspección Vehicular
+Explicación: Este flujo ideal muestra cómo un usuario puede reservar su inspeccion de forma sencilla en CertiWeb. Todo funciona como se espera, sin ningún obstáculo o error que interrumpa el proceso.
+<br>
+<img src="Images/userflowdia1.png">
+<br>
+User Goal: Acceder a Informes Técnicos
+Explicación: Este flujo ideal muestra cómo un usuario puede acceder a su informe técnico de forma sencilla en CertiWeb. Como comprador puede elegir cualquier vehiculo que le guste porque todos cuentan con un certificado activo.
+<br>
+<img src="Images/userflowdia2.png">
+<br>
+User Goal: Visualizar Anuncios de Venta
+Explicación: Este flujo ideal muestra cómo un usuario puede visualizar los anuncios de venta de forma sencilla en CertiWeb. Como vendedor despues de su inspeccion, nosotros nos encargaremos de crearle su anuncio personalizado con su informe dentro.
+<img src="Images/userflowdia3.png">
 
+[Link de los diagramas](https://lucid.app/lucidchart/e0c3e4ad-42b3-4dde-8537-cb132eab3446/edit?viewport_loc=9785%2C-26%2C6959%2C3041%2C0_0&invitationId=inv_2ca42dc4-1653-4214-ba0e-d37422b7b6bb)
 
 ### 4.5. Web Applications Prototyping
 
-
+[Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EcpvFFaPvixHvoSImaD2qdkBZEo8nurqLuuR8TRQ32EXuA?e=ft4y4P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<img src="Images/protro2.png">
+<img src="Images/webappMockUpdashboard10.png">
+<img src="Images/protro1.png">
+<img src="Images/webappMockUpdashboard11.png">
+<img src="Images/webappMockUpdashboard12.png">
 
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
+<img src="Images/SystemContext.png">
 
+```html
+buyer -> certiwebSystem "Searches and views certified listings, contacts seller (via platform or directly)" "HTTPS"
+```
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-
+<img src="Images/ContainersDiagram.png">
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-
+<img src="Images/ComponentDiagram.png">
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-
-
+<img alt="Diagrama de clases" src="Images/class-diagram.png" />
 
 #### 4.7.2. Class Dictionary
+
+##### 1. User
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del usuario.                 |
+| name            | String           | Nombre del usuario.                              |
+| email           | Email            | Correo electrónico del usuario.                  |
+| userType        | UserType         | Tipo de usuario (vendedor, revendedor, comprador). |
+
+##### 2. Vehicle
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del vehículo.                |
+| brand           | String           | Marca del vehículo.                              |
+| model           | String           | Modelo del vehículo.                             |
+| year            | Integer          | Año de fabricación del vehículo.                 |
+| licensePlate    | LicensePlate     | Placa del vehículo.                              |
+| inspectionStatus| InspectionStatus | Estado actual de la inspección del vehículo.     |
+
+##### 3. Inspection
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único de la inspección.            |
+| requestDate     | Date             | Fecha en que se solicitó la inspección.          |
+| inspectionDate  | Date             | Fecha en que se realizó la inspección.           |
+| inspectionResult| InspectionResult | Resultado de la inspección.                      |
+
+##### 4. TechnicalReport
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del informe técnico.         |
+| validationCode  | String           | Código único para validar la autenticidad del informe. |
+| details         | String           | Detalles del estado técnico del vehículo.        |
+
+##### 5. Certification
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único de la certificación.         |
+| seal            | String           | Sello único de certificación.                    |
+| issueDate       | Date             | Fecha en que se emitió la certificación.         |
+
+##### 6. Subscription
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único de la suscripción.           |
+| type            | SubscriptionType | Tipo de suscripción (mensual o trimestral).      |
+| startDate       | Date             | Fecha de inicio de la suscripción.               |
+| endDate         | Date             | Fecha de fin de la suscripción.                  |
+
+##### 7. Payment
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del pago.                    |
+| amount          | Money            | Monto del pago.                                  |
+| paymentDate     | Date             | Fecha en que se realizó el pago.                 |
+| paymentMethod   | PaymentMethod    | Método de pago (tarjeta, transferencia, etc.).   |
+| status          | PaymentStatus    | Estado del pago (Pendiente, Completado, Fallido).|
+
+##### 8. Email
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| address         | String           | Dirección de correo electrónico.                 |
+
+##### 9. UserType
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| type            | String           | Tipo de usuario (Seller, Reseller, Buyer).       |
+
+##### 10. LicensePlate
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| plateNumber     | String           | Número de placa del vehículo.                    |
+
+##### 11. InspectionStatus
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| status          | String           | Estado de la inspección (Pendiente, En Inspección, Certificado). |
+
+##### 12. InspectionResult
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| result          | String           | Resultado de la inspección (Aprobado, Rechazado). |
+| comments        | String           | Comentarios adicionales sobre el vehículo.       |
+
+##### 13. PaymentMethod
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| method          | String           | Método de pago (tarjeta, transferencia, etc.).   |
+
+##### 14. PaymentStatus
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| status          | String           | Estado del pago (Pendiente, Completado, Fallido). |
+
+##### 15. Money
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| currency        | String           | Moneda utilizada (USD, PEN, etc.).               |
+| amount          | Decimal          | Cantidad de dinero asociada al pago o suscripción.|
+
+##### 16. SubscriptionType
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| type            | String           | Tipo de suscripción (Mensual, Trimestral).        |
 
 
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
-
+<img alt="Database diagram" src="Images/database-diagram.png" />
 
 
 [↑ Volver al índice](#índice)
