@@ -1341,7 +1341,6 @@ Empathy Mapping Compradores
 <img src="Images/webappWireframedashboard3.png">
 <img src="Images/webappWireframedashboard4.png">
 <img src="Images/webappWireframedashboard5.png">
-<img src="Images/webappWireframedashboard6.png">
 <img src="Images/webappWireframedashboard7.png">
 
 <!--reserva-->
@@ -1349,6 +1348,9 @@ Empathy Mapping Compradores
 
 <!--Aprovacion de reserva vista admin-->
 <img src="Images/webappWireframedashboard12.png">
+
+<!--Visualizacion Anuncio-->
+<img src="Images/webappWireframedashboard13.png">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1365,7 +1367,27 @@ User Goal: Visualizar Anuncios de Venta
 
 #### 4.4.3. Web Applications Mock-ups
 
+<!--Dashboard-->
+<img src="Images/webappMockUpdashboard1.png">
+<img src="Images/webappMockUpdashboard9.png">
+<img src="Images/webappMockUpdashboard2.png">
+<img src="Images/webappMockUpdashboard3.png">
+<img src="Images/webappMockUpdashboard4.png">
 
+<!--Settings-->
+<img src="Images/webappMockUpdashboard5.png">
+<img src="Images/webappMockUpdashboard6.png">
+<img src="Images/webappMockUpdashboard7.png">
+<img src="Images/webappMockUpdashboard8.png">
+
+<!--reserva-->
+<img src="Images/webappMockUpdashboard10.png">
+
+<!--Aprovacion de reserva vista admin-->
+<img src="Images/webappMockUpdashboard11.png">
+
+<!--Visualizacion Anuncio-->
+<img src="Images/webappMockUpdashboard12.png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
