@@ -1394,95 +1394,129 @@ buyer -> certiwebSystem "Searches and views certified listings, contacts seller 
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-
-
+<img alt="Diagrama de clases" src="Images/class-diagram.png" />
 
 #### 4.7.2. Class Dictionary
 
-### 1. Clase `Usuario`
+##### 1. User
 
-| Atributo    | Tipo de variable | Descripción                                      |
-|-------------|------------------|--------------------------------------------------|
-| `id`        | `int`            | Identificador único del usuario.                 |
-| `nombre`    | `string`         | Nombre completo del usuario.                     |
-| `correo`    | `string`         | Correo electrónico del usuario.                  |
-| `contraseña`| `string`         | Contraseña cifrada para autenticación.           |
-| `tipo`      | `string`         | Rol del usuario (`cliente`, `administrador`).    |
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del usuario.                 |
+| name            | String           | Nombre del usuario.                              |
+| email           | Email            | Correo electrónico del usuario.                  |
+| userType        | UserType         | Tipo de usuario (vendedor, revendedor, comprador). |
 
----
+##### 2. Vehicle
 
-### 2. Clase `Auto`
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del vehículo.                |
+| brand           | String           | Marca del vehículo.                              |
+| model           | String           | Modelo del vehículo.                             |
+| year            | Integer          | Año de fabricación del vehículo.                 |
+| licensePlate    | LicensePlate     | Placa del vehículo.                              |
+| inspectionStatus| InspectionStatus | Estado actual de la inspección del vehículo.     |
 
-| Atributo    | Tipo de variable | Descripción                                   |
-|-------------|------------------|-----------------------------------------------|
-| `id`        | `int`            | Identificador único del auto.                 |
-| `marca`     | `string`         | Marca del vehículo.                           |
-| `modelo`    | `string`         | Modelo del auto.                              |
-| `anio`      | `int`            | Año de fabricación.                           |
-| `placa`     | `string`         | Placa de matrícula.                           |
-| `usuarioId` | `int`            | ID del usuario que registró el auto.          |
+##### 3. Inspection
 
----
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único de la inspección.            |
+| requestDate     | Date             | Fecha en que se solicitó la inspección.          |
+| inspectionDate  | Date             | Fecha en que se realizó la inspección.           |
+| inspectionResult| InspectionResult | Resultado de la inspección.                      |
 
-### 3. Clase `Inspeccion`
+##### 4. TechnicalReport
 
-| Atributo             | Tipo de variable | Descripción                                         |
-|----------------------|------------------|-----------------------------------------------------|
-| `id`                 | `int`            | Identificador único de la inspección.              |
-| `fecha`              | `Date`           | Fecha en que se realizó la inspección.             |
-| `estado`             | `string`         | Estado general del auto (aprobado, observado, etc.). |
-| `autoId`             | `int`            | ID del auto inspeccionado.                         |
-| `tecnicoResponsable` | `string`         | Nombre del técnico responsable.                    |
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del informe técnico.         |
+| validationCode  | String           | Código único para validar la autenticidad del informe. |
+| details         | String           | Detalles del estado técnico del vehículo.        |
 
----
+##### 5. Certification
 
-### 4. Clase `Informe`
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único de la certificación.         |
+| seal            | String           | Sello único de certificación.                    |
+| issueDate       | Date             | Fecha en que se emitió la certificación.         |
 
-| Atributo            | Tipo de variable | Descripción                                      |
-|---------------------|------------------|--------------------------------------------------|
-| `id`                | `int`            | Identificador del informe.                       |
-| `inspeccionId`      | `int`            | ID de la inspección correspondiente.             |
-| `descripcionGeneral`| `string`         | Resumen general del estado técnico.              |
-| `fallasEncontradas` | `string`         | Detalles de las fallas identificadas.            |
-| `recomendaciones`   | `string`         | Sugerencias para mejorar el estado del vehículo. |
+##### 6. Subscription
 
----
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único de la suscripción.           |
+| type            | SubscriptionType | Tipo de suscripción (mensual o trimestral).      |
+| startDate       | Date             | Fecha de inicio de la suscripción.               |
+| endDate         | Date             | Fecha de fin de la suscripción.                  |
 
-### 5. Clase `Certificacion`
+##### 7. Payment
 
-| Atributo           | Tipo de variable | Descripción                                         |
-|--------------------|------------------|-----------------------------------------------------|
-| `id`               | `int`            | Identificador único de la certificación.            |
-| `informeId`        | `int`            | ID del informe base asociado.                       |
-| `fechaEmision`     | `Date`           | Fecha de emisión del certificado.                   |
-| `estado`           | `string`         | Estado del certificado (`vigente`, `vencido`).      |
-| `codigoCertificado`| `string`         | Código único visible en el sello.                   |
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| id              | UUID             | Identificador único del pago.                    |
+| amount          | Money            | Monto del pago.                                  |
+| paymentDate     | Date             | Fecha en que se realizó el pago.                 |
+| paymentMethod   | PaymentMethod    | Método de pago (tarjeta, transferencia, etc.).   |
+| status          | PaymentStatus    | Estado del pago (Pendiente, Completado, Fallido).|
 
----
+##### 8. Email
 
-### 6. Clase `Suscripcion`
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| address         | String           | Dirección de correo electrónico.                 |
 
-| Atributo     | Tipo de variable | Descripción                                       |
-|--------------|------------------|---------------------------------------------------|
-| `id`         | `int`            | Identificador único de la suscripción.            |
-| `usuarioId`  | `int`            | ID del usuario suscrito.                          |
-| `tipo`       | `string`         | Tipo de suscripción (`mensual`, `anual`).         |
-| `fechaInicio`| `Date`           | Fecha en que comienza la suscripción.             |
-| `fechaFin`   | `Date`           | Fecha de finalización del servicio.               |
-| `estado`     | `string`         | Estado actual (`activo`, `cancelado`).            |
+##### 9. UserType
 
----
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| type            | String           | Tipo de usuario (Seller, Reseller, Buyer).       |
 
-### 7. Clase `Pago`
+##### 10. LicensePlate
 
-| Atributo    | Tipo de variable | Descripción                                           |
-|-------------|------------------|-------------------------------------------------------|
-| `id`        | `int`            | Identificador único del pago.                         |
-| `usuarioId` | `int`            | ID del usuario que realizó el pago.                   |
-| `monto`     | `double`         | Monto total de la transacción.                        |
-| `fecha`     | `Date`           | Fecha del pago.                                       |
-| `metodoPago`| `string`         | Medio de pago utilizado (`tarjeta`, `Yape`, etc.).    |
-| `estado`    | `string`         | Estado de la transacción (`completado`, `fallido`).   |
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| plateNumber     | String           | Número de placa del vehículo.                    |
+
+##### 11. InspectionStatus
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| status          | String           | Estado de la inspección (Pendiente, En Inspección, Certificado). |
+
+##### 12. InspectionResult
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| result          | String           | Resultado de la inspección (Aprobado, Rechazado). |
+| comments        | String           | Comentarios adicionales sobre el vehículo.       |
+
+##### 13. PaymentMethod
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| method          | String           | Método de pago (tarjeta, transferencia, etc.).   |
+
+##### 14. PaymentStatus
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| status          | String           | Estado del pago (Pendiente, Completado, Fallido). |
+
+##### 15. Money
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| currency        | String           | Moneda utilizada (USD, PEN, etc.).               |
+| amount          | Decimal          | Cantidad de dinero asociada al pago o suscripción.|
+
+##### 16. SubscriptionType
+
+| Atributo        | Tipo de Variable | Descripción                                       |
+|-----------------|------------------|---------------------------------------------------|
+| type            | String           | Tipo de suscripción (Mensual, Trimestral).        |
 
 
 
