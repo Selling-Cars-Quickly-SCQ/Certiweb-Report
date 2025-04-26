@@ -1824,8 +1824,19 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+Se implemento en este primer Sprint el diseño de la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes del Landing Page.
 
+Sección Home: 
+<img src="Images/execution1-1.png" />
 
+Sección About us: 
+<img src="Images/execution1-2.png" />
+
+Sección Reviews: 
+<img src="Images/execution1-3.png" />
+
+Sección Contact Us: 
+<img src="Images/execution1-4.png" />
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
@@ -1852,11 +1863,23 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 1.
+
+<img src="Images/insight1-1.png" />
+<img src="Images/insight1-2.png" />
+<img src="Images/insight1-3.png" />
+<img src="Images/insight1-4.png" />
 
 
 [↑ Volver al índice](#índice)
 # Conclusiones
+- **Visión y propósito claros**: Certiweb tiene una misión bien definida de ofrecer un servicio confiable de inspección técnica para autos usados, respondiendo a una necesidad real del mercado.
 
+- **Planificación inicial sólida**: El equipo completó con éxito la fase de planificación inicial, definiendo un Product Backlog estructurado y una arquitectura preliminar, estableciendo una base sólida para los próximos sprints.
+
+- **Áreas de mejora**: Se identificaron oportunidades para estructurar mejor las reuniones diarias y refinar el **Definition of Ready**, mostrando el compromiso del equipo con la mejora continua.
+
+- **Alineación con los objetivos de negocio**: Los entregables de la fase inicial están alineados con el objetivo de Certiweb de generar confianza y promover la participación de vendedores y compradores.
 
 
 # Bibliografía
