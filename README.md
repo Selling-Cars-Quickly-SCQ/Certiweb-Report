@@ -1391,7 +1391,21 @@ User Goal: Visualizar Anuncios de Venta
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+User Goal: Reservar una Inspección Vehicular
+Explicación: Este flujo ideal muestra cómo un usuario puede reservar su inspeccion de forma sencilla en CertiWeb. Todo funciona como se espera, sin ningún obstáculo o error que interrumpa el proceso.
+<br>
+<img src="Images/userflowdia1.png">
+<br>
+User Goal: Acceder a Informes Técnicos
+Explicación: Este flujo ideal muestra cómo un usuario puede acceder a su informe técnico de forma sencilla en CertiWeb. Como comprador puede elegir cualquier vehiculo que le guste porque todos cuentan con un certificado activo.
+<br>
+<img src="Images/userflowdia2.png">
+<br>
+User Goal: Visualizar Anuncios de Venta
+Explicación: Este flujo ideal muestra cómo un usuario puede visualizar los anuncios de venta de forma sencilla en CertiWeb. Como vendedor despues de su inspeccion, nosotros nos encargaremos de crearle su anuncio personalizado con su informe dentro.
+<img src="Images/userflowdia3.png">
 
+[Link de los diagramas](https://lucid.app/lucidchart/e0c3e4ad-42b3-4dde-8537-cb132eab3446/edit?viewport_loc=9785%2C-26%2C6959%2C3041%2C0_0&invitationId=inv_2ca42dc4-1653-4214-ba0e-d37422b7b6bb)
 
 ### 4.5. Web Applications Prototyping
 
