@@ -837,7 +837,54 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
 
 #### 2.2.3. Análisis de entrevistas
 
+#### 2.2.3. Análisis de entrevistas
 
+A continuación, se presenta el análisis de las entrevistas realizadas, agrupado por segmento objetivo. Se identifican las características objetivas y subjetivas más comunes, respaldadas por porcentajes calculados sobre el total de entrevistados por segmento (3 por segmento).
+
+**Segmento 1: Vendedores Individuales**
+
+*   **Experiencia y Motivación:**
+    *   El **67%** (2 de 3) ha tenido experiencias previas de venta, describiendo el proceso como frustrante o agotador debido a compradores indecisos o poco serios.
+    *   El **67%** (2 de 3) considera la transparencia fundamental para generar confianza, mostrando mantenimientos o sugiriendo revisiones mecánicas.
+    *   Las motivaciones de venta varían: **33%** (1 de 3) prioriza vender rápido (incluso a menor precio), mientras que otro **33%** (1 de 3) prioriza obtener un buen precio.
+*   **Plataformas y Confianza:**
+    *   El **67%** (2 de 3) utiliza plataformas digitales como Facebook Marketplace u OLX para publicar sus vehículos.
+    *   Existe una desconfianza generalizada hacia los compradores online (**67%**, 2 de 3).
+    *   El **67%** (2 de 3) reconoce la dificultad de encontrar mecánicos de confianza para validar el estado del vehículo.
+*   **Percepción del Servicio de Certificación:**
+    *   El **67%** (2 de 3) considera útil un servicio de certificación y estaría dispuesto a pagar por él (rangos mencionados: 80-100 soles, hasta 200 soles) si esto agiliza la venta o evita pérdidas de tiempo.
+    *   Se percibe que un informe técnico independiente podría aumentar la seguridad para los compradores (**33%**, 1 de 3).
+
+**Segmento 2: Revendedores / Vendedores con Experiencia**
+
+*   **Proceso de Venta y Verificación:**
+    *   El **100%** (3 de 3) enfatiza la importancia de realizar revisiones técnicas previas a la venta.
+    *   El **67%** (2 de 3) cuenta con mecánicos o talleres fijos para realizar estas revisiones.
+    *   El **67%** (2 de 3) expresa preocupación por fraudes comunes como la alteración del kilometraje o la ocultación del historial del vehículo.
+    *   Utilizan plataformas como Marketplace y NeoAuto (**33%**, 1 de 3) y herramientas como informes de historial (Total Check) (**33%**, 1 de 3).
+*   **Percepción del Servicio de Certificación:**
+    *   El **100%** (3 de 3) valora la idea de una certificación técnica para generar confianza, aunque con matices: uno lo ve útil si la marca es reconocida, otro duda de su valor sin una propuesta clara.
+    *   El **67%** (2 de 3) estaría dispuesto a probar o pagar por el servicio bajo ciertas condiciones (demostrar seriedad, precio razonable por certificación básica - hasta 80 soles).
+    *   Se sugiere que los informes incluyan historial de choques y aspectos legales (**33%**, 1 de 3).
+*   **Factores Clave:**
+    *   La confianza y un precio competitivo son considerados clave para la venta (**33%**, 1 de 3).
+
+**Segmento 3: Compradores**
+
+*   **Preocupaciones y Confianza:**
+    *   La principal preocupación para el **100%** (3 de 3) son las fallas mecánicas ocultas.
+    *   El **67%** (2 de 3) ha tenido experiencias negativas previas o siente desconfianza general hacia los vendedores de autos usados.
+    *   El **100%** (3 de 3) confía en mecánicos propios o conocidos para realizar la revisión del vehículo antes de comprar.
+*   **Proceso de Búsqueda:**
+    *   El **100%** (3 de 3) utiliza plataformas digitales (Marketplace, Grupos de Facebook, OLX, NeoAuto, Instagram) para buscar vehículos.
+    *   El **67%** (2 de 3) realiza la búsqueda principalmente desde su celular.
+    *   El **67%** (2 de 3) consulta a familiares (padres, hermano) antes de tomar la decisión, aunque la decisión final es personal.
+*   **Valoración de la Certificación y Herramientas:**
+    *   El **100%** (3 de 3) valora positivamente los informes técnicos y las certificaciones.
+    *   El **100%** (3 de 3) estaría dispuesto a pagar un extra por un vehículo que cuente con un certificado de inspección.
+    *   El **100%** (3 de 3) encuentra útiles herramientas como videos explicativos y checklists durante el proceso de compra.
+*   **Preferencias:**
+    *   Mencionan preferencia por marcas consideradas confiables (Toyota, Hyundai, Nissan, Suzuki, Chevrolet) o premium (BMW, Mercedes).
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
