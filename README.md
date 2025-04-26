@@ -1409,7 +1409,12 @@ Explicación: Este flujo ideal muestra cómo un usuario puede visualizar los anu
 
 ### 4.5. Web Applications Prototyping
 
-
+[Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EcpvFFaPvixHvoSImaD2qdkBZEo8nurqLuuR8TRQ32EXuA?e=ft4y4P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<img src="Images/protro2.png">
+<img src="Images/webappMockUpdashboard10.png">
+<img src="Images/protro1.png">
+<img src="Images/webappMockUpdashboard11.png">
+<img src="Images/webappMockUpdashboard12.png">
 
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
