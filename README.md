@@ -32,7 +32,7 @@ width=50%"/>
 ### Registro de Versiones del Informe
 | Versión | Fecha      | Autor      | Descripción de Modificación                                                                 | 
 |---------|------------|------------|---------------------------------------------------------------------------------------------|
-|      |   |           |            |
+|  v1.0  | 26/04/2025 |  Selling Cars Quickly - SCQ   | Se agrega TB1  |
 
 
 ### Project Report Collaboration Insights
@@ -46,8 +46,8 @@ width=50%"/>
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |------|------------|------------|
-|Trabaja en equipo <br>para  proporcionar liderazgo en <br> forma conjunta|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
-|Crea un entorno colaborativo e <br>inclusivo, establece <br>metas, planifica tareas y cumple objetivos|**Franco Lopez**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Eric Agama**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto]<br>**Jesus Millones**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Juan Santos**<br>TB1:<br>[texto].<br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>**Anghel Trillo**<br>TB1:<br>[texto]. <br>TP1:<br>[texto].<br>TB2:<br>[texto].<br>TF:<br>[texto].<br>|[texto-conclusiones].|
+|Trabaja en equipo <br>para  proporcionar liderazgo en <br> forma conjunta|**Franco Lopez**<br>TB1:<br>Trabajé en equipo proporcionando liderazgo de manera conjunta. Participé activamente en la realización de entrevistas y en la creación de user stories para comprender mejor las necesidades de los usuarios. Además, colaboré en la organización y priorización del Product Backlog para asegurar el desarrollo eficiente del proyecto.<br>**Eric Agama**<br>TB1:<br>Trabajé en equipo proporcionando liderazgo de manera conjunta. Participé activamente en la elaboración de Solution Profiles, definición de segmentos objetivo, análisis competitivo y realización de entrevistas. Además, colaboré en el diseño de productos, la arquitectura de software basada en dominio y el desarrollo de landings.<br>**Jesus Millones**<br>TB1:<br>Trabajé en equipo proporcionando liderazgo de manera conjunta. Participé activamente en la realización de entrevistas para obtener información valiosa sobre los usuarios. Además, colaboré en la creación de la Task Matrix y en la definición de las user personas para asegurar que el proyecto cumpliera con las necesidades y expectativas de los usuarios.<br>**Juan Santos**<br>TB1:<br>Trabajé en equipo proporcionando liderazgo de manera conjunta. Participé activamente en la realización de entrevistas para recopilar información clave de los usuarios. Además, colaboré en la creación del diccionario de clases para garantizar una estructura clara y coherente en el desarrollo del software.<br>**Anghel Trillo**<br>TB1:<br>Trabajé en equipo proporcionando liderazgo de manera conjunta. Participé activamente en la realización de entrevistas y en el diseño de software orientado a objetos. Además, colaboré en la gestión de la configuración de software para asegurar la calidad y consistencia del proyecto.<br>|Durante el desarrollo del proyecto Certiweb, el trabajo en equipo y el liderazgo conjunto fueron esenciales para consolidar una visión compartida. La colaboración constante entre todos los miembros permitió tomar decisiones más acertadas, fortalecer la planificación y mantener un enfoque claro en ofrecer una plataforma confiable de inspección técnica de autos usados. Este enfoque colaborativo impulsó una mayor cohesión y permitió al equipo avanzar de manera ágil hacia los objetivos establecidos.|
+|Crea un entorno colaborativo e <br>inclusivo, establece <br>metas, planifica tareas y cumple objetivos|**Franco Lopez**<br>TB1:<br>Creé un entorno colaborativo e inclusivo, fomentando la participación activa de todos los miembros del equipo. Establecí metas claras y planifiqué tareas como la realización de entrevistas para obtener información clave de los usuarios, la creación de user stories para definir las funcionalidades necesarias y la organización del Product Backlog para priorizar las tareas del proyecto.<br>**Eric Agama**<br>TB1:<br>Creé un entorno colaborativo e inclusivo, alentando la participación activa de todos los miembros del equipo. Establecí metas claras y planifiqué tareas clave como el desarrollo de un Solution Profile, la definición de segmentos objetivo, el análisis competitivo y la realización de entrevistas para entender mejor las necesidades de los usuarios. Coordiné el diseño del producto, la arquitectura de software basada en dominio y el desarrollo de landings, asegurando que el equipo cumpliera con los objetivos del proyecto de manera eficiente y dentro de los plazos establecidos.<br>**Jesus Millones**<br>TB1:<br>Creé un entorno colaborativo e inclusivo, promoviendo la participación activa de todos los miembros del equipo. Establecí metas claras como la realización de entrevistas para comprender mejor las necesidades de los usuarios, la creación de una Task Matrix para organizar las actividades y la definición de user personas para asegurar que el proyecto se alineara con las expectativas de los usuarios.<br>**Juan Santos**<br>TB1:<br>Creé un entorno colaborativo e inclusivo, fomentando la participación activa de todos los miembros del equipo. Establecí metas claras como la realización de entrevistas para recoger información de los usuarios y la creación del diccionario de clases para asegurar una estructura coherente en el proyecto.<br>**Anghel Trillo**<br>TB1:<br>Creé un entorno colaborativo e inclusivo, promoviendo la participación activa de todos los miembros del equipo. Establecí metas claras para el desarrollo del proyecto y planifiqué tareas como la realización de entrevistas para entender las necesidades de los usuarios, el diseño de software orientado a objetos y la gestión de configuración de software. Aseguré que cada actividad se completara de acuerdo con los objetivos establecidos, cumpliendo con los plazos y manteniendo la calidad del proyecto.<br>|En el proyecto Certiweb, crear un entorno colaborativo e inclusivo, acompañado de una planificación estratégica y la definición de metas claras, fue clave para alcanzar cada hito del proceso. La participación activa de cada miembro, la alineación de esfuerzos y el cumplimiento de los objetivos establecidos aseguraron un avance ordenado y sostenible del proyecto. Esta dinámica fortaleció la innovación, la confianza y el compromiso, elementos esenciales para consolidar Certiweb como una propuesta de valor sólida en el mercado.|
 
 # Índice
 
@@ -1824,8 +1824,19 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+Se implemento en este primer Sprint el diseño de la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes del Landing Page.
 
+Sección Home: 
+<img src="Images/execution1-1.png" />
 
+Sección About us: 
+<img src="Images/execution1-2.png" />
+
+Sección Reviews: 
+<img src="Images/execution1-3.png" />
+
+Sección Contact Us: 
+<img src="Images/execution1-4.png" />
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
@@ -1852,11 +1863,23 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 1.
+
+<img src="Images/insight1-1.png" />
+<img src="Images/insight1-2.png" />
+<img src="Images/insight1-3.png" />
+<img src="Images/insight1-4.png" />
 
 
 [↑ Volver al índice](#índice)
 # Conclusiones
+- **Visión y propósito claros**: Certiweb tiene una misión bien definida de ofrecer un servicio confiable de inspección técnica para autos usados, respondiendo a una necesidad real del mercado.
 
+- **Planificación inicial sólida**: El equipo completó con éxito la fase de planificación inicial, definiendo un Product Backlog estructurado y una arquitectura preliminar, estableciendo una base sólida para los próximos sprints.
+
+- **Áreas de mejora**: Se identificaron oportunidades para estructurar mejor las reuniones diarias y refinar el **Definition of Ready**, mostrando el compromiso del equipo con la mejora continua.
+
+- **Alineación con los objetivos de negocio**: Los entregables de la fase inicial están alineados con el objetivo de Certiweb de generar confianza y promover la participación de vendedores y compradores.
 
 
 # Bibliografía
