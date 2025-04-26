@@ -1774,15 +1774,44 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 
-
+| Criterio                     | Detalle                                                                                                                            |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                 | Sprint 1                                                                                                                           |
+| **Sprint Planning Background** |                                                                                                                                    |
+| Date                         | 24/04/25                                                                                                                         |
+| Time                         | 9:00pm                                                                                                                        |
+| Location                     | Reunión Virtual en Meet                                                                      |
+| Prepared By                  | Eric Agama                                                                                             |
+| Attendees (to planning meeting) | Lopez Roman, Franco Mauricio , Millones Espinoza, Jesus Andres , Santos Torres, Juan Manuel , Trillo Hernandez, Anghel Melanie                                                                               |
+| Sprint n - 1 Review Summary  | Se logró el desarrollo de la documentación del proyecto y elaboración del landing page de la aplicación Certiweb gracias al feedback de los entrevistados. |
+| Sprint n - 1 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 1 |
+| **Sprint Goal & User Stories** |                                                                                                                                    |
+| Sprint 1 Goal                | Nuestro enfoque es desarrollar la primera versión de la documentación del proyecto y la elaboración del landing page, como equipo hemos llegado a la conclusión la importancia de el cumplimiento del landing page, pues es donde los potenciales usuarios tendran primer contacto con el proyecto                                                                       |
+| Sprint 1 Velocity            | 5       |
+| **Sum of Story Points**      | 13                                |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
-
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design <br> Leader (L) / Collaborator (C) | Landing Design <br> Leader (L) / Collaborator (C) |
+| :---------------------------------- | :-------------- | :------------------------------------------------: | :------------------------------------------------: |
+| Lopez Roman, Franco Mauricio        | Moris0306       | C                                                  | C                                                  |
+| Agama Espinoza, Eric Fabrizio       | XaerickSReborn  |L                                                   |L                                                   |
+| Millones Espinoza, Jesus Andres     | JJSON-11110     | C                                                  | C                                                  |
+| Santos Torres, Juan Manuel          | JuanManuel312   | C                                                  | C                                                  |
+| Trillo Hernandez, Anghel Melanie    | AM27TH          | C                                                  | C                                                  |
 
 ##### 5.2.1.3. Sprint Backlog 1
 
-
+| **User Story** | **Title**                                  | **Work-Item / Task** | **Title**                                     | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**   | **Status** |
+|----------------|--------------------------------------------|-----------------------|-----------------------------------------------|---------------------------------------------------------------------------------|------------------------|-------------------|------------|
+| US01           | Información clara sobre Certiweb           | T01                  | Crear Sección de Información                  | Crear una sección que destaque la información clara sobre Certiweb en la landing page | 5                      | Franco Mauricio Lopez | Done       |
+|                |                                            | T07                  | Diseñar UI para Información                   | Diseñar los elementos gráficos que destaquen la información clara sobre Certiweb | 4                      | Eric Fabrizio Agama | Done       |
+| US02           | Testimonios y casos de éxito               | T02                  | Implementar Sección de Testimonios            | Implementar una sección que muestre testimonios y casos de éxito en la landing page | 6                      | Jesus Andres Millones | Done       |
+|                |                                            | T08                  | Validar Accesibilidad de Testimonios          | Asegurar que la sección de testimonios cumpla con los estándares de accesibilidad | 4                      | Juan Manuel Santos | Done       |
+| US03           | Botón de acción claro                      | T03                  | Implementar Botones de Acción                 | Implementar botones visibles para registrarse o solicitar una inspección en la landing page | 4                      | Anghel Melanie Trillo | Done       |
+|                |                                            | T09                  | Diseñar la Sección de Botones de Acción       | Crear una sección visualmente atractiva para mostrar los botones de acción | 5                      | Franco Mauricio Lopez | Done       |
+| US04           | Compatibilidad móvil del Landing Page      | T04                  | Optimizar para Dispositivos Móviles           | Asegurar que la landing page sea compatible y fácil de usar en dispositivos móviles | 4                      | Eric Fabrizio Agama | Done       |
+|            |       | T05                  | Pruebas de Usabilidad en Dispositivos Móviles | Realizar pruebas de usabilidad para garantizar una experiencia óptima en móviles   | 3                      | Eric Fabrizio Agama | Done       |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
