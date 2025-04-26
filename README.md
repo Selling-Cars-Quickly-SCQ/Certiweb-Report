@@ -1854,8 +1854,11 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 
 # Bibliografía
-
-
+- Conventional Commits. (n.d.). Conventional Commits 1.0.0. https://www.conventionalcommits.org/en/v1.0.0/
+- Fowler, M. (n.d.). Ubiquitous language. https://martinfowler.com/bliki/UbiquitousLanguage.html
+- GitHub. (n.d.). GitHub Pages. https://pages.github.com/
+- IBM. (n.d.-a). As-is scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+- IBM. (n.d.-b). To-be scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
 
 # Anexos
 
