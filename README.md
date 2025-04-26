@@ -1352,7 +1352,16 @@ Empathy Mapping Compradores
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+User Goal: Reservar una Inspección Vehicular
+<img src="Images/UserGoal1.png">
 
+User Goal: Acceder a Informes Técnicos
+<img src="Images/UserGoal2.png">
+
+User Goal: Visualizar Anuncios de Venta
+<img src="Images/UserGoal3.png">
+
+[Link del los Wireflow Diagrams](https://lucid.app/lucidchart/47dee77f-6e40-411c-b9d1-04c7cc3d1791/edit?viewport_loc=9304%2C-764%2C7516%2C3284%2C0_0&invitationId=inv_c790acfc-5ce8-419f-88cc-f9084b6312ff)
 
 #### 4.4.3. Web Applications Mock-ups
 
