@@ -1787,7 +1787,7 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 | Sprint n - 1 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 1 |
 | **Sprint Goal & User Stories** |                                                                                                                                    |
 | Sprint 1 Goal                | Nuestro enfoque es desarrollar la primera versión de la documentación del proyecto y la elaboración del landing page, como equipo hemos llegado a la conclusión la importancia de el cumplimiento del landing page, pues es donde los potenciales usuarios tendran primer contacto con el proyecto                                                                       |
-| Sprint 1 Velocity            | 5       |
+| Sprint 1 Velocity            | 13       |
 | **Sum of Story Points**      | 13                                |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
@@ -1814,8 +1814,10 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 |            |       | T05                  | Pruebas de Usabilidad en Dispositivos Móviles | Realizar pruebas de usabilidad para garantizar una experiencia óptima en móviles   | 3                      | Eric Fabrizio Agama | Done       |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
-
-
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [Certiweb-Landing]() | develop  | commitId | commit message | 25/04/2025 |
+| [Certiweb-Landing]() | develop  |  |  | 25/04/2025 |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
