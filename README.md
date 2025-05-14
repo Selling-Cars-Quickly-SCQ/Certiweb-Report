@@ -1618,7 +1618,7 @@ buyer -> certiwebSystem "Searches and views certified listings, contacts seller 
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
-<img alt="Database diagram" src="Images/database-diagram.png" />
+<img alt="Database diagram" src="Images/DatabaseDiagram.png" />
 
 
 [↑ Volver al índice](#índice)
