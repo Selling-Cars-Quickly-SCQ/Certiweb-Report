@@ -336,9 +336,12 @@ Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta
       <li><strong>📊 Características demográficas:</strong>
         <ul style="list-style-type: circle; color: #7f8c8d;">
           <li>Edad: 25-55 años</li>
-          <li>Ubicación: Lima, Arequipa, Trujillo, Piura</li>
+          <li>Ubicación: Zonas urbanas y periurbanas de Lima, Arequipa, Trujillo, Piura</li>
           <li>NSE: Medio y medio-alto</li>
           <li>Conocimientos técnicos: Limitados</li>
+          <li>Ocupación: Profesionales independientes, técnicos, empleados administrativos, comerciantes</li>
+          <li>Ingresos mensuales: S/. 2,000 – S/. 6,000</li>
+          <li>Motivación de venta: Cambio de vehículo familiar, necesidad económica, renovación de auto antiguo</li>
         </ul>
       </li>
       <!-- Comportamiento -->
@@ -367,8 +370,12 @@ Certiweb se dirige a segmentos específicos dentro del mercado de compra y venta
       <li><strong>📊 Características demográficas:</strong>
         <ul style="list-style-type: circle; color: #7f8c8d;">
           <li>Edad: 30-60 años</li>
+          <li>Género: Hombres y mujeres</li>
           <li>Base operativa: Capitales regionales</li>
-          <li>Perfil: Informales o pequeños emprendimientos</li>
+          <li>Nivel educativo: Educación superior técnica o universitaria completa</li>
+          <li>Ocupación: Jóvenes profesionales, empleados en empresas privadas o públicas, emprendedores, familias jóvenes</li>
+          <li>Ingresos mensuales: S/. 2,500 – S/. 7,000</li>
+          <li>Acceso a crédito: Alta probabilidad de usar financiamiento</li>    
         </ul>
       </li>
       <!-- Comportamiento -->
