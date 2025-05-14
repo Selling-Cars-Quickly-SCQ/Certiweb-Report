@@ -548,12 +548,19 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
       <td>Publicidad boca a boca, recomendaciones y presencia física en zonas de alta demanda.</td>
     </tr>
     <tr>
-      <td rowspan="1" class="category-header">Perfil de Producto</td>
+      <td rowspan="2" class="category-header">Perfil de Producto</td>
       <td>Productos & Servicios</td>
       <td>Inspección profesional, informe con fotos y diagnóstico técnico, sello Certiweb, suscripciones mensuales y anuales.</td>
       <td>Publicación de autos, filtros de búsqueda avanzada, fotos y planes publicitarios.</td>
       <td>Publicaciones, historial del vehículo, calculadora de valor estimado, contacto con dealers.</td>
       <td>Revisión mecánica básica, pruebas de carretera y verificación de fallas, sin documentación formal.</td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>Precios flexibles ajustados según el perfil del cliente y vigencia. </td>
+      <td>Para vendedor de un auto desde S/ 150.00 con vigencia de 60 dias, y para revendedores desde S/ 297 con vigencia de 30 dias.</td>
+      <td>Para la certificación de un auto con vigencia de 30 dias S/ 150.00. </td>
+      <td>Promedio por auto de S/ 200.00 para la certificación con vigencia de 30 dias.</td>
     </tr>
   </tbody>
 </table>
