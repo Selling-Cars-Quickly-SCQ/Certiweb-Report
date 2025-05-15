@@ -26,6 +26,7 @@ width=50%"/>
 |Millones Espinoza, Jesus Andres|U20211b598|
 |Santos Torres, Juan Manuel|U20221a371|
 |Trillo Hernandez, Anghel Melanie|U201912401|
+|Torres Cortez, Tony Do Santos|U201917662|
 
 <h5 style="text-align: center"> Ciclo 2025-01 </h5>
 
