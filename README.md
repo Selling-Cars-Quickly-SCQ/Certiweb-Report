@@ -1781,7 +1781,7 @@ Se inicio con la creación de la organización en github.
 
 Posteriormente, se asocio a los integrantes del equipo para poder colaborar en los repositorios de la organización.
 
-<img src="Images/github-members.png" />
+<img src="Images/PeopleActu.png" />
 
 Luego, se crearon los repositorios del reporte, Landing Page, Frontend y Backend para organizar los productos entregables.
 
