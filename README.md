@@ -1987,7 +1987,13 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
-
+<img src="Images/git1.png"/>
+<img src="Images/git2.png"/>
+<img src="Images/git3.png"/>
+<img src="Images/git4.png"/>
+<img src="Images/git5.png"/>
+<img src="Images/git6.png"/>
+<img src="Images/git7.png"/>
 
 [↑ Volver al índice](#índice)
 
