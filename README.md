@@ -33,6 +33,7 @@ width=50%"/>
 | Versión | Fecha      | Autor      | Descripción de Modificación                                                                 | 
 |---------|------------|------------|---------------------------------------------------------------------------------------------|
 |  v1.0  | 26/04/2025 |  Selling Cars Quickly - SCQ   | Se agrega TB1  |
+|  v1.1  | 14/05/2025 |  Selling Cars Quickly - SCQ   | Correcion de los puntos:<br> - resultado estudiantil empiezan todos igual. <br> - Incluir la comparación de los precios en el benchmark, incluir datos demográficos en la selección de segmentos.<br> - Mejorar la BD. <br> - No vemos historias técnicas.  |
 
 
 ### Project Report Collaboration Insights
