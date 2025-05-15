@@ -1959,7 +1959,19 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
+Se implemento en este Segundo Sprint, el diseño de la primera version de la Aplicacion Web, desplegado en Github Pages. A continuacion, Se presentara la seccion del dashboard.
 
+Sección Busqueda: 
+<img src="Images/searchFil.png"/>
+
+Sección Bienvenida: 
+<img src="Images/welcome.png"/>
+
+Sección Certificado: 
+<img src="Images/certifi.png"/>
+
+Sección Marcas: 
+<img src="Images/brand.png"/>
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
