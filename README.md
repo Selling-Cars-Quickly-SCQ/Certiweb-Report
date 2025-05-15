@@ -1975,11 +1975,15 @@ Sección Marcas:
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-
+Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación CertiWeb, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Github Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
 
+<img src="Images/buildsprintdos.png"/>
+
+Se configuro y desplegó la versión inicial de la Aplicacion Web en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
