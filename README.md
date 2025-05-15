@@ -134,6 +134,16 @@ width=50%"/>
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
 
 - [Conclusiones](#conclusiones)
 
@@ -1882,6 +1892,63 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 
 [↑ Volver al índice](#índice)
+
+#### 5.2.2. Sprint 2
+##### 5.2.2.1. Sprint Planning 2
+
+| Criterio                     | Detalle                                                                                                                            |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                 | Sprint 2                                                                                                                           |
+| **Sprint Planning Background** |                                                                                                                                    |
+| Date                         | 13/05/25                                                                                                                         |
+| Time                         | 9:00pm                                                                                                                        |
+| Location                     | Reunión Virtual en Meet                                                                      |
+| Prepared By                  | Eric Agama                                                                                             |
+| Attendees (to planning meeting) | Lopez Roman, Franco Mauricio , Millones Espinoza, Jesus Andres , Santos Torres, Juan Manuel , Trillo Hernandez, Anghel Melanie                                                                               |
+| Sprint n - 2 Review Summary  |Se completo las correciones dabas para la tb1 y avance significativo del Frontend. |
+| Sprint n - 2 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 1 |
+| **Sprint Goal & User Stories** |                                                                                                                                    |
+| Sprint 2 Goal                | Nuestro enfoque es desarrollar la primera versión de la aplicacion web y la elaboración de las correciones dabas para la tb1, como equipo hemos llegado a la conclusión la importancia del cumplimiento del la mejora continua.                                                                    |
+| Sprint 1 Velocity            | 5       |
+| **Sum of Story Points**      | 13                                |
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design <br> Leader (L) / Collaborator (C) | Landing Design <br> Leader (L) / Collaborator (C) |
+| :---------------------------------- | :-------------- | :------------------------------------------------: | :------------------------------------------------: |
+| Lopez Roman, Franco Mauricio        | Moris0306       | C                                                  | C                                                  |
+| Agama Espinoza, Eric Fabrizio       | XaerickSReborn  |L                                                   |L                                                   |
+| Millones Espinoza, Jesus Andres     | JJSON-11110     | C                                                  | C                                                  |
+| Santos Torres, Juan Manuel          | JuanManuel312   | C                                                  | C                                                  |
+| Trillo Hernandez, Anghel Melanie    | AM27TH          | C                                                  | C                                                  |
+| Tony Do Santos Torres Cortez    | TonyTorresC      | C                                                  | C                                                  |
+
+##### 5.2.2.3. Sprint Backlog 2
+
+
+
+##### 5.2.2.4. Development Evidence for Sprint Review
+
+
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+
+
+[↑ Volver al índice](#índice)
+
 # Conclusiones
 - **Visión y propósito claros**: Certiweb tiene una misión bien definida de ofrecer un servicio confiable de inspección técnica para autos usados, respondiendo a una necesidad real del mercado.
 
