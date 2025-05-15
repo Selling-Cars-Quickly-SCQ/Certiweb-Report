@@ -2028,6 +2028,6 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 
 # Anexos
 
-
+- Video Trabajo Parcial: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EWgaO4I4O3xEmiW0x1jrqosB7ILXKHeAhh9BHs4xYwDgoA?e=Xhm1Ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [↑ Volver al índice](#índice)
