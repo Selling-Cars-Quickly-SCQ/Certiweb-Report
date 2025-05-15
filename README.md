@@ -1959,7 +1959,7 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
-Se implemento en este Segundo Sprint, el diseño de la primera version de la Aplicacion Web, desplegado en Github Pages. A continuacion, Se presentara la seccion del dashboard.
+Se implemento en este Segundo Sprint, el diseño de la primera version de la Aplicacion Web, desplegado en Github Pages. A continuacion, Se presentara la seccion del dashboard, reserva y perfil.
 
 Sección Busqueda: 
 <img src="Images/searchFil.png"/>
@@ -1972,6 +1972,16 @@ Sección Certificado:
 
 Sección Marcas: 
 <img src="Images/brand.png"/>
+
+Sección Reserva:
+<img src="Images/reserva1.png"/>
+<img src="Images/reserva2.png"/>
+
+Seccion Historial:
+<img src="Images/pruebareserva.png"/>
+
+Seccion Perfil:
+<img src="Images/seccperfil.png"/>
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
