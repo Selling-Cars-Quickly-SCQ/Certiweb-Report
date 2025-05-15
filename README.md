@@ -170,10 +170,6 @@ Certiweb es un servicio especializado en la inspección y certificación de veh�
 | Trillo Hernandez, Anghel Melanie <br> <img src="Images/anghel-trillo.jpg" width="150"/>     | Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual. |
 | Torres Cortez, Tony Do Santos <br> <img src="Images/TonyTorres.png" width="150"/>    |Soy estudiante de la carrera de Ingeniería de Software en la UPC. Elegi esta carreara porque desde pequeño me apasiona la tecnología y todo lo relacionado a ella. Mi principal meta es mejorar mis habilidades para tener más oportunidades de trabajo en el futuro. Además, siempre estoy buscando nuevas tecnologías y herramientas que me ayuden a ampliar mi repertorio de habilidades. En mi tiempo libre, me gusta pasar tiempo con mi familia, ver series y practicar programación.|
 
-
-
-
-
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
 
