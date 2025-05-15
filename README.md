@@ -1982,8 +1982,8 @@ Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la
 Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Github Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
 
 <img src="Images/buildsprintdos.png"/>
-
-Se configuro y desplegó la versión inicial de la Aplicacion Web en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
+<img src="Images/buildsucces.png"/>
+Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Pages desde la sección "Pages" seleccionando la rama main.
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
