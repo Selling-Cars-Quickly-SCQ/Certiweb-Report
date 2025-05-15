@@ -1946,7 +1946,16 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
-
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | fcc7465 | feat(dashboard): add new components for dashboard UI. | - | 12/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | 9fdb2c7  | feat(login): implement login functionality with form validation and session management.  | - | 14/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | 93995c0  | feat(register): add user data persistence to localStorage. | - | 14/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | 7b187d0  | feat(user): add user entity and service for managing user data. | - | 14/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | b8a7b9f  | feat(history): add service to fetch user reservations. | - | 15/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | c6a7f56  | feat: add ImgbbApiService for image upload functionality. | - | 15/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | 79b3581  | merge: pushing frontend v1.1. | - | 15/05/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | main  | b1f77da  | refactor(dashboard): update routes and add home navigation. | - | 15/05/2025 |
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
