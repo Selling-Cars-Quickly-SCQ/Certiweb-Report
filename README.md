@@ -2092,7 +2092,9 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-
+<img src="Images/APIdoc1.png"/>
+<img src="Images/APIdoc2.png"/>
+<img src="Images/APIdoc3.png"/>
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2100,7 +2102,13 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
-
+<img src="Images/Sprint3Git1.png"/>
+<img src="Images/Sprint3Git2.png"/>
+<img src="Images/Sprint3Git3.png"/>
+<img src="Images/Sprint3Git4.png"/>
+<img src="Images/Sprint3Git5.png"/>
+<img src="Images/Sprint3Git6.png"/>
+<img src="Images/Sprint3Git7.png"/>
 
 [↑ Volver al índice](#índice)
 
