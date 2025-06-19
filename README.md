@@ -145,7 +145,16 @@ width=50%"/>
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
+    
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
 - [Conclusiones](#conclusiones)
 
@@ -2012,6 +2021,86 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 <img src="Images/git5.png"/>
 <img src="Images/git6.png"/>
 <img src="Images/git7.png"/>
+
+[↑ Volver al índice](#índice)
+
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+| Criterio                     | Detalle                                                                                                                            |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                 | Sprint 3                                                                                                                           |
+| **Sprint Planning Background** |                                                                                                                                    |
+| Date                         | 18/06/25                                                                                                                         |
+| Time                         | 10:00pm                                                                                                                        |
+| Location                     | Reunión Virtual en Meet                                                                      |
+| Prepared By                  | Eric Agama                                                                                             |
+| Attendees (to planning meeting) | Torres Cortez, Tony Do Santos                                                                               |
+| Sprint n - 3 Review Summary  |Se completo las correciones dabas para el tp y avance significativo del Backend. |
+| Sprint n - 3 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 3 |
+| **Sprint Goal & User Stories** |                                                                                                                                    |
+| Sprint 3 Goal                | Implementar los endpoints principales para el manejo de inspecciones vehiculares, visualización de informes, validación de autenticidad y consulta de historiales.                                                                    |
+| Sprint 3 Velocity            | 5       |
+| **Sum of Story Points**      | 13                                |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design <br> Leader (L) / Collaborator (C) | Landing Design <br> Leader (L) / Collaborator (C) |
+| :---------------------------------- | :-------------- | :------------------------------------------------: | :------------------------------------------------: |
+| Lopez Roman, Franco Mauricio        | Moris0306       | C                                                  | C                                                  |
+| Agama Espinoza, Eric Fabrizio       | XaerickSReborn  |L                                                   |L                                                   |
+| Millones Espinoza, Jesus Andres     | JJSON-11110     | C                                                  | C                                                  |
+| Santos Torres, Juan Manuel          | JuanManuel312   | C                                                  | C                                                  |
+| Trillo Hernandez, Anghel Melanie    | AM27TH          | C                                                  | C                                                  |
+| Tony Do Santos Torres Cortez    | TonyTorresC      | C                                                  | C                                                  |
+
+### 5.2.3.3. Sprint Backlog 3
+
+| **User Story** | **Title**                                  | **Work-Item / Task** | **Title**                                     | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**         | **Status** |
+|----------------|--------------------------------------------|----------------------|-----------------------------------------------|---------------------------------------------------------------------------------|------------------------|-------------------------|------------|
+| TS01           | Endpoint para crear inspección vehicular   | T01                  | Crear endpoint POST /reservation               | Desarrollar el endpoint que reciba solicitudes de inspección con datos del vehículo | 8                      | Eric Fabrizio Agama     | Done      |
+|                |                                            | T02                  | Implementar validación de datos de entrada    | Validar que los datos del vehículo sean correctos y completos en la solicitud   | 4                      | Eric Fabrizio Agama   | Done      |
+| TS02           | Endpoint para visualizar informe          | T03                  | Crear endpoint GET /cars/{id}/pdf                 | Desarrollar el endpoint que devuelva el informe técnico en formato JSON         | 6                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T04                  | Implementar manejo de errores 404             | Gestionar casos cuando el informe solicitado no existe en la base de datos      | 3                      | Eric Fabrizio Agama      | Done      |
+| TS03           | Endpoint para consulta de informes técnicos| T05                  | Crear endpoint GET /cars/{id}/pdf        | Desarrollar endpoint que retorne el historial de informes técnicos por vehículo | 8                      | Eric Fabrizio Agama     | Done      |
+|                |                                            | T06                  | Implementar filtros y paginación              | Añadir capacidad de filtrar y paginar resultados del historial de informes      | 5                      | Eric Fabrizio Agama      | Done      |
+| FE01           | Interfaz para solicitud de inspección      | T07                  | Crear formulario de solicitud de inspección   | Desarrollar interfaz frontend para que usuarios soliciten inspecciones técnicas | 6                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T8                  | Integrar formulario con endpoint POST         | Conectar el formulario frontend con el endpoint de creación de inspecciones     | 4                      | Eric Fabrizio Agama   | Done      |
+| FE02           | Visualización de informes técnicos         | T9                  | Crear componente de visualización de informes | Desarrollar interfaz para mostrar informes técnicos de manera clara y atractiva | 7                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T10                  | Implementar descarga de informes PDF          | Añadir funcionalidad para descargar informes en formato PDF desde el frontend   | 5                      | Eric Fabrizio Agama      | Done      |
+| FE03           | Dashboard de historial de inspecciones     | T11                  | Crear dashboard de historial                   | Desarrollar interfaz para mostrar historial de inspecciones con filtros         | 8                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T12                  | Implementar búsqueda y filtros avanzados      | Añadir funcionalidades de búsqueda por fecha, estado y tipo de vehículo         | 6                      | Eric Fabrizio Agama   | Done      |
+
+**Total de horas estimadas:** 88 horas
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | ced20b8 | feat: configure API services and add database integration. | - | 11/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | c737f90  | feat(UsersController): add login endpoint for user authentication.  | - | 12/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | abd9401  | feat(reservation): add reservation resources, assemblers and controller. | - | 14/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | 810bb4a  | feat(persistence): add reservation entity configuration to AppDbContext. | - | 14/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | c323925  | feat(certifications): add Brands and Cars REST controllers with CRUD operations. | - | 15/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | 9c37bf8  | feat(EFC): add AdminUser entity configuration and seeding. | - | 15/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | 03b24dd  | fix(PdfCertification): handle empty data and clean base64 prefix | - | 16/06/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | f1be622  | feat(cars): enhance car certification endpoints with error handling. | - Add detailed error responses for create and update operations<br>- Implement PDF retrieval endpoint for car certifications<br>- Add delete car certification endpoint<br> | 16/06/2025 |
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 [↑ Volver al índice](#índice)
 
