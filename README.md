@@ -2100,7 +2100,20 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para este sprint se implementaron los siguientes cambios:
 
+- **Dockerización de la aplicación**: Se implementó la dockerización de Certiweb-Backend para garantizar la portabilidad y consistencia del entorno de desarrollo. Esto facilita el despliegue en diferentes entornos y mejora la eficiencia del proceso de implementación.
+
+- **Integración con Render**: Se configuró la integración de Certiweb-Backend con Render para el despliegue automático de la aplicación. Esto permite una entrega rápida y confiable de la aplicación a través de la plataforma Render.
+
+- **Base de datos Raiway**: Se implementó la base de datos en Railway para Certiweb-Backend, lo que garantiza la persistencia y escalabilidad de los datos.
+
+<img src="Images/Sprint3deploy1.png"/>
+<img src="Images/Sprint3deploy2.png"/>
+<img src="Images/Sprint3deploy3.png"/>
+<img src="Images/Sprint3deploy4.png"/>
+<img src="Images/Sprint3deploy5.png"/>
+<img src="Images/Sprint3deploy6.png"/>
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
