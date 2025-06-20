@@ -2096,6 +2096,8 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 <img src="Images/APIdoc2.png"/>
 <img src="Images/APIdoc3.png"/>
 
+[Acceda al Swagger](https://certiweb-backend.onrender.com/swagger/index.html)
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 
