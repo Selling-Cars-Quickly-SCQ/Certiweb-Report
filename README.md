@@ -2071,6 +2071,8 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 
 **Total de horas estimadas:** 88 horas
 
+<img src="Images/Sprint3trello.png"/>
+
 ### 5.2.3.4. Development Evidence for Sprint Review
 
 | Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
