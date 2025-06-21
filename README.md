@@ -155,6 +155,10 @@ width=50%"/>
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
 
@@ -2130,6 +2134,179 @@ Para este sprint se implementaron los siguientes cambios:
 <img src="Images/Sprint3Git5.png"/>
 <img src="Images/Sprint3Git6.png"/>
 <img src="Images/Sprint3Git7.png"/>
+
+
+### 5.3. Validation Interview
+Para validar la solución implementada, se realizan entrevistas a candidatos pertenecientes a los segmentos objetivo con el fin de evaluar su nivel de satisfacción y aceptación hacia el producto futuro.
+
+Para acceder al video de las entrevistas:
+
+#### 5.3.1 Diseño de Entrevistas
+Se realizaron entrevistas a personas representativas de nuestros segmentos objetivo, ajustando las preguntas según las particularidades de cada segmento y sus diferentes circunstancias.
+
+##### Segmento 1: Vendedores Particulares
+
+Preguntas de Introducción:
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué ciudad y/o distrito reside?
+
+Preguntas de principales:
+| #  | Pregunta                                                                                                               |
+| -- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1  | ¿Qué tan fácil te resultó registrarte y agendar una inspección técnica desde la plataforma?                            |
+| 2  | ¿Sientes que la explicación del servicio en la landing page fue clara y suficiente para entender el valor de Certiweb? |
+| 3  | ¿Te pareció útil recibir un informe técnico con fotos y diagnóstico luego de la inspección?                            |
+| 4  | ¿Consideras que el sello de certificación ayuda a generar más confianza en los compradores?                            |
+| 5  | ¿Fue sencillo compartir tu informe con potenciales compradores?                                                        |
+| 6  | ¿Te gustaría que el sistema permitiera publicar tu anuncio directamente en portales como OLX o Marketplace?            |
+| 7  | ¿Sientes que la plataforma te dio herramientas para vender más rápido?                                                 |
+| 8  | ¿Qué tan útil te pareció el sistema de estados (“pendiente”, “inspeccionado”, “certificado”)?                          |
+| 9  | ¿Preferirías poder contactar a Certiweb desde la misma plataforma en lugar de por correo o WhatsApp?                   |
+| 10 | ¿Te gustaría poder dejar una reseña sobre el servicio recibido después de vender tu auto?                              |
+
+
+##### Segmento 2: Revendedores
+Preguntas de Introducción:
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué ciudad y/o distrito reside?
+
+Preguntas de principales:
+| #  | Pregunta                                                                                              |
+| -- | ----------------------------------------------------------------------------------------------------- |
+| 1  | ¿Qué tan sencillo te pareció registrar varios autos al mismo tiempo en la plataforma?                 |
+| 2  | ¿Te resultó útil el panel de gestión para visualizar el estado de cada inspección?                    |
+| 3  | ¿Qué tan valiosas te parecieron las notificaciones sobre cambios en el estado de los vehículos?       |
+| 4  | ¿Te parece que el informe técnico es suficientemente claro y profesional para mostrar a tus clientes? |
+| 5  | ¿Preferirías tener integración directa con portales de venta desde la plataforma Certiweb?            |
+| 6  | ¿Te resulta más eficiente trabajar con esta plataforma que con talleres independientes?               |
+| 7  | ¿Te pareció claro el detalle de los planes de suscripción mensual y trimestral?                       |
+| 8  | ¿Qué tan útil te parece poder compartir los informes técnicos por WhatsApp o correo sin login?        |
+| 9  | ¿Sientes que la plataforma ahorra tiempo en tu proceso de ventas?                                     |
+| 10 | ¿Te gustaría que Certiweb ofrezca funciones adicionales como control de inventario o CRM básico?      |
+
+##### Segmento 3: Compradores
+Preguntas de Introducción:
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué ciudad y/o distrito reside?
+
+Preguntas de principales:
+| #  | Pregunta                                                                                                |
+| -- | ------------------------------------------------------------------------------------------------------- |
+| 1  | ¿Qué tan sencillo te pareció registrarte en la plataforma?                      |
+| 2  | ¿Te dio más confianza saber que un auto había sido inspeccionado por una entidad imparcial?             |
+| 3  | ¿Preferirías que el informe sea descargable en PDF o visualizado en la web?                             |
+| 4  | ¿Consideras útil que exista una clave de verificación para acceder al informe Certiweb?                             |
+| 5  | ¿Qué tan clara te pareció la información contenida en los informes técnicos?                            |
+| 6  | ¿Te gustaría poder comparar varios informes de autos diferentes en una misma pantalla?                  |
+| 7  | ¿Sientes que un sello visible de certificación influye en tu decisión de contacto o compra?             |
+| 8  | ¿Te parecería útil dejar una reseña sobre la experiencia con el vendedor y la condición real del auto?  |
+| 9  | ¿Te gustaría recibir alertas o notificaciones cuando un auto certificado de tu interés esté disponible? |
+| 10 | ¿Consideras que Certiweb mejora tu seguridad como comprador frente a estafas o engaños?                 |
+
+#### 5.3.2 Registro de Entrevistas
+Para poder realizar el registro de entrevistas, se llevarán a cabo un total de 9 entrevistas, distribuidas en 3 entrevistas por cada segmento. Cada entrevista será grabada en formato .mp4 y se gestionará de manera independiente debido a las diferencias en las preguntas realizadas y las respuestas proporcionadas por los entrevistados de cada segmento.
+
+##### Segmento 1: Vendedores Particulares
+
+| Entrevista 1 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+| Entrevista 2 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+| Entrevista 3 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+##### Segmento 2: Revendedores
+
+| Entrevista 1 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+| Entrevista 2 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+| Entrevista 3 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+##### Segmento 3: Compradores
+
+| Entrevista 1 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+| Entrevista 2 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+| Entrevista 3 | nombre |
+|------------------|----------------------|
+| Edad         | 30 años              |
+| Distrito     | Lima          |
+| <img src="" width="200"/>  | descripcion |
+| URL de la grabación | [Link](link)            |
+| Timming      | 29:33 - 41:40           |
+<br>
+
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product
+En esta sección se presenta un video explicativo sobre el producto desarrollado. El objetivo del video es resaltar las principales características, funcionalidades y beneficios del producto, permitiendo a los usuarios tener una mejor comprensión de su propósito y usabilidad.
+
+<img src="" />
+
+A continuación, se proporcionan enlaces a las plataformas donde el video ha sido subido, junto con una captura de pantalla del mismo:
+
+
 
 [↑ Volver al índice](#índice)
 
