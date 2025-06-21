@@ -586,7 +586,7 @@ Certiweb compite con diversas plataformas de compraventa e inspección vehicular
     </tr>
     <tr>
       <td>Precios & Costos</td>
-      <td>Precios flexibles ajustados según el perfil del cliente y vigencia. Estos precios varian tanto dependiendo el plan que elija. Free que tendran ciertas funciones limitadas, y el Plan pro (s/.50) que premite dar mas visibilidad a las publicaciones, reporte de visualizaciones mas precisos y promociones con prioridad tanto para venta o para compra. </td>
+      <td>Precios flexibles ajustados según el perfil del cliente y vigencia. Estos precios varían tanto dependiendo el plan que elija. Free que tendrán ciertas funciones limitadas y como su nombre lo indica será sin costo alguno. El plan mensual (S/.50) contará con certificación completa del vehículo, informes detallados, precios sugeridos y soporte técnico. Finalmente, el plan anual (S/.250) cuenta con todos los beneficios del plan mensual además de descuentos adicionales, certificaciones ilimitadas y soporte prioritario 24/7.</td>
       <td>Para vendedor de un auto desde S/ 150.00 con vigencia de 60 dias, y para revendedores desde S/ 297 con vigencia de 30 dias.</td>
       <td>Para la certificación de un auto con vigencia de 30 dias S/ 150.00. </td>
       <td>Promedio por auto de S/ 200.00 para la certificación con vigencia de 30 dias.</td>
