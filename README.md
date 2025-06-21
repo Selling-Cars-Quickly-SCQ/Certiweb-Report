@@ -2035,9 +2035,9 @@ Se configuro y desplegó la versión inicial de la Aplicacion Web en GitHub Page
 | **Sprint Planning Background** |                                                                                                                                    |
 | Date                         | 18/06/25                                                                                                                         |
 | Time                         | 10:00pm                                                                                                                        |
-| Location                     | Mensaje de WhatsApp                                                                      |
+| Location                     | Reunión Virtual en Meet                                                                      |
 | Prepared By                  | Eric Agama                                                                                             |
-| Attendees (to planning meeting) | Torres Cortez, Tony Do Santos                                                                               |
+| Attendees (to planning meeting) | Lopez Roman, Franco Mauricio , Millones Espinoza, Jesus Andres , Santos Torres, Juan Manuel , Trillo Hernandez, Anghel Melanie, Torres Cortez, Tony Do Santos                                                                               |
 | Sprint n - 3 Review Summary  |Se completo las correciones dabas para el tp y avance significativo del Backend. |
 | Sprint n - 3 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 3 |
 | **Sprint Goal & User Stories** |                                                                                                                                    |
