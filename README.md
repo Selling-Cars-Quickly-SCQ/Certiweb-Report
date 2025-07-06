@@ -2573,42 +2573,42 @@ Para poder realizar el registro de entrevistas, se llevarán a cabo un total de 
 | Timming      | 00:24:52 - 00:28:52           |
 <br>
 
-| Entrevista 3 | nombre |
+| Entrevista 3 | Javier Gonzales |
 |------------------|----------------------|
-| Edad         | 30 años              |
+| Edad         | 42 años              |
 | Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| <img src="Images/Sprint4Entre6.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:28:55 - 00:32:55           |
 <br>
 
 ##### Segmento 3: Compradores
 
-| Entrevista 1 | nombre |
+| Entrevista 1 | Jorge Santos |
 |------------------|----------------------|
-| Edad         | 30 años              |
+| Edad         | 21 años              |
 | Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| <img src="Images/Sprint4Entre7.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:33:01 - 00:43:32           |
 <br>
 
-| Entrevista 2 | nombre |
+| Entrevista 2 | Omar Sikkos |
 |------------------|----------------------|
-| Edad         | 30 años              |
-| Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| Edad         | 46 años              |
+| Distrito     | San Martin de Porres          |
+| <img src="Images/Sprint4Entre8.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:43:35 - 00:51:23           |
 <br>
 
-| Entrevista 3 | nombre |
+| Entrevista 3 | Victor Lopez |
 |------------------|----------------------|
-| Edad         | 30 años              |
-| Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| Edad         | 52 años              |
+| Distrito     | San Miguel          |
+| <img src="Images/Sprint4Entre9.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:51:26 - 00:54:49           |
 <br>
 
 
