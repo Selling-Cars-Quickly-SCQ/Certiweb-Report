@@ -2524,51 +2524,51 @@ Para poder realizar el registro de entrevistas, se llevarán a cabo un total de 
 
 ##### Segmento 1: Vendedores Particulares
 
-| Entrevista 1 | nombre |
+| Entrevista 1 | Olga Hernandez |
 |------------------|----------------------|
-| Edad         | 30 años              |
-| Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| Edad         | 44 años              |
+| Distrito     | La Victoria          |
+| <img src="Images/Sprint4Entre1.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:00:04 - 00:05:13           |
 <br>
 
-| Entrevista 2 | nombre |
+| Entrevista 2 | Violeta Cortez |
 |------------------|----------------------|
-| Edad         | 30 años              |
-| Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| Edad         | 49 años              |
+| Distrito     | Callao          |
+| <img src="Images/Sprint4Entre2.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:05:17 - 00:10:33           |
 <br>
 
-| Entrevista 3 | nombre |
+| Entrevista 3 | Sindy Angela |
 |------------------|----------------------|
-| Edad         | 30 años              |
-| Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| Edad         | 42 años              |
+| Distrito     | Puente Piedra          |
+| <img src="Images/Sprint4Entre3.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:10:41 - 00:15:33           |
 <br>
 
 ##### Segmento 2: Revendedores
 
-| Entrevista 1 | nombre |
+| Entrevista 1 | Joaquin Valdivieso |
 |------------------|----------------------|
 | Edad         | 30 años              |
 | Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| <img src="Images/Sprint4Entre4.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:15:37 - 00:24:46           |
 <br>
 
-| Entrevista 2 | nombre |
+| Entrevista 2 | Jhonny Pariona |
 |------------------|----------------------|
-| Edad         | 30 años              |
-| Distrito     | Lima          |
-| <img src="" width="200"/>  | descripcion |
+| Edad         | 39 años              |
+| Distrito     | Carabayllo          |
+| <img src="Images/Sprint4Entre5.png" width="200"/>  |  |
 | URL de la grabación | [Link](link)            |
-| Timming      | 29:33 - 41:40           |
+| Timming      | 00:24:52 - 00:28:52           |
 <br>
 
 | Entrevista 3 | nombre |
