@@ -1977,6 +1977,8 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 | **ENG02**      | **Optimización de rendimiento frontend**   | **T17**              | **Implementar lazy loading de componentes**   | **Optimizar la carga de componentes para mejorar el rendimiento**                | **4**                  | **Anghel Melanie Trillo** | **Done** |
 |                |                                            | **T18**              | **Configurar bundling y minificación**        | **Optimizar el empaquetado de archivos para reducir tiempos de carga**           | **3**                  | **Tony Do Santos**       | **Done** |
 
+**Trello Sprint 4**
+<img src="Images/Sprint4trello1.png"/>
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
