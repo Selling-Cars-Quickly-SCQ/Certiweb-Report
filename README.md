@@ -2446,8 +2446,8 @@ Para este sprint se implementaron las siguientes mejoras en el despliegue:
 <img src="Images/Sprint4git2.png"/>
 <img src="Images/Sprint4git3.png"/>
 <img src="Images/Sprint4git4.png"/>
-<img src="Images/Sprint4git5.png"/>
 <img src="Images/Sprint4git6.png"/>
+<img src="Images/Sprint4git7.png"/>
 
 ### 5.3. Validation Interview
 Para validar la solución implementada, se realizan entrevistas a candidatos pertenecientes a los segmentos objetivo con el fin de evaluar su nivel de satisfacción y aceptación hacia el producto futuro.
