@@ -2128,6 +2128,87 @@ Para este Sprint 3 se mejora la aplicacion web, se cambiaron cosas respecto al S
 
 [Acceda al Swagger](https://certiweb-backend.onrender.com/swagger/index.html)
 
+## Documentación Completa de Endpoints - Sprint 3
+
+### Endpoints de Autenticación (Authentication)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/auth` | Registrar usuario | Body: datos del usuario |
+| POST | `/api/v1/auth/login` | Login usuario | Body: credenciales de usuario |
+
+### Endpoints de Usuarios (Users)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| GET | `/api/v1/users` | Obtener todos los usuarios | - |
+| GET | `/api/v1/users/{userId}` | Obtener usuario por ID | Path: userId |
+| POST | `/api/v1/users/migrate-passwords` | Migrar contraseñas | Body: datos de migración |
+| POST | `/api/v1/users/test-password` | Probar contraseña | Body: datos de prueba |
+
+### Endpoints de Marcas (Brands)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| GET | `/api/v1/brands` | Obtener todas las marcas | - |
+
+### Endpoints de Vehículos (Cars)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/cars` | Crear certificación de vehículo | Body: datos del vehículo |
+| GET | `/api/v1/cars` | Obtener todos los vehículos | - |
+| GET | `/api/v1/cars/{carId}` | Obtener vehículo por ID | Path: carId |
+| PATCH | `/api/v1/cars/{carId}` | Actualizar vehículo | Path: carId, Body: datos a actualizar |
+| DELETE | `/api/v1/cars/{carId}` | Eliminar certificación de vehículo | Path: carId |
+| GET | `/api/v1/cars/brand/{brandId}` | Obtener vehículos por marca | Path: brandId |
+| GET | `/api/v1/cars/owner/{ownerEmail}` | Obtener vehículos por propietario | Path: ownerEmail |
+| GET | `/api/v1/cars/{id}/pdf` | Obtener PDF del vehículo | Path: id |
+
+### Endpoints de Usuarios Administradores (AdminUsers)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/admin_user/login` | Login de administrador | Body: credenciales de admin |
+| GET | `/api/v1/admin_user` | Obtener todos los administradores | - |
+| GET | `/api/v1/admin_user/{id}` | Obtener administrador por ID | Path: id |
+| GET | `/api/v1/admin_user/by-email/{email}` | Obtener administrador por email | Path: email |
+| POST | `/api/v1/admin_user/migrate-passwords` | Migrar contraseñas de admin | Body: datos de migración |
+| POST | `/api/v1/admin_user/test-password` | Probar contraseña de admin | Body: datos de prueba |
+
+### Endpoints de Reservas (Reservations)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/reservations` | Crear nueva reserva | Body: datos de la reserva |
+| GET | `/api/v1/reservations` | Obtener todas las reservas | - |
+| GET | `/api/v1/reservations/{reservationId}` | Obtener reserva por ID | Path: reservationId |
+| PUT | `/api/v1/reservations/{reservationId}` | Actualizar reserva | Path: reservationId, Body: datos actualizados |
+| DELETE | `/api/v1/reservations/{reservationId}` | Eliminar reserva | Path: reservationId |
+| GET | `/api/v1/reservations/user/{userId}` | Obtener reservas por usuario | Path: userId |
+| GET | `/api/v1/reservations/status/{status}` | Obtener reservas por estado | Path: status |
+| PUT | `/api/v1/reservations/{reservationId}/status` | Actualizar estado de reserva | Path: reservationId, Body: nuevo estado |
+
+### Características de Seguridad Implementadas
+
+- **Autenticación JWT**: Todos los endpoints protegidos requieren token de autorización
+- **Hashing de contraseñas**: Implementado con bcrypt para usuarios y administradores
+- **Anti-Corruption Layer (ACL)**: Implementado para mantener la integridad del dominio
+- **Rate Limiting**: Configurado para prevenir ataques de fuerza bruta
+- **CORS**: Configurado para permitir el manejo seguro de tokens
+
+### Resumen de Endpoints por Categoría
+
+| Categoría | Cantidad de Endpoints | Métodos HTTP Utilizados |
+|-----------|----------------------|------------------------|
+| Autenticación | 2 | POST |
+| Usuarios | 4 | GET, POST |
+| Marcas | 1 | GET |
+| Vehículos | 8 | GET, POST, PATCH, DELETE |
+| Administradores | 6 | GET, POST |
+| Reservas | 8 | GET, POST, PUT, DELETE |
+| **Total** | **29** | **GET, POST, PUT, PATCH, DELETE** |
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Para este sprint se implementaron los siguientes cambios:
@@ -2259,6 +2340,92 @@ Para el Sprint 4 se actualizó la documentación de la API para incluir los nuev
 
 [Acceda al Swagger Actualizado](https://certiweb-backend.onrender.com/swagger/index.html)
 
+## Documentación Completa de Endpoints - Sprint 4
+
+### Endpoints de Autenticación (Authentication)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/auth` | Registrar usuario | Body: datos del usuario |
+| POST | `/api/v1/auth/login` | Login usuario | Body: credenciales de usuario |
+
+### Endpoints de Usuarios (Users)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| GET | `/api/v1/users` | Obtener todos los usuarios | - |
+| GET | `/api/v1/users/{userId}` | Obtener usuario por ID | Path: userId |
+| POST | `/api/v1/users/migrate-passwords` | Migrar contraseñas | Body: datos de migración |
+| POST | `/api/v1/users/test-password` | Probar contraseña | Body: datos de prueba |
+
+### Endpoints de Marcas (Brands)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| GET | `/api/v1/brands` | Obtener todas las marcas | - |
+
+### Endpoints de Vehículos (Cars)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/cars` | Crear certificación de vehículo | Body: datos del vehículo |
+| GET | `/api/v1/cars` | Obtener todos los vehículos | - |
+| GET | `/api/v1/cars/{carId}` | Obtener vehículo por ID | Path: carId |
+| PATCH | `/api/v1/cars/{carId}` | Actualizar vehículo | Path: carId, Body: datos a actualizar |
+| DELETE | `/api/v1/cars/{carId}` | Eliminar certificación de vehículo | Path: carId |
+| GET | `/api/v1/cars/brand/{brandId}` | Obtener vehículos por marca | Path: brandId |
+| GET | `/api/v1/cars/owner/{ownerEmail}` | Obtener vehículos por propietario | Path: ownerEmail |
+| GET | `/api/v1/cars/{id}/pdf` | Obtener PDF del vehículo | Path: id |
+
+### Endpoints de Usuarios Administradores (AdminUsers)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/admin_user/login` | Login de administrador | Body: credenciales de admin |
+| GET | `/api/v1/admin_user` | Obtener todos los administradores | - |
+| GET | `/api/v1/admin_user/{id}` | Obtener administrador por ID | Path: id |
+| GET | `/api/v1/admin_user/by-email/{email}` | Obtener administrador por email | Path: email |
+| POST | `/api/v1/admin_user/migrate-passwords` | Migrar contraseñas de admin | Body: datos de migración |
+| POST | `/api/v1/admin_user/test-password` | Probar contraseña de admin | Body: datos de prueba |
+
+### Endpoints de Reservas (Reservations)
+
+| Método | Endpoint | Descripción | Parámetros |
+|--------|----------|-------------|------------|
+| POST | `/api/v1/reservations` | Crear nueva reserva | Body: datos de la reserva |
+| GET | `/api/v1/reservations` | Obtener todas las reservas | - |
+| GET | `/api/v1/reservations/{reservationId}` | Obtener reserva por ID | Path: reservationId |
+| PUT | `/api/v1/reservations/{reservationId}` | Actualizar reserva | Path: reservationId, Body: datos actualizados |
+| DELETE | `/api/v1/reservations/{reservationId}` | Eliminar reserva | Path: reservationId |
+| GET | `/api/v1/reservations/user/{userId}` | Obtener reservas por usuario | Path: userId |
+| GET | `/api/v1/reservations/status/{status}` | Obtener reservas por estado | Path: status |
+| PUT | `/api/v1/reservations/{reservationId}/status` | Actualizar estado de reserva | Path: reservationId, Body: nuevo estado |
+
+### Características de Seguridad Implementadas
+
+- **Autenticación JWT**: Todos los endpoints protegidos requieren token de autorización
+- **Hashing de contraseñas**: Implementado con bcrypt para usuarios y administradores
+- **Anti-Corruption Layer (ACL)**: Implementado para mantener la integridad del dominio
+- **Rate Limiting**: Configurado para prevenir ataques de fuerza bruta
+- **CORS**: Configurado para permitir el manejo seguro de tokens
+
+### Resumen de Endpoints por Categoría
+
+| Categoría | Cantidad de Endpoints | Métodos HTTP Utilizados |
+|-----------|----------------------|------------------------|
+| Autenticación | 2 | POST |
+| Usuarios | 4 | GET, POST |
+| Marcas | 1 | GET |
+| Vehículos | 8 | GET, POST, PATCH, DELETE |
+| Administradores | 6 | GET, POST |
+| Reservas | 8 | GET, POST, PUT, DELETE |
+| **Total** | **29** | **GET, POST, PUT, PATCH, DELETE** |
+
+**Acceso a la Documentación Completa:**
+Puedes acceder a la documentación interactiva y probar todos los endpoints en: [Swagger UI - CertiWeb API](https://certiweb-backend.onrender.com/swagger/index.html)
+
+Esta documentación refleja todas las mejoras implementadas en los Sprints 3 y 4, incluyendo las nuevas funcionalidades de autenticación, autorización y seguridad.
+
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
 Para este sprint se implementaron las siguientes mejoras en el despliegue:
@@ -2266,10 +2433,12 @@ Para este sprint se implementaron las siguientes mejoras en el despliegue:
 - **Actualización de variables de entorno**: Se configuraron nuevas variables para el manejo de JWT y configuraciones de seguridad.
 - **Despliegue con nuevas funcionalidades de seguridad**: Se actualizó el despliegue en Render para incluir las nuevas funcionalidades de autenticación y autorización.
 - **Configuración de CORS actualizada**: Se ajustaron las políticas de CORS para permitir el manejo seguro de tokens JWT.
+- **Dockerización**: Se implementó Docker para el despliegue en un contenedor.
 
-<img src="Images/Sprint4deploy1.png"/>
 <img src="Images/Sprint4deploy2.png"/>
 <img src="Images/Sprint4deploy3.png"/>
+<img src="Images/Sprint4deploy4.png"/>
+<img src="Images/Sprint4deploy1.png"/>
 
 #### 5.2.4.8 Team Collaboration Insights during Sprint
 
