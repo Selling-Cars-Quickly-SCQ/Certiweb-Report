@@ -157,6 +157,16 @@ width=50%"/>
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
       - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
       - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1128,6 +1138,9 @@ Empathy Mapping Compradores
 | TS02 | Endpoint para visualizar informe | Como developer quiero implementar un endpoint `GET /report/:id` que devuelva el informe técnico en formato JSON. | Escenario 1:<br><strong>Dado</strong> que se hace una solicitud con un ID válido,<br><strong>Cuando</strong> existe el informe,<br><strong>Entonces</strong> se retorna con los datos técnicos y estado de certificación.<br> Escenario 2:<br><strong>Dado</strong> que el ID no es válido,<br><strong>Cuando</strong> se realiza la solicitud,<br><strong>Entonces</strong> el sistema devuelve un error 404 indicando que el informe no se encontró. | EP05 |
 | TS03 | Endpoint para validación de informe | Como developer quiero un endpoint `GET /validate/:code` para comprobar la autenticidad de un informe. | Escenario 1:<br><strong>Dado</strong> un código de informe válido,<br><strong>Cuando</strong> se consulta la API,<br><strong>Entonces</strong> debe retornar si es válido, certificado y su estado actual.<br> Escenario 2:<br><strong>Dado</strong> un código inválido,<br><strong>Cuando</strong> se realiza la consulta,<br><strong>Entonces</strong> el sistema devuelve un mensaje de error indicando que el código no es válido. | EP05 |
 | TS04 | Endpoint para consulta de informes técnicos | Como developer quiero un endpoint `GET /reports/:vehicleId` para que se pueda obtener el informe técnico de un vehículo inspeccionado. | Escenario 1:<br><strong>Dado</strong> que el vehicleId existe,<br><strong>Cuando</strong> se consulta el endpoint,<br><strong>Entonces</strong> se retorna un JSON con el informe técnico completo.<br>Escenario 2:<br><strong>Dado</strong> que el vehicleId no existe,<br><strong>Cuando</strong> se hace la solicitud,<br><strong>Entonces</strong> el sistema devuelve un error 404 con el mensaje "Informe no encontrado". | EP05 |
+| TS05 | Implementación de hashing de contraseñas | Como developer quiero implementar hashing seguro de contraseñas para proteger las credenciales de los usuarios en la base de datos. | Escenario 1:<br><strong>Dado</strong> que un usuario se registra con una contraseña,<br><strong>Cuando</strong> se almacena en la base de datos,<br><strong>Entonces</strong> la contraseña debe estar hasheada con un algoritmo seguro (bcrypt).<br>Escenario 2:<br><strong>Dado</strong> que un usuario intenta autenticarse,<br><strong>Cuando</strong> ingresa su contraseña,<br><strong>Entonces</strong> el sistema debe comparar el hash almacenado con la contraseña ingresada. | EP05 |
+| TS06 | Sistema de WebToken de autorización | Como developer quiero implementar un sistema de JWT para manejar la autorización de usuarios de manera segura y stateless. | Escenario 1:<br><strong>Dado</strong> que un usuario se autentica correctamente,<br><strong>Cuando</strong> el login es exitoso,<br><strong>Entonces</strong> el sistema debe generar un JWT válido con información del usuario.<br>Escenario 2:<br><strong>Dado</strong> que se recibe una petición con JWT,<br><strong>Cuando</strong> se valida el token,<br><strong>Entonces</strong> el sistema debe verificar su autenticidad y extraer la información del usuario. | EP05 |
+| TS07 | Implementación de Anti Corruption Layer (ACL) | Como developer quiero implementar un ACL para proteger el dominio de la aplicación de dependencias externas y mantener la integridad arquitectural. | Escenario 1:<br><strong>Dado</strong> que se reciben datos de servicios externos,<br><strong>Cuando</strong> estos datos ingresan al sistema,<br><strong>Entonces</strong> el ACL debe transformarlos al formato del dominio interno.<br>Escenario 2:<br><strong>Dado</strong> que el dominio necesita comunicarse con servicios externos,<br><strong>Cuando</strong> se envían datos,<br><strong>Entonces</strong> el ACL debe convertir los objetos del dominio al formato requerido por el servicio externo. | EP05 |
 
 ### 3.3. Impact Mapping
 <img src="Images/Certiweb-ImpactMapping.png">
@@ -2104,9 +2117,14 @@ Para este Sprint 3 se mejora la aplicacion web, se cambiaron cosas respecto al S
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-<img src="Images/APIdoc1.png"/>
-<img src="Images/APIdoc2.png"/>
-<img src="Images/APIdoc3.png"/>
+
+<img src="Images/Sprint4swagger1.png"/>
+
+<img src="Images/Sprint4swagger2.png"/>
+
+<img src="Images/Sprint4swagger3.png"/>
+
+**Acualizacion de documentacion con el Sprint 4**
 
 [Acceda al Swagger](https://certiweb-backend.onrender.com/swagger/index.html)
 
@@ -2137,6 +2155,130 @@ Para este sprint se implementaron los siguientes cambios:
 <img src="Images/Sprint3Git6.png"/>
 <img src="Images/Sprint3Git7.png"/>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1 Sprint Planning 4
+
+| Criterio                     | Detalle                                                                                                                            |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                 | Sprint 4                                                                                                                           |
+| **Sprint Planning Background** |                                                                                                                                    |
+| Date                         | 05/07/25                                                                                                                         |
+| Time                         | 10:00pm                                                                                                                        |
+| Location                     | Reunión Virtual en Meet                                                                      |
+| Prepared By                  | Eric Agama                                                                                             |
+| Attendees (to planning meeting) | Lopez Roman, Franco Mauricio , Millones Espinoza, Jesus Andres , Santos Torres, Juan Manuel , Trillo Hernandez, Anghel Melanie, Torres Cortez, Tony Do Santos                                                                               |
+| Sprint n - 4 Review Summary  | Se logro todos los objetivos y implementacion del backend y del frontend. |
+| Sprint n - 4 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 4 |
+| **Sprint Goal & User Stories** |                                                                                                                                    |
+| Sprint 4 Goal                | Implementar hashing de contraseñas, WebToken y ACL en el Backend. Implementar reconocimiento del WebToken en el frontend para su uso.                                                                    |
+| Sprint 4 Velocity            | 4       |
+| **Sum of Story Points**      | 14                                |
+
+#### 5.2.4.2 Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design <br> Leader (L) / Collaborator (C) | Landing Design <br> Leader (L) / Collaborator (C) |
+| :---------------------------------- | :-------------- | :------------------------------------------------: | :------------------------------------------------: |
+| Lopez Roman, Franco Mauricio        | Moris0306       | C                                                  | C                                                  |
+| Agama Espinoza, Eric Fabrizio       | XaerickSReborn  |L                                                   |L                                                   |
+| Millones Espinoza, Jesus Andres     | JJSON-11110     | C                                                  | C                                                  |
+| Santos Torres, Juan Manuel          | JuanManuel312   | C                                                  | C                                                  |
+| Trillo Hernandez, Anghel Melanie    | AM27TH          | C                                                  | C                                                  |
+| Tony Do Santos Torres Cortez    | TonyTorresC      | C                                                  | C                                                  |
+
+#### 5.2.4.3 Sprint Backlog 4
+
+| **User Story** | **Title**                                  | **Work-Item / Task** | **Title**                                     | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**         | **Status** |
+|----------------|--------------------------------------------|----------------------|-----------------------------------------------|---------------------------------------------------------------------------------|------------------------|-------------------------|------------|
+| TS01           | Endpoint para crear inspección vehicular   | T01                  | Crear endpoint POST /reservation               | Desarrollar el endpoint que reciba solicitudes de inspección con datos del vehículo | 8                      | Eric Fabrizio Agama     | Done      |
+|                |                                            | T02                  | Implementar validación de datos de entrada    | Validar que los datos del vehículo sean correctos y completos en la solicitud   | 4                      | Eric Fabrizio Agama   | Done      |
+| TS02           | Endpoint para visualizar informe          | T03                  | Crear endpoint GET /cars/{id}/pdf                 | Desarrollar el endpoint que devuelva el informe técnico en formato JSON         | 6                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T04                  | Implementar manejo de errores 404             | Gestionar casos cuando el informe solicitado no existe en la base de datos      | 3                      | Eric Fabrizio Agama      | Done      |
+| TS03           | Endpoint para validación de informe        | T05                  | Crear endpoint GET /cars/{id}/pdf            | Desarrollar endpoint para comprobar la autenticidad de un informe               | 8                      | Eric Fabrizio Agama     | Done      |
+|                |                                            | T06                  | Implementar validación de códigos             | Añadir lógica para verificar códigos de informe válidos e inválidos             | 5                      | Eric Fabrizio Agama      | Done      |
+| TS04           | Endpoint para consulta de informes técnicos| T07                  | Crear endpoint GET /cars/{id}/pdf        | Desarrollar endpoint que retorne el historial de informes técnicos por vehículo | 8                      | Eric Fabrizio Agama     | Done      |
+|                |                                            | T08                  | Implementar filtros y paginación              | Añadir capacidad de filtrar y paginar resultados del historial de informes      | 5                      | Eric Fabrizio Agama      | Done      |
+| TS05           | Implementación de hashing de contraseñas   | T09                  | Configurar bcrypt para hashing                | Implementar bcrypt para el hashing seguro de contraseñas de usuarios            | 6                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T10                  | Crear middleware de validación de contraseñas | Desarrollar middleware para validar contraseñas durante el login                | 4                      | Eric Fabrizio Agama   | Done      |
+| TS06           | Sistema de WebToken de autorización        | T11                  | Implementar generación de JWT                 | Crear sistema para generar tokens JWT después de autenticación exitosa          | 7                      | Eric Fabrizio Agama   | Done      |
+|                |                                            | T12                  | Crear middleware de validación de JWT         | Desarrollar middleware para validar tokens JWT en endpoints protegidos          | 5                      | Eric Fabrizio Agama   | Done      |
+| TS07           | Implementación de Anti Corruption Layer    | T13                  | Diseñar interfaces del ACL                    | Crear interfaces para la comunicación entre dominio y servicios externos        | 8                      | Eric Fabrizio Agama      | Done      |
+|                |                                            | T14                  | Implementar adaptadores de datos              | Desarrollar adaptadores para transformar datos entre formatos internos y externos | 6                      | Eric Fabrizio Agama      | Done      |
+| **FE04**       | **Integración de autenticación frontend**  | **T15**              | **Implementar interceptor de tokens HTTP**    | **Crear interceptor para agregar automáticamente JWT a las peticiones HTTP**     | **6**                  | **Eric Fabrizio Agama** | **Done** |
+|                |                                            | **T16**              | **Manejar respuestas de autorización**        | **Implementar manejo de errores 401/403 y redirección a login**                  | **4**                  | **Eric Fabrizio Agama** | **Done** |
+| **FE05**       | **Dashboard de gestión de tokens**         | **T17**              | **Crear componente de gestión de sesión**     | **Desarrollar interfaz para mostrar estado de sesión y tiempo de expiración**    | **5**                  | **Eric Fabrizio Agama**       | **Done** |
+|                |                                            | **T18**              | **Implementar renovación automática de tokens** | **Añadir funcionalidad para renovar tokens antes de su expiración**            | **4**                  | **Eric Fabrizio Agama**       | **Done** |
+| **FE06**       | **Protección de rutas frontend**           | **T19**              | **Implementar guards de autenticación**       | **Crear guards para proteger rutas que requieren autenticación**                 | **6**                  | **Eric Fabrizio Agama** | **Done** |
+|                |                                            | **T20**              | **Crear componente de login/logout**          | **Desarrollar interfaz de autenticación con manejo de estados**                  | **5**                  | **Eric Fabrizio Agama** | **Done** |
+| **ENG05**      | **Optimización de seguridad**              | **T21**              | **Implementar rate limiting**                 | **Configurar limitación de peticiones para prevenir ataques de fuerza bruta**    | **4**                  | **Eric Fabrizio Agama**  | **Done** |
+|                |                                            | **T22**              | **Configurar CORS y headers de seguridad**    | **Implementar políticas CORS y headers de seguridad para proteger la API**       | **3**                  | **Eric Fabrizio Agama**  | **Done** |
+| **ENG06**      | **Testing de seguridad**                   | **T23**              | **Crear tests de autenticación**              | **Desarrollar suite de tests para validar flujos de autenticación y autorización** | **6**                  | **Eric Fabrizio Agama** | **Done** |
+|                |                                            | **T24**              | **Implementar tests de integración de JWT**   | **Crear tests para validar el funcionamiento correcto del sistema JWT**          | **5**                  | **Eric Fabrizio Agama** | **Done** |
+
+**Total de horas estimadas:** 140 horas
+
+#### 5.2.4.4 Development Evidence for Sprint Review
+
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | b4f638d | feat(security): add password hashing for user authentication | Implement password hashing in both user query and command services to enhance security. The hashing service is now used to verify passwords during login and to hash passwords before storing new user credentials. | 01/07/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | aba3c24  | feat(auth): implement admin authentication with password hashing.  | - Add password field to AdminUserResource<br>- Create LoginAdminRequest model for authentication<br>- Implement login endpoint with password verification<br>- Add password migration endpoint for existing users<br>- Include password testing endpoint for debugging | 02/07/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | ebe2992  | feat(tokens): add JWT token service and configuration | Implement token generation and validation service using JWT with configuration settings | 03/07/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | 2316cdd  | feat(auth): add JWT authentication and authorization middleware | - Configure JWT token settings and add token service<br>- Implement security definition for Swagger UI<br>- Enable authorization middleware in the pipeline | 03/07/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | de6794a  | feat(iam): add anti-corruption layer facade for IAM operations | Implement IamContextFacade as an anti-corruption layer to bridge IAM operations with the existing Users domain. The facade provides methods for user creation, credential validation, and user data retrieval while adapting to the current domain structure. | 04/07/2025 |
+| [Certiweb-Backend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-backend) | master  | fff8969  | feat(users): implement users context facade as anti-corruption layer. | Add UsersContextFacade class to handle user operations between domain and application layers. The facade provides methods for creating user profiles and fetching user information by email or ID, acting as an anti-corruption layer to maintain domain integrity. | 04/07/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | master  | 3a4d225  | feat(auth): add auth service with login and admin login functionality. | Implement authentication service to handle user and admin login requests with proper error handling | 03/07/2025 |
+| [Certiweb-Frontend](https://github.com/Selling-Cars-Quickly-SCQ/certiweb-frontend) | master  | 8693b74  | feat(axios): add axios configuration with interceptors for auth handling. | Add base configuration for axios including request/response interceptors to handle authentication tokens and 401 errors globally. The request interceptor adds JWT tokens from localStorage to requests, while the response interceptor clears expired tokens and emits auth-expired event when 401 is detected. | 03/07/2025 |
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+Para este Sprint 4 se implementaron mejoras significativas en seguridad y autenticación tanto en el backend y el reconocimiento de la autenticación en el frontend.
+
+
+**Autenticación Segura con JWT en el Frontend:**
+<img src="Images/Sprint4auth1.png"/>
+
+**Panel de Usuario con Validación de Tokens en el Backend:**
+<img src="Images/Sprint4auth2.png"/>
+
+**Sistema de Hashing de Contraseñas:**
+<img src="Images/Sprint4security1.png"/>
+
+**Guards de Autenticación en Rutas Protegidas en el Backend Swagger:**
+<img src="Images/Sprint4security2.png"/>
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+Para el Sprint 4 se actualizó la documentación de la API para incluir los nuevos endpoints de autenticación y autorización:
+
+**Documentación de Endpoints de Autenticación:**
+<img src="Images/Sprint4swagger1.png"/>
+
+<img src="Images/Sprint4swagger2.png"/>
+
+<img src="Images/Sprint4swagger3.png"/>
+
+[Acceda al Swagger Actualizado](https://certiweb-backend.onrender.com/swagger/index.html)
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+Para este sprint se implementaron las siguientes mejoras en el despliegue:
+
+- **Actualización de variables de entorno**: Se configuraron nuevas variables para el manejo de JWT y configuraciones de seguridad.
+- **Despliegue con nuevas funcionalidades de seguridad**: Se actualizó el despliegue en Render para incluir las nuevas funcionalidades de autenticación y autorización.
+- **Configuración de CORS actualizada**: Se ajustaron las políticas de CORS para permitir el manejo seguro de tokens JWT.
+
+<img src="Images/Sprint4deploy1.png"/>
+<img src="Images/Sprint4deploy2.png"/>
+<img src="Images/Sprint4deploy3.png"/>
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint
+
+<img src="Images/Sprint4git1.png"/>
+<img src="Images/Sprint4git2.png"/>
+<img src="Images/Sprint4git3.png"/>
+<img src="Images/Sprint4git4.png"/>
+<img src="Images/Sprint4git5.png"/>
+<img src="Images/Sprint4git6.png"/>
 
 ### 5.3. Validation Interview
 Para validar la solución implementada, se realizan entrevistas a candidatos pertenecientes a los segmentos objetivo con el fin de evaluar su nivel de satisfacción y aceptación hacia el producto futuro.
