@@ -2798,13 +2798,13 @@ A continuación, se proporcionan enlaces a las plataformas donde el video ha sid
 
 # Anexos
 
-- Video TB1: [Video]()
+- Video TB1: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EWgaO4I4O3xEmiW0x1jrqosB7ILXKHeAhh9BHs4xYwDgoA?e=Xhm1Ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - Video Trabajo Parcial: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EWgaO4I4O3xEmiW0x1jrqosB7ILXKHeAhh9BHs4xYwDgoA?e=Xhm1Ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Video TB2: [Video]()
+- Video TB2: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Ea-iLmzRjidIsQDEU4G-MkoBBQGwsSRe_sMOrqNfXDh5qQ?e=fefAnX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Video TF: [Video]()
+- Video TF: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EUkW2hCEVZdLouyfHX8XTicBwtgHALFdXWPSDA2DWxvGGA?e=5kfrtR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - Video Entrevistas de Validación: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EZU0yIJfmwlMuuW68sPZiXwB19moUr1G6Kd901z_HEmlOg?e=ryJo1N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
