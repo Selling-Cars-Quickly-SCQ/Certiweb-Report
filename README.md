@@ -2829,7 +2829,7 @@ En este video, el equipo de desarrollo de CertiWeb se presenta y comparte su exp
 
 - Video TB2: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Ea-iLmzRjidIsQDEU4G-MkoBBQGwsSRe_sMOrqNfXDh5qQ?e=fefAnX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Video TF: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EUkW2hCEVZdLouyfHX8XTicBwtgHALFdXWPSDA2DWxvGGA?e=5kfrtR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Video TF: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Efiz-vWw1s1PqqtR3sulZlUBFUA0bR4VMkI3EKITa6OUzA?e=BWjSZU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - Video Entrevistas de Validación: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EZU0yIJfmwlMuuW68sPZiXwB19moUr1G6Kd901z_HEmlOg?e=ryJo1N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
