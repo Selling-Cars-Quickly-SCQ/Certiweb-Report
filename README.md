@@ -2788,13 +2788,38 @@ A continuación, se proporcionan enlaces a las plataformas donde el video ha sid
 
 - **Alineación con los objetivos de negocio**: Los entregables de la fase inicial están alineados con el objetivo de Certiweb de generar confianza y promover la participación de vendedores y compradores.
 
+- **Consolidación técnica del backend y frontend**: Durante esta etapa se logró una integración funcional entre el frontend desarrollado en Vue.js y el backend en .NET 9. Se completó el flujo de autenticación con JWT, la conexión con la base de datos en Railway y el despliegue estable mediante Docker en Render. Esto permitió que el equipo trabaje con una arquitectura real, escalable y segura, lista para pruebas con usuarios.
+
+- **Avance hacia un producto usable**: Se completaron funcionalidades clave como el registro y login de usuarios, la visualización de sesiones de inspección, y los formularios interactivos, lo que permitió contar con una versión preliminar funcional. Estas implementaciones fueron validadas a través de entrevistas de seguimiento, permitiendo ajustar la experiencia de usuario.
+
+- **Preparación para la entrega final**: Con una base sólida a nivel técnico y de experiencia de usuario, el proyecto se encuentra listo para ser refinado, validado y presentado como una solución viable. Se han sentado las bases para la construcción del MVP final de Certiweb, orientado a generar confianza en el proceso de compraventa de autos usados en Perú.
+
+### Video About-the-Team
+
+En este video, el equipo de desarrollo de CertiWeb se presenta y comparte su experiencia trabajando en el proyecto. Los miembros del equipo explican sus roles, las tecnologías utilizadas, los desafíos enfrentados durante el desarrollo y cómo lograron implementar una plataforma completa de inspección técnica vehicular con funcionalidades de backend seguro, autenticación con WebTokens y una interfaz de usuario intuitiva.
+
+<img src="Images/Sprint4AboutTeam.png"/>
+
+[About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EfBMKOEsDglNnP2MUOS79gwBuFhKAuPmM2i7QjYUn0TlDQ?e=WOHe3R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Bibliografía
-- Conventional Commits. (n.d.). Conventional Commits 1.0.0. https://www.conventionalcommits.org/en/v1.0.0/
-- Fowler, M. (n.d.). Ubiquitous language. https://martinfowler.com/bliki/UbiquitousLanguage.html
-- GitHub. (n.d.). GitHub Pages. https://pages.github.com/
-- IBM. (n.d.-a). As-is scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
-- IBM. (n.d.-b). To-be scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+- Asociación Automotriz del Perú. (2023). *Estadísticas del parque automotor peruano*. https://www.aap.org.pe/
+
+- Conventional Commits. (s.f.). *Conventional Commits 1.0.0*. https://www.conventionalcommits.org/en/v1.0.0/
+
+- Fowler, M. (s.f.). *Ubiquitous language*. https://martinfowler.com/bliki/UbiquitousLanguage.html
+
+- GitHub. (s.f.). *GitHub Pages*. https://pages.github.com/
+
+- GitHub. (2025). *GitHub Pages Documentation*. https://docs.github.com/en/pages
+
+- Gothelf, J., & Seiden, J. (2016). *Lean UX: Applying lean principles to improve user experience* (2ª ed.). O'Reilly Media.
+
+- IBM. (s.f.-a). *As-is scenario map*. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+- IBM. (s.f.-b). *To-be scenario map*. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+- Pressman, R. S., & Maxim, B. R. (2020). *Software Engineering: A practitioner's approach* (9ª ed.). McGraw-Hill Education.
 
 # Anexos
 
