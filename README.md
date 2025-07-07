@@ -2810,6 +2810,6 @@ A continuación, se proporcionan enlaces a las plataformas donde el video ha sid
 
 - Video About the Product: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EcRe5QWCUYlPhyd9P4OesvgBfz8M09CvQaB5hUQ7ZO49zQ?e=uTRpsL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Video About the Team: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Ec9dzxps0uJOnCug3ugtqmkBfJhDt6RmVXKHQ0X93HvuyA?e=YEt0yd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Video About the Team: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EfBMKOEsDglNnP2MUOS79gwBuFhKAuPmM2i7QjYUn0TlDQ?e=WOHe3R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [↑ Volver al índice](#índice)
